@@ -1,0 +1,57 @@
+{
+  "site": {
+    "title": "ungrowth",
+    "tagline": "Raw growth. No fluff. Evidence-driven personal development.",
+    "author": "mopi",
+    "domain": "ungrowth.com",
+    "substack": "ungrowth",
+    "twitter": "@ungrowth",
+    "language": "en"
+  },
+  "pipeline": {
+    "schedule": "daily",
+    "max_articles_per_run": 1,
+    "quality_min_score": 7,
+    "style_guide": "Direct, no preamble. Evidence-backed claims. First-principles reasoning. No toxic positivity. No '10 ways to...' listicles unless data-driven. Real stories beat theory."
+  },
+  "sources": {
+    "primary": [
+      "news.ycombinator.com",
+      "reddit.com/r/getdisciplined",
+      "reddit.com/r/productivity",
+      "reddit.com/r/BettermentBookClub",
+      "x.com (growth accounts)"
+    ],
+    "research": [
+      "PubMed (psychology, neuroscience, habit formation)",
+      "Google Scholar",
+      "LessWrong",
+      "Sam Harris / Huberman Lab (transcripts)"
+    ]
+  },
+  "agents": {
+    "research": {
+      "model": "deepseek-v4-flash",
+      "temperature": 0.4,
+      "output": "topic_brief.md"
+    },
+    "writer": {
+      "model": "deepseek-v4-pro",
+      "temperature": 0.7,
+      "output": "draft.md"
+    },
+    "editor": {
+      "model": "deepseek-v4-pro",
+      "temperature": 0.3,
+      "output": "final.md"
+    },
+    "publisher": {
+      "model": "deepseek-v4-flash",
+      "temperature": 0.2
+    },
+    "distribute": {
+      "model": "deepseek-v4-flash",
+      "temperature": 0.3
+    }
+  }
+}
