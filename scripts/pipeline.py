@@ -44,7 +44,7 @@ def call_llm(system, user, model="deepseek-v4-flash", temp=0.5):
     if not api_key:
         raise RuntimeError("DEEPSEEK_API_KEY not found")
 
-    payload = json.dumps({
+    payload_dict = {
         "model": model,
         "messages": [
             {"role": "system", "content": system},
@@ -52,7 +52,11 @@ def call_llm(system, user, model="deepseek-v4-flash", temp=0.5):
         ],
         "temperature": temp,
         "max_tokens": 4096,
-    }).encode()
+    }
+    # Disable thinking mode for speed (Pro defaults to thinking=enabled)
+    # Also allows temperature to work (thinking mode doesn't support temp)
+    payload_dict["thinking"] = {"type": "disabled"}
+    payload = json.dumps(payload_dict).encode()
 
     req = urllib.request.Request(
         "https://api.deepseek.com/v1/chat/completions",
