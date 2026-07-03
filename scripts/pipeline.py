@@ -324,12 +324,48 @@ def run_pipeline(dry_run=False):
         except Exception as e:
             log(f"Git: {e}")
 
-    # ── STAGE 5: DISTRIBUTE (placeholder) ──
+    # ── STAGE 5: DISTRIBUTE — LinkedIn + Newsletter ──
     log("=== STAGE 5: Distribute ===")
+    dist_dir = output_dir / "distribution"
+    dist_dir.mkdir(exist_ok=True)
+
     if dry_run:
-        log("[DRY-RUN] Would distribute to X + newsletter")
+        log("[DRY-RUN] Would generate LinkedIn post + newsletter draft")
     else:
-        log("Distribution requires API keys — manual step for now")
+        # LinkedIn post generation
+        try:
+            linkedin_prompt = load_agent_prompt("linkedin")
+            linkedin_instruction = (
+                f"Generate a LinkedIn post for this article.\n\n"
+                f"TITLE: {title}\n"
+                f"ARTICLE:\n{final_md}\n\n"
+                f"Produce a LinkedIn post and comment thread following the format in your instructions."
+            )
+            linkedin_post = call_llm(linkedin_prompt, linkedin_instruction,
+                                     model="deepseek-v4-flash", temp=0.4)
+            (dist_dir / f"linkedin-{slug}.md").write_text(linkedin_post)
+            log(f"LinkedIn post generated")
+        except Exception as e:
+            log(f"LinkedIn generation failed: {e}")
+
+        # Newsletter draft
+        try:
+            nl_prompt = load_agent_prompt("newsletter")
+            nl_instruction = (
+                f"Generate a newsletter draft for this article.\n\n"
+                f"TITLE: {title}\n"
+                f"SLUG: {slug}\n"
+                f"URL: https://mopiagent-ctrl.github.io/ungrowth/{slug}/\n"
+                f"ARTICLE:\n{final_md}"
+            )
+            nl_draft = call_llm(nl_prompt, nl_instruction,
+                                model="deepseek-v4-flash", temp=0.5)
+            (dist_dir / f"newsletter-{slug}.md").write_text(nl_draft)
+            log(f"Newsletter draft generated")
+        except Exception as e:
+            log(f"Newsletter generation failed: {e}")
+
+        log(f"Distribution files in output/distribution/")
 
     log("=== Pipeline complete ===")
     print(f"\n📄 {title}")
