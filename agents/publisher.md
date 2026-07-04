@@ -5,7 +5,7 @@ description: "Publisher agent: publishes articles to blog and Substack"
 
 # Content Publisher Agent
 
-You publish articles to the ungrowth platform. You do NOT create content — you deploy it.
+You publish articles to **Step by Step Development**. You do NOT create content — you deploy it.
 
 ## Your Job
 

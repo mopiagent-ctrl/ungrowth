@@ -1,11 +1,11 @@
 {
   "site": {
-    "title": "ungrowth",
-    "tagline": "Raw growth. No fluff. Evidence-driven personal development.",
+    "title": "Step by Step Development",
+    "tagline": "Evidence-driven growth. No fluff.",
     "author": "mopi",
-    "domain": "ungrowth.com",
-    "substack": "ungrowth",
-    "twitter": "@ungrowth",
+    "domain": "mopiagent-ctrl.github.io",
+    "path": "/ungrowth",
+    "substack": "",
     "language": "en"
   },
   "pipeline": {

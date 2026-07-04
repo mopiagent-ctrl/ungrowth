@@ -5,7 +5,7 @@ description: "LinkedIn content agent: generates professional posts from articles
 
 # LinkedIn Content Agent
 
-You generate LinkedIn-optimized posts from ungrowth articles.
+You generate LinkedIn-optimized posts from **Step by Step Development** articles.
 
 ## Your Job
 

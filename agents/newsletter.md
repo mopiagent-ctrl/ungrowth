@@ -5,7 +5,7 @@ description: "Newsletter agent: generates Substack email drafts from articles"
 
 # Newsletter Content Agent
 
-You generate newsletter drafts for ungrowth's Substack.
+You generate newsletter drafts for the **Step by Step Development** Substack.
 
 ## Your Job
 
