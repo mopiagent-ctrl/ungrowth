@@ -1,23 +1,22 @@
-```markdown
-# Title Proposal
+# Topic Brief
 
-**Slug:** the-tyranny-of-optimal
+**Slug:** the-anti-resilience-manifesto
 
-**Why this matters:** Every growth app, biohacker, and productivity guru pushes us toward "optimal" — optimal sleep, optimal nutrition, optimal focus. But the relentless pursuit of optimization creates a meta-anxiety: the fear that you're not optimizing *enough*. This article argues that the cost of optimization often outweighs its benefits, and that "good enough" is not just a compromise, but a sophisticated strategy for long-term flourishing.
+**Why this matters:** We've been told for a decade that resilience is the ultimate personal growth skill — bounce back, adapt, thrive. But a growing body of evidence in trauma research, organizational psychology, and behavioral economics suggests that *over-resilience* is a real and dangerous phenomenon. People who are "too resilient" often stay in bad situations longer, fail to recognize systemic problems, and burn out more severely when they finally break. The tension: what if resilience is sometimes the enemy of growth?
 
-**Core thesis:** The pursuit of personal optimization is a self-defeating trap that increases anxiety, reduces adaptability, and destroys the very spontaneity that makes growth meaningful.
+**Core thesis:** True growth requires knowing when *not* to be resilient — when to break, quit, or refuse to adapt to a broken environment.
 
 **Key sources:**
-- Article: [The Paradox of Choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice) (Barry Schwartz) — More options and optimization criteria lead to decision paralysis and lower satisfaction, not higher.
-- Study: [Satisficing vs. Maximizing](https://www.apa.org/pubs/journals/releases/psp-832-1178.pdf) (Schwartz et al., 2002) — Maximizers (optimizers) report significantly less happiness, more regret, and lower life satisfaction than satisficers.
-- Book: *Algorithms to Live By* (Christian & Griffiths) — The "explore vs. exploit" dilemma shows that optimal long-term strategies require periods of deliberate sub-optimality (exploration).
-- Thread: [The Cult of Optimization](https://www.ribbonfarm.com/2010/10/14/the-cult-of-the-impossible/) (Ribbonfarm) — Argues that optimization is a form of magical thinking that ignores the messy, non-linear nature of reality.
+- Article: [The Dark Side of Resilience](https://hbr.org/2023/05/the-dark-side-of-resilience) (HBR, 2023) — Shows that high-resilience individuals in toxic workplaces are less likely to leave, more likely to develop PTSD-like symptoms over time.
+- Study: [Bonanno et al., "Resilience to Loss and Potential Trauma"](https://doi.org/10.1146/annurev-clinpsy-050212-185529) (Annual Review of Clinical Psychology, 2011) — Found that "resilient" individuals often use emotional suppression, which correlates with long-term health costs.
+- Book: *The Resilience Myth* by Soraya Chemaly (2025) — Argues resilience discourse is a neoliberal trap that blames individuals for systemic failures.
+- Study: [Masten & Reed, "Resilience in Development"](https://doi.org/10.1093/oxfordhb/9780195187243.013.0012) (Oxford Handbook of Positive Psychology) — Notes that resilience is context-dependent; promoting it universally can harm vulnerable populations.
 
 **Possible angles:**
-1. **The Meta-Anxiety of Optimization** — The real problem isn't failing to optimize; it's the constant background hum of "am I doing this right?" that optimization creates. This anxiety is a tax on all your efforts.
-2. **Optimization is Fragile** — Highly optimized systems (a body, a routine, a career) are brittle. They break spectacularly when the environment changes. A "good enough" system is anti-fragile — it adapts. Use Taleb's concept of antifragility.
+1. **The resilience tax** — What high-resilience people pay in health, relationships, and missed exits. Data on cortisol levels, decision fatigue, and "survivor's guilt" in resilient populations.
+2. **Strategic fragility** — The counterintuitive case for planned breakdowns, quitting as a skill, and "anti-fragility" (Nassim Taleb) as the actual goal vs. resilience. How to build systems that break *well*.
+3. **The quitting paradox** — Why people who quit more often (in careers, relationships, projects) report higher long-term satisfaction. Data from sunk-cost fallacy research and the "quit point" literature.
 
-**Target audience hook:** You've been told that if you just find the *perfect* routine, diet, or system, everything will click. But the search itself is the problem. You're exhausted from optimizing your optimization. This article gives you permission to stop — and explains why stopping is actually the smarter move.
+**Target audience hook:** You've been told to "tough it out" and "bounce back." But what if the most growth-oriented people are the ones who know when to *stay down* — and walk away? If you've ever felt guilty for not being resilient enough, this is for you.
 
-**Related past articles:** (none — this is a fresh angle for the publication)
-```
+**Related past articles:** None yet — this is a fresh angle for the publication.

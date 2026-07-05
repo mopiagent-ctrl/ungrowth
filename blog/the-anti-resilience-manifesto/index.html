@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Anti-Resilience Manifesto — Step by Step Development</title>
+<style>
+  :root {
+    --bg: #faf9f6; --text: #1a1a1a; --muted: #6b6b6b;
+    --accent: #2563eb; --border: #e0e0e0;
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    --mono: "SF Mono", "Cascadia Code", "JetBrains Mono", monospace;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: var(--font); line-height: 1.7; font-size: 17px;
+    max-width: 720px; margin: 0 auto; padding: 2rem 1.5rem;
+  }
+  nav { margin-bottom: 2rem; font-size: 0.9rem; }
+  nav a { color: var(--muted); }
+  h1 { font-size: 2.2rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.2; margin-bottom: 0.5rem; }
+  h2 { font-size: 1.5rem; font-weight: 700; margin-top: 2.5rem; margin-bottom: 0.8rem; }
+  h3 { font-size: 1.2rem; font-weight: 600; margin-top: 1.5rem; margin-bottom: 0.5rem; }
+  p { margin-bottom: 1.2rem; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+  blockquote {
+    border-left: 3px solid var(--accent); padding-left: 1.2rem;
+    margin: 1.5rem 0; color: var(--muted); font-style: italic;
+  }
+  pre {
+    background: #f0f0f0; padding: 1rem; border-radius: 4px;
+    overflow-x: auto; font-family: var(--mono); font-size: 0.85rem;
+    margin: 1.5rem 0;
+  }
+  code { font-family: var(--mono); font-size: 0.85rem; background: #f0f0f0; padding: 0.1rem 0.3rem; border-radius: 2px; }
+  pre code { background: none; padding: 0; }
+  .meta { font-family: var(--mono); font-size: 0.85rem; color: var(--muted); margin-bottom: 2rem; }
+  article { margin-bottom: 3rem; }
+  article footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border); font-size: 0.9rem; color: var(--muted); }
+</style>
+</head>
+<body>
+<nav><a href="/">← Step by Step Development</a></nav>
+<article>
+<header>
+  <h1>The Anti-Resilience Manifesto</h1>
+  <div class="meta">2026-07-05 · 4 min read · </div>
+</header>
+<h1>The Anti-Resilience Manifesto</h1>
+
+<blockquote>The most dangerous person in a burning building isn't the one who panics — it's the one who's too tough to smell the smoke.</blockquote>
+
+<h2>The Problem</h2>
+
+<p>
+I spent five years in a medical training program that systematically destroyed people. The ones who survived weren't the most talented. They were the most resilient. We wore that label like armor. We bragged about 80-hour weeks, about crying in supply closets and finishing rounds anyway, about the time someone worked through a miscarriage because there was "no one to cover."
+</p>
+
+<p>
+We were idiots.
+</p>
+
+<p>
+Not because we were wrong to be tough. Because we were wrong about what toughness was for. Resilience, as we practiced it, wasn't growth. It was compliance with a broken system. And the evidence is mounting that we've built an entire culture around a version of resilience that keeps people trapped in exactly the situations they should be fleeing.
+</p>
+
+<p>
+A 2023 Harvard Business Review piece on the dark side of resilience found something that should stop you cold: highly resilient employees in toxic workplaces were <em>less</em> likely to leave. They stayed. They adapted. They absorbed abuse and dysfunction and called it strength. Over time, they developed PTSD-like symptoms at rates that outpaced their less-resilient peers. The very quality that kept them employed was the one breaking them.
+</p>
+
+<h2>What The Data Says</h2>
+
+<p>
+George Bonanno's lab at Columbia has been studying resilience to trauma for decades. In a landmark 2011 review in the <em>Annual Review of Clinical Psychology</em>, his team documented something uncomfortable: the "resilient" pattern — people who appear to bounce back quickly after loss or trauma — often relies heavily on emotional suppression. These people look fine. Their cortisol tells a different story. The long-term cardiovascular and metabolic costs of that suppression are real and measurable. They're not bouncing back. They're borrowing against their future health to look okay today.
+</p>
+
+<p>
+Meanwhile, developmental psychologist Ann Masten, who literally wrote the handbook on resilience, has been explicit about context. In the <em>Oxford Handbook of Positive Psychology</em>, she and her co-author note that resilience isn't a universal good. Promoting it indiscriminately — telling everyone to be tougher, more adaptable, more flexible — can actively harm vulnerable populations. If you're in a situation that's genuinely destructive, the adaptive response isn't adaptation. It's exit.
+</p>
+
+<p>
+Soraya Chemaly's book <em>The Resilience Myth</em> goes further. She argues that the entire resilience discourse is a neoliberal sleight of hand: when we tell individuals to be more resilient, we're implicitly telling them that the problem is their response to adversity, not the adversity itself. Your workplace is abusive? Be more resilient. Your economic conditions are crushing? Bounce back. The structural problem gets a free pass while you get a meditation app and a burnout diagnosis.
+</p>
+
+<p>
+This isn't anti-resilience as a concept. It's anti-resilience as a substitute for discernment.
+</p>
+
+<h2>The Counterintuitive Part</h2>
+
+<p>
+Nassim Taleb's concept of antifragility is useful here. Resilient systems survive shocks. Antifragile systems get stronger from them. But here's what's often missed: to be antifragile, you have to be willing to break the parts of the system that aren't working. You can't get stronger from stress if you're using resilience to absorb stress that should be signaling you to change.
+</p>
+
+<p>
+People who quit more often report higher long-term satisfaction. Not because quitting is easy. Because quitting is <em>accurate</em>.
+</p>
+
+<p>
+The sunk-cost fallacy literature is brutal on this point. Humans are terrible at walking away from investments — of time, money, identity — even when all evidence says the investment is toxic. We stay in careers we hate because we've already spent ten years building them. We stay in relationships that hollow us out because leaving feels like admitting failure. Resilience, in these situations, isn't strength. It's an error in cognitive accounting.
+</p>
+
+<p>
+There's a concept from behavioral economics called the "quit point" — the moment when continuing costs more than leaving, even accounting for everything you've already sunk. The research suggests that people who develop an early-warning system for quit points, who practice what you might call <em>strategic fragility</em>, end up with more coherent careers, stronger relationships, and better health.
+</p>
+
+<p>
+The people who grow the most aren't the ones who endure the most. They're the ones who are fastest to recognize when endurance has become the problem.
+</p>
+
+<h2>So What</h2>
+
+<p>
+None of this is an argument for fragility as a lifestyle. It's an argument for resilience with a kill switch.
+</p>
+
+<p>
+The skill isn't "bounce back from anything." The skill is rapid, accurate triage: Is this adversity I should adapt to, or adversity I should exit? Most of us are biased toward adaptation. We've been trained to see quitting as weakness, breaking as failure, walking away as something that requires an apology.
+</p>
+
+<p>
+It doesn't.
+</p>
+
+<p>
+If you're in a workplace that's burning you out, the resilient move might be to leave before you're ash. If you're in a relationship that requires constant suppression of your actual experience, the growth move might be to end it. If you've built an identity around being the person who can handle anything, the most important thing you might ever do is admit you can't handle this — and that you shouldn't have to.
+</p>
+
+<p>
+Track not just how much you're enduring, but what the endurance is costing. Cortisol doesn't lie. Neither do sleep disruptions, weekend dread, or the number of times you say "I'm fine" when you're not. When the cost curve crosses the growth curve, you're not building character. You're building a case for a future breakdown.
+</p>
+
+<h2>The Bottom Line</h2>
+
+<p>
+Resilience without discernment is just compliance with a good PR team. The people who grow the most aren't the ones who never break — they're the ones who know when breaking is the point.
+</p>
+<footer>
+  <p>Evidence-driven growth. No fluff.</p>
+</footer>
+</article>
+</body>
+</html>
