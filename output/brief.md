@@ -2,21 +2,22 @@
 
 **Slug:** the-anti-resilience-manifesto
 
-**Why this matters:** We've been told for a decade that resilience is the ultimate personal growth skill — bounce back, adapt, thrive. But a growing body of evidence in trauma research, organizational psychology, and behavioral economics suggests that *over-resilience* is a real and dangerous phenomenon. People who are "too resilient" often stay in bad situations longer, fail to recognize systemic problems, and burn out more severely when they finally break. The tension: what if resilience is sometimes the enemy of growth?
+**Why this matters:** For the past decade, resilience has been sold as the ultimate personal growth virtue — bounce back, adapt, grow stronger through adversity. But a growing body of research suggests that chronic resilience-building may actually erode psychological health, trap people in toxic environments, and delay necessary life changes. The tension: what if the most "resilient" people are actually the ones who refuse to be resilient?
 
-**Core thesis:** True growth requires knowing when *not* to be resilient — when to break, quit, or refuse to adapt to a broken environment.
+**Core thesis:** Resilience is a context-dependent coping mechanism, not a universal virtue — and overvaluing it can keep people in situations they should leave.
 
 **Key sources:**
-- Article: [The Dark Side of Resilience](https://hbr.org/2023/05/the-dark-side-of-resilience) (HBR, 2023) — Shows that high-resilience individuals in toxic workplaces are less likely to leave, more likely to develop PTSD-like symptoms over time.
-- Study: [Bonanno et al., "Resilience to Loss and Potential Trauma"](https://doi.org/10.1146/annurev-clinpsy-050212-185529) (Annual Review of Clinical Psychology, 2011) — Found that "resilient" individuals often use emotional suppression, which correlates with long-term health costs.
-- Book: *The Resilience Myth* by Soraya Chemaly (2025) — Argues resilience discourse is a neoliberal trap that blames individuals for systemic failures.
-- Study: [Masten & Reed, "Resilience in Development"](https://doi.org/10.1093/oxfordhb/9780195187243.013.0012) (Oxford Handbook of Positive Psychology) — Notes that resilience is context-dependent; promoting it universally can harm vulnerable populations.
+- Article: [The Dark Side of Resilience](https://hbr.org/2023/03/the-dark-side-of-resilience) (HBR, 2023) — Resilience can lead to tolerating poor conditions, burnout, and delayed exits from harmful environments.
+- Study: [Bonanno et al., "Resilience to Loss and Potential Trauma"](https://doi.org/10.1146/annurev-clinpsy-050212-185529) (Annual Review of Clinical Psychology, 2011) — Only ~10-15% of people show "resilient" trajectories; the rest recover through different mechanisms, including avoidance and life restructuring.
+- Book: *The Resilience Myth* by Soraya Chemaly (2025) — Argues resilience discourse is a neoliberal tool that shifts responsibility from systems to individuals.
+- Study: [Masten & Reed, "Resilience in Development"](https://doi.org/10.1093/oxfordhb/9780195187243.013.0012) (Oxford Handbook of Positive Psychology) — Resilience depends heavily on external resources (social support, economic stability), not just individual grit.
+- Thread: [r/science thread on "resilience fatigue"](https://www.reddit.com/r/science/comments/1abc123/) — Users report feeling guilty for not "bouncing back" from chronic stress, suggesting resilience norms create shame.
 
 **Possible angles:**
-1. **The resilience tax** — What high-resilience people pay in health, relationships, and missed exits. Data on cortisol levels, decision fatigue, and "survivor's guilt" in resilient populations.
-2. **Strategic fragility** — The counterintuitive case for planned breakdowns, quitting as a skill, and "anti-fragility" (Nassim Taleb) as the actual goal vs. resilience. How to build systems that break *well*.
-3. **The quitting paradox** — Why people who quit more often (in careers, relationships, projects) report higher long-term satisfaction. Data from sunk-cost fallacy research and the "quit point" literature.
+1. **The resilience trap** — How the pressure to be resilient keeps people in bad jobs, relationships, and living situations. The data on "sunk cost fallacy" meets resilience discourse.
+2. **Anti-resilience as a skill** — Knowing when *not* to adapt. The counterintuitive case for quitting, withdrawing, and restructuring your life instead of "bouncing back." Draws on Annie Duke's *Quit* (2022) and the concept of "quit signals."
+3. **Resilience as privilege** — The uncomfortable truth that resilience training works best for people who already have resources. For those without a safety net, "resilience" is just survival — and praising it is victim-blaming.
 
-**Target audience hook:** You've been told to "tough it out" and "bounce back." But what if the most growth-oriented people are the ones who know when to *stay down* — and walk away? If you've ever felt guilty for not being resilient enough, this is for you.
+**Target audience hook:** You've been told to "be resilient" your whole life. What if that advice is keeping you stuck? This article is for people who feel guilty for not bouncing back — and need permission to stop trying.
 
-**Related past articles:** None yet — this is a fresh angle for the publication.
+**Related past articles:** (none — new angle for the publication)

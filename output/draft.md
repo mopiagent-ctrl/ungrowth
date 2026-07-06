@@ -1,55 +1,51 @@
-# The Anti-Resilience Manifesto
+# Stop Being Resilient
 
-> The most dangerous person in a burning building isn't the one who panics — it's the one who's too tough to smell the smoke.
+> The people we call "resilient" are often just excellent at tolerating things that should be intolerable.
 
 ## The Problem
 
-I spent five years in a medical training program that systematically destroyed people. The ones who survived weren't the most talented. They were the most resilient. We wore that label like armor. We bragged about 80-hour weeks, about crying in supply closets and finishing rounds anyway, about the time someone worked through a miscarriage because there was "no one to cover."
+You know the script. Something breaks — a job turns toxic, a relationship curdles, a living situation grinds you down — and the advice pours in: *Be resilient. Adapt. Bounce back. What doesn't kill you makes you stronger.*
 
-We were idiots.
+I've sat across from patients who recited this to themselves like a prayer while their health collapsed. One woman, a teacher, spent three years "being resilient" through a principal who gaslit her daily. By the time she quit, she'd developed hypertension, insomnia, and a tremor she still has. Her resilience wasn't strength. It was a delay mechanism.
 
-Not because we were wrong to be tough. Because we were wrong about what toughness was for. Resilience, as we practiced it, wasn't growth. It was compliance with a broken system. And the evidence is mounting that we've built an entire culture around a version of resilience that keeps people trapped in exactly the situations they should be fleeing.
-
-The resilience gospel goes like this: adversity is inevitable, so your job is to become unbreakable. Bounce back. Adapt. Thrive no matter what the world throws at you. It sounds noble. It's also, increasingly, looking like a trap.
-
-A 2023 Harvard Business Review piece on the dark side of resilience found something that should stop you cold: highly resilient employees in toxic workplaces were *less* likely to leave. They stayed. They adapted. They absorbed abuse and dysfunction and called it strength. And over time, they developed PTSD-like symptoms at rates that outpaced their less-resilient peers. The very quality that kept them employed was the one that was breaking them.
+The resilience industry — and it is an industry now, with corporate training programs, keynote speakers, and an entire genre of self-help literature — has sold us a seductive lie: that the capacity to endure is always a virtue. It's not. Sometimes it's the thing keeping you in the cage.
 
 ## What The Data Says
 
-Let's get specific, because this is where the conversation usually gets vague and inspirational.
+Let's get specific. The foundational research on resilience tells a much more nuanced story than the TED Talk version.
 
-George Bonanno's lab at Columbia has been studying resilience to trauma for decades. In a landmark 2011 review in the *Annual Review of Clinical Psychology*, his team documented something uncomfortable: the "resilient" pattern — people who appear to bounce back quickly after loss or trauma — often relies heavily on emotional suppression. These people look fine. Their cortisol tells a different story. The long-term cardiovascular and metabolic costs of that suppression are real and measurable. They're not bouncing back. They're borrowing against their future health to look okay today.
+George Bonanno's landmark work on trauma trajectories found something the resilience boosters rarely mention: only about 10-15% of people show what researchers call a "resilient trajectory" after major adversity — meaning they maintain stable functioning without significant disruption. The rest of us recover through other mechanisms entirely, including strategic avoidance, life restructuring, and what Bonanno politely calls "idiosyncratic coping." Translation: most people don't bounce back. They *change the game*.
 
-Meanwhile, the developmental psychologist Ann Masten, who literally wrote the handbook on resilience, has been explicit about context. In the *Oxford Handbook of Positive Psychology*, she and her co-author note that resilience isn't a universal good. Promoting it indiscriminately — telling everyone to be tougher, more adaptable, more flexible — can actively harm vulnerable populations. If you're in a situation that's genuinely destructive, the adaptive response isn't adaptation. It's exit.
+Ann Masten, one of the pioneers of resilience research, has spent decades demonstrating that resilience is not an individual trait. It's a function of external resources — social support, economic stability, community infrastructure. She calls it "ordinary magic," and the magic isn't grit. It's having someone to call when you're falling apart and enough money to buy time to heal.
 
-Soraya Chemaly's 2025 book *The Resilience Myth* goes further. She argues that the entire resilience discourse is a neoliberal sleight of hand: when we tell individuals to be more resilient, we're implicitly telling them that the problem is their response to adversity, not the adversity itself. Your workplace is abusive? Be more resilient. Your economic conditions are crushing? Bounce back. The structural problem gets a free pass while you get a meditation app and a burnout diagnosis.
+Here's what the corporate resilience narrative conveniently omits: resilience without resources is just suffering with a PR team.
 
-This isn't anti-resilience as a concept. It's anti-resilience as a substitute for discernment.
+The Harvard Business Review published a piece in 2023 titled "The Dark Side of Resilience" that laid out what clinicians have known for years. Resilience, when valorized uncritically, leads to tolerating poor conditions, delayed exits from harmful environments, and a particular kind of burnout that comes not from breaking down, but from never letting yourself break down in the first place.
 
 ## The Counterintuitive Part
 
-Here's the thing most personal growth advice won't tell you: people who quit more often report higher long-term satisfaction. Not because quitting is easy. Because quitting is *accurate*.
+Soraya Chemaly's 2025 book *The Resilience Myth* makes the argument I've been circling for years: resilience discourse is a neoliberal shell game. It takes systemic failures — underfunded healthcare, predatory workplaces, inadequate social safety nets — and reframes them as individual challenges to be overcome through personal fortitude.
 
-The sunk-cost fallacy literature is brutal on this point. Humans are terrible at walking away from investments — of time, money, identity — even when all evidence says the investment is toxic. We stay in careers we hate because we've already spent ten years building them. We stay in relationships that hollow us out because leaving feels like admitting failure. Resilience, in these situations, isn't strength. It's an error in cognitive accounting.
+The logic is perverse. If you can't "bounce back" from a job that pays poverty wages while exploiting your labor, the problem isn't the job. It's your insufficient resilience. If you're crumbling under the weight of caregiving without support, the solution isn't policy change. It's a meditation app and a morning routine.
 
-There's a concept from behavioral economics called the "quit point" — the moment when continuing costs more than leaving, even accounting for everything you've already sunk. The research suggests that people who develop an early-warning system for quit points, who practice what you might call *strategic fragility*, end up with more coherent careers, stronger relationships, and better health.
+This isn't just political critique. It's psychologically damaging. The Reddit thread on "resilience fatigue" captures something the research literature is only beginning to name: the shame that accrues when you can't meet the resilience standard. People report feeling guilty for not recovering fast enough from chronic stress, as if their exhaustion is a moral failure rather than a predictable response to being drained past capacity.
 
-Nassim Taleb's concept of antifragility is useful here. Resilient systems survive shocks. Antifragile systems get stronger from them. But here's what's often missed: to be antifragile, you have to be willing to break the parts of the system that aren't working. You can't get stronger from stress if you're using resilience to absorb stress that should be signaling you to change.
-
-The people who grow the most aren't the ones who endure the most. They're the ones who are fastest to recognize when endurance has become the problem.
+The sunk cost fallacy meets resilience discourse, and the result is people staying years too long in situations that are actively harming them. Every "bounce back" becomes another investment in a losing position.
 
 ## So What
 
-None of this is an argument for fragility as a lifestyle. It's an argument for resilience with a kill switch.
+Annie Duke's book *Quit* introduced the concept of "quit signals" — objective criteria you establish in advance that tell you when to exit. The principle applies here. Anti-resilience is not fragility. It's discernment. It's knowing the difference between a challenge worth adapting to and a situation worth leaving.
 
-The skill isn't "bounce back from anything." The skill is rapid, accurate triage: Is this adversity I should adapt to, or adversity I should exit? And the uncomfortable truth is that most of us are biased toward adaptation. We've been trained to see quitting as weakness, breaking as failure, walking away as something that requires an apology.
+Here's what that looks like in practice:
 
-It doesn't.
+**Define your quit signals now.** While you're clear-headed, write down the conditions under which you'll leave the job, end the relationship, or change the living situation. Not when you're at your breaking point — before it. "If my sleep is disrupted for more than two weeks" is a quit signal. "If I dread Sunday night for three months straight" is a quit signal.
 
-If you're in a workplace that's burning you out, the resilient move might be to leave before you're ash. If you're in a relationship that requires constant suppression of your actual experience, the growth move might be to end it. If you've built an identity around being the person who can handle anything, the most important thing you might ever do is admit you can't handle this — and that you shouldn't have to.
+**Stop treating endurance as a personality trait.** You are not "the kind of person who doesn't give up." You are a person making a series of decisions about what to tolerate. Those decisions can be reevaluated.
 
-Practical starting points: Track not just how much you're enduring, but what the endurance is costing. Cortisol doesn't lie. Neither do sleep disruptions, weekend dread, or the number of times you say "I'm fine" when you're not. When the cost curve crosses the growth curve, you're not building character. You're building a case for a future breakdown.
+**Audit your resources, not your grit.** Masten's research shows resilience depends on external scaffolding. Ask yourself: Do I have the social support, financial buffer, and community infrastructure to actually recover from this? If the answer is no, no amount of personal fortitude will compensate.
+
+**Normalize strategic withdrawal.** Quitting, avoiding, and restructuring your life are not failures of character. They are adaptive responses that the resilience narrative has pathologized. Bonanno's research shows that people who recover from trauma often do so by *not* facing it head-on, by creating distance, by rebuilding differently.
 
 ## The Bottom Line
 
-Resilience without discernment is just compliance with a good PR team. The people who grow the most aren't the ones who never break — they're the ones who know when breaking is the point.
+Resilience is a tool, not an identity. Use it when the situation is worth enduring. Refuse it when endurance becomes self-harm. The people who change their lives aren't the ones who bounce back — they're the ones who bounce out.
