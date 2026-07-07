@@ -1,33 +1,28 @@
+Subject: Stop being resilient (it’s keeping you stuck)
 Subject: The resilience trap (and what to do instead)
-Subject: You're too tough for your own good
-Subject: Why I stopped being "resilient"
+Subject: You’re not weak. You’re tolerating the intolerable.
 
-Preview: The most dangerous person in a burning building isn't the one who panics — it's the one who's too tough to smell the smoke.
+Preview: The people we call “resilient” are often just excellent at tolerating things that should be intolerable.
 
 ---
 
 Hey,
 
-I spent five years in a medical training program that systematically destroyed people. The ones who survived weren't the most talented. They were the most resilient. We wore that label like armor. We bragged about 80-hour weeks, about crying in supply closets and finishing rounds anyway, about the time someone worked through a miscarriage because there was "no one to cover."
+I spent years as a doctor watching people slowly break themselves against the wall of “being resilient.” They’d come in with migraines, insomnia, gut issues—the physical scorecard of a life spent enduring the unendurable. And every single one of them had been told, by someone they trusted, that the answer was to *tough it out*.
 
-We were idiots.
+I’ve been there too. There’s a version of me that would have stayed in a bad situation for years, telling myself I was just “adaptable.” That I could handle it. That quitting was for people who weren’t strong enough.
 
-Not because we were wrong to be tough. Because we were wrong about what toughness was for. Resilience, as we practiced it, wasn't growth. It was compliance with a broken system.
+This week’s article is the slap in the face I needed back then.
 
 **Key insight from this week:**
+Resilience, when valorized uncritically, becomes a delay mechanism. It keeps you in the cage, tolerating conditions that are actively harming you. The research—from Bonanno, Masten, and others—shows that real recovery rarely comes from “bouncing back.” It comes from changing the game entirely. Strategic withdrawal, life restructuring, and quitting are not failures. They are adaptive responses we’ve been taught to pathologize.
 
-A 2023 Harvard Business Review piece found something that should stop you cold: highly resilient employees in toxic workplaces were *less* likely to leave. They stayed. They adapted. They absorbed abuse and dysfunction and called it strength. Over time, they developed PTSD-like symptoms at rates that outpaced their less-resilient peers. The very quality that kept them employed was the one breaking them.
+I’ve seen this play out in real time. A patient of mine, a teacher, spent three years “being resilient” through a boss who gaslit her daily. By the time she left, her body had kept a meticulous record of every month she stayed. Her resilience wasn’t strength. It was suffering with a PR team.
 
-This hit me hard because I've been that person. I've been the one who stays because I can "handle it." I've worn the 80-hour weeks like a badge of honor. I've told myself that my ability to endure was proof of my strength — when really, it was proof that I'd lost the ability to recognize when endurance had become the problem.
+The article introduces the concept of **quit signals**—objective criteria you set *before* you’re at your breaking point. It’s the most practical thing I’ve read all year. Define them now, while you’re clear-headed. “If my sleep is disrupted for more than two weeks” is a quit signal. “If I dread Sunday night for three months straight” is a quit signal.
 
-The data backs this up. George Bonanno's lab at Columbia found that the "resilient" pattern — people who appear to bounce back quickly — often relies on emotional suppression. These people look fine. Their cortisol tells a different story. They're not bouncing back. They're borrowing against their future health to look okay today.
+Stop treating endurance as a personality trait. You are not “the kind of person who doesn’t give up.” You are a person making a series of decisions about what to tolerate. And those decisions can be reevaluated.
 
-So here's what I'm trying to learn instead: resilience with a kill switch. The skill isn't "bounce back from anything." The skill is rapid, accurate triage — is this adversity I should adapt to, or adversity I should exit?
+Have you ever stayed in a situation too long because you thought quitting meant you weren’t strong enough? I’d love to hear your story—just hit reply.
 
-Track not just how much you're enduring, but what the endurance is costing. Cortisol doesn't lie. Neither do sleep disruptions, weekend dread, or the number of times you say "I'm fine" when you're not.
-
-When the cost curve crosses the growth curve, you're not building character. You're building a case for a future breakdown.
-
-What's one thing you're currently enduring that you probably shouldn't be?
-
-[Read the full article →](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)
+Read the full article → [https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)

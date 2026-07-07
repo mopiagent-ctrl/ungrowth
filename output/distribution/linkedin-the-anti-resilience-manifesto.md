@@ -2,33 +2,37 @@ Here is the LinkedIn post and comment thread based on the article.
 
 ---
 
-**The most dangerous person in a burning building isn’t the one who panics — it’s the one who’s too tough to smell the smoke.**
+**LinkedIn Post**
 
-I spent five years in a medical training program that systematically destroyed people. The ones who survived weren’t the most talented. They were the most resilient. We wore that label like armor.
+The people we call "resilient" are often just excellent at tolerating things that should be intolerable.
 
-We were wrong about what toughness was for.
+I used to believe resilience was the ultimate professional virtue. Bounce back. Adapt. What doesn't kill you makes you stronger. I repeated this to myself through toxic jobs and grinding schedules.
 
-A 2023 Harvard Business Review study found that highly resilient employees in toxic workplaces were *less* likely to leave. They stayed. They absorbed dysfunction and called it strength. Over time, they developed PTSD-like symptoms at rates that outpaced their less-resilient peers.
+Then I sat across from a patient who had spent three years "being resilient" through a gaslighting principal. By the time she quit, her body had kept a meticulous record of every month she stayed. Her resilience wasn't strength. It was a delay mechanism.
 
-George Bonanno’s lab at Columbia showed that the “resilient” pattern often relies on emotional suppression. These people look fine. Their cortisol tells a different story. They’re not bouncing back. They’re borrowing against their future health.
+A 2024 review of George Bonanno's trauma research reveals what the TED Talk version omits: only 10-15% of people show a "resilient trajectory." The rest recover through strategic avoidance, life restructuring, and changing the game entirely. Ann Masten's work shows resilience isn't a trait—it's a function of external resources. Social support. Financial buffer. Community infrastructure.
 
-The skill isn’t “bounce back from anything.” The skill is rapid, accurate triage: Is this adversity I should adapt to, or adversity I should exit?
+Here's what the corporate resilience narrative conveniently omits: resilience without resources is just suffering with a PR team.
 
-If you’re in a workplace that’s burning you out, the resilient move might be to leave before you’re ash. If you’ve built an identity around being the person who can handle anything, the most important thing you might ever do is admit you can’t handle this — and that you shouldn’t have to.
+The counterintuitive shift: Stop treating endurance as a personality trait. You are not "the kind of person who doesn't give up." You are a person making a series of decisions about what to tolerate. Define your quit signals now—while you're clear-headed. "If my sleep is disrupted for two weeks" is a signal. "If I dread Sunday night for three months" is a signal.
 
-Resilience without discernment is just compliance with a good PR team.
+Resilience is a tool, not an identity. Use it when the situation is worth enduring. Refuse it when endurance becomes self-harm.
 
-What’s your experience with knowing when to stay vs. when to walk away?
+The people who change their lives aren't the ones who bounce back. They're the ones who bounce out.
+
+What's one quit signal you've set for yourself?
 
 #Resilience #MentalHealth #Leadership #Burnout #PersonalGrowth
 
 ---
 
-**Comment 1:**
-I dove deeper into the data on this — including the sunk-cost fallacy research and Nassim Taleb’s antifragility concept — in my latest article. Link in comments.
+**Comment Thread**
 
-**Comment 2 (reply to predicted FAQ: "So you're saying resilience is bad?"):**
-Not at all. I’m saying resilience without a kill switch is dangerous. The goal is *strategic fragility* — knowing when to adapt and when to exit. The people who grow the most aren’t the ones who endure the most. They’re the ones fastest to recognize when endurance has become the problem.
+**Comment 1 (Author):**
+I dove deeper into this in my latest article—including the research on "quit signals" from Annie Duke and the systemic critique from Soraya Chemaly. Link in the comments below.
 
-**Comment 3 (reply to predicted counterargument: "Quitting is just giving up"):**
-I used to believe that too. Then I looked at the data. People who quit more often report higher long-term satisfaction — not because quitting is easy, but because quitting is *accurate*. Staying in a toxic situation because you’ve already invested years isn’t strength. It’s an error in cognitive accounting.
+**Comment 2 (Reply to predicted FAQ: "But isn't quitting just giving up?"):**
+This is the most common pushback I get. The key distinction: quitting isn't abandoning a challenge you chose. It's exiting a situation that's actively harming you. Bonanno's research shows that people who recover from trauma often do so by *not* facing it head-on—by creating distance and rebuilding differently. Strategic withdrawal is an adaptive response we've pathologized.
+
+**Comment 3 (Reply to predicted counterargument: "Some situations require resilience—you can't just quit everything"):**
+Absolutely agree. The point isn't to never endure. It's to stop valorizing endurance as the *only* virtue. Resilience is a tool, not an identity. Use it when the situation is worth adapting to. Refuse it when endurance becomes self-harm. The discernment between the two is the skill we should be teaching—not just "be tougher."
