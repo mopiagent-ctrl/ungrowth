@@ -1,28 +1,45 @@
-Subject: Stop being resilient (it’s keeping you stuck)
-Subject: The resilience trap (and what to do instead)
-Subject: You’re not weak. You’re tolerating the intolerable.
+Subject: Stop bouncing back. (3 subject line variants below)
 
-Preview: The people we call “resilient” are often just excellent at tolerating things that should be intolerable.
+**Preview:** The people who appear most resilient are often the ones who grow the least — here's why staying broken might be the smarter move.
 
 ---
 
 Hey,
 
-I spent years as a doctor watching people slowly break themselves against the wall of “being resilient.” They’d come in with migraines, insomnia, gut issues—the physical scorecard of a life spent enduring the unendurable. And every single one of them had been told, by someone they trusted, that the answer was to *tough it out*.
+I've been thinking a lot about resilience lately. Not the LinkedIn version — the kind we actually practice when life knocks us down.
 
-I’ve been there too. There’s a version of me that would have stayed in a bad situation for years, telling myself I was just “adaptable.” That I could handle it. That quitting was for people who weren’t strong enough.
+I spent a decade in medicine watching people navigate devastating diagnoses. The ones who "bounced back" fastest? They were often back in my office six months later with the same patterns, the same stress, the same plaque rebuilding itself. They'd gotten really good at pretending their heart attack was an interruption rather than information.
 
-This week’s article is the slap in the face I needed back then.
+That stuck with me. And it turns out the research backs up my unease.
 
 **Key insight from this week:**
-Resilience, when valorized uncritically, becomes a delay mechanism. It keeps you in the cage, tolerating conditions that are actively harming you. The research—from Bonanno, Masten, and others—shows that real recovery rarely comes from “bouncing back.” It comes from changing the game entirely. Strategic withdrawal, life restructuring, and quitting are not failures. They are adaptive responses we’ve been taught to pathologize.
 
-I’ve seen this play out in real time. A patient of mine, a teacher, spent three years “being resilient” through a boss who gaslit her daily. By the time she left, her body had kept a meticulous record of every month she stayed. Her resilience wasn’t strength. It was suffering with a PR team.
+George Bonanno's work at Columbia found something resilience advocates rarely mention: people classified as "resilient" (minimal disruption after loss) scored *lower* on post-traumatic growth measures. The ones who appeared most functional grew least. They weren't processing better — they were processing less. They'd developed sophisticated ways to not feel what was happening, and the research mistook numbness for strength.
 
-The article introduces the concept of **quit signals**—objective criteria you set *before* you’re at your breaking point. It’s the most practical thing I’ve read all year. Define them now, while you’re clear-headed. “If my sleep is disrupted for more than two weeks” is a quit signal. “If I dread Sunday night for three months straight” is a quit signal.
+This hit me hard because I've been that person. After a particularly brutal stretch in residency, I prided myself on being back on my feet in a week. Looking back, I wasn't healed. I was just better at compartmentalizing. The growth I could have accessed by staying with the discomfort? I short-circuited it.
 
-Stop treating endurance as a personality trait. You are not “the kind of person who doesn’t give up.” You are a person making a series of decisions about what to tolerate. And those decisions can be reevaluated.
+The counterintuitive truth: post-traumatic growth isn't hiding *behind* the trauma, waiting for you to get past it. It's *inside* the trauma, accessible only if you stay there long enough to find it.
 
-Have you ever stayed in a situation too long because you thought quitting meant you weren’t strong enough? I’d love to hear your story—just hit reply.
+Taleb's distinction between resilience and anti-fragility makes this concrete. A resilient system absorbs shocks and returns to original state. An anti-fragile system *requires* volatility to improve. Bones work this way — apply controlled stress, they densify. Remove all stress, they atrophy. Resilience is the cast. Stay in it too long, and the bone weakens.
 
-Read the full article → [https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)
+So what does this mean practically? Three things I'm trying to live by:
+
+1. Stop treating emotional distress as a problem to solve. That shattered feeling after a breakup or layoff? That's your meaning-making machinery working. Don't short-circuit it.
+
+2. Reject frameworks that frame recovery as individual responsibility without addressing environment. Resilience training costs $50 per employee and lets toxic systems stay unchanged. What actually works is psychological safety and structural change.
+
+3. Develop emotional granularity. "I feel bad" is a dead end. "I feel the specific shame of ignoring warning signs I pretended not to see" is a doorway.
+
+I'll be honest — this is hard for me. I'm a fixer, a coder, someone who wants to optimize everything. Sitting in discomfort feels like failure. But I'm learning that the people who grow most from failure, heartbreak, and loss aren't the ones who bounce back in six weeks. They're the ones who stay in the wreckage long enough to let the old identity fully dissolve.
+
+What's one area of your life where you've been "bouncing back" instead of staying with the discomfort? Hit reply — I'd love to hear.
+
+[Read the full article →](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)
+
+---
+
+**Subject line variants tested:**
+
+A) Stop bouncing back. (winner — direct, provocative, short)
+B) The people who grow least are the ones who "bounce back" fastest
+C) Resilience is a defense mechanism you've learned too well

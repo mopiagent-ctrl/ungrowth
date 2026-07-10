@@ -4,35 +4,36 @@ Here is the LinkedIn post and comment thread based on the article.
 
 **LinkedIn Post**
 
-The people we call "resilient" are often just excellent at tolerating things that should be intolerable.
+I used to believe resilience was the highest form of strength. Now I think it’s a sophisticated way to avoid growth.
 
-I used to believe resilience was the ultimate professional virtue. Bounce back. Adapt. What doesn't kill you makes you stronger. I repeated this to myself through toxic jobs and grinding schedules.
+A decade in medicine taught me something uncomfortable. The patients who "bounced back" fastest from a heart attack were often the ones who returned six months later with the same stress patterns, the same lifestyle, the same plaque rebuilding cell by cell. They hadn't transformed. They’d gotten better at pretending the heart attack was an interruption rather than information.
 
-Then I sat across from a patient who had spent three years "being resilient" through a gaslighting principal. By the time she quit, her body had kept a meticulous record of every month she stayed. Her resilience wasn't strength. It was a delay mechanism.
+George Bonanno’s research at Columbia confirms this. Individuals classified as "resilient" after trauma showed significantly lower scores on post-traumatic growth. The people who appeared most functional were the ones who grew least. They weren't processing better. They were processing less.
 
-A 2024 review of George Bonanno's trauma research reveals what the TED Talk version omits: only 10-15% of people show a "resilient trajectory." The rest recover through strategic avoidance, life restructuring, and changing the game entirely. Ann Masten's work shows resilience isn't a trait—it's a function of external resources. Social support. Financial buffer. Community infrastructure.
+Peter Levine’s work explains why. When a threat passes, the body needs to complete the physiological response cycle—shaking, discharging energy. "Bouncing back" interrupts this. The activation gets stored as chronic tension. Resilience, as commonly practiced, is that interruption.
 
-Here's what the corporate resilience narrative conveniently omits: resilience without resources is just suffering with a PR team.
+The counterintuitive truth: post-traumatic growth isn’t hiding behind the trauma. It’s *inside* the trauma, accessible only if you stay there long enough to find it.
 
-The counterintuitive shift: Stop treating endurance as a personality trait. You are not "the kind of person who doesn't give up." You are a person making a series of decisions about what to tolerate. Define your quit signals now—while you're clear-headed. "If my sleep is disrupted for two weeks" is a signal. "If I dread Sunday night for three months" is a signal.
+What actually works:
+- Stop treating emotional distress as a malfunction. It’s your meaning-making machinery working.
+- Reject frameworks that frame burnout as an individual resilience problem. The problem is often the 60-hour weeks and the toxic manager.
+- Develop emotional granularity. Distinguishing "betrayal" from "disappointment" is the doorway to insight.
 
-Resilience is a tool, not an identity. Use it when the situation is worth enduring. Refuse it when endurance becomes self-harm.
+Resilience promises you can go through hell and come out the same person. The people who grow come out different—and that requires staying in the fire long enough to let the old self burn.
 
-The people who change their lives aren't the ones who bounce back. They're the ones who bounce out.
+What’s a time you stayed in the wreckage instead of bouncing back?
 
-What's one quit signal you've set for yourself?
-
-#Resilience #MentalHealth #Leadership #Burnout #PersonalGrowth
+#PersonalGrowth #MentalHealth #EvidenceBased #Leadership #Resilience
 
 ---
 
 **Comment Thread**
 
 **Comment 1 (Author):**
-I dove deeper into this in my latest article—including the research on "quit signals" from Annie Duke and the systemic critique from Soraya Chemaly. Link in the comments below.
+I dove deeper into the research behind this—including Bonanno’s data on emotional granularity and Taleb’s anti-fragility framework—in my latest article. Link in the comments for anyone who wants the full breakdown.
 
-**Comment 2 (Reply to predicted FAQ: "But isn't quitting just giving up?"):**
-This is the most common pushback I get. The key distinction: quitting isn't abandoning a challenge you chose. It's exiting a situation that's actively harming you. Bonanno's research shows that people who recover from trauma often do so by *not* facing it head-on—by creating distance and rebuilding differently. Strategic withdrawal is an adaptive response we've pathologized.
+**Comment 2 (Reply to predicted FAQ: "Isn't resilience just about coping? How do you function without it?"):**
+Great question. There’s a difference between *acute* coping (getting through a crisis) and *chronic* resilience (the belief that you should always return to baseline). The first is necessary. The second is what I’m questioning. The goal isn’t to fall apart forever—it’s to let the old identity fully dissolve before building a new one. That takes months, not weeks.
 
-**Comment 3 (Reply to predicted counterargument: "Some situations require resilience—you can't just quit everything"):**
-Absolutely agree. The point isn't to never endure. It's to stop valorizing endurance as the *only* virtue. Resilience is a tool, not an identity. Use it when the situation is worth adapting to. Refuse it when endurance becomes self-harm. The discernment between the two is the skill we should be teaching—not just "be tougher."
+**Comment 3 (Reply to predicted counterargument: "This sounds like glorifying suffering"):**
+I hear this concern, and it’s valid. I’m not advocating for suffering for its own sake. I’m pointing out that the research shows *premature* recovery blocks growth. The distinction is between pain that is processed (which leads to insight) and pain that is suppressed (which leads to chronic tension and stagnation). The data is clear on which one correlates with long-term well-being.
