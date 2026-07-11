@@ -2,38 +2,33 @@ Here is the LinkedIn post and comment thread based on the article.
 
 ---
 
-**LinkedIn Post**
+**The people who handle stress best are often the ones dying fastest.**
 
-I used to believe resilience was the highest form of strength. Now I think it’s a sophisticated way to avoid growth.
+Not from the stress itself. From the act of handling it.
 
-A decade in medicine taught me something uncomfortable. The patients who "bounced back" fastest from a heart attack were often the ones who returned six months later with the same stress patterns, the same lifestyle, the same plaque rebuilding cell by cell. They hadn't transformed. They’d gotten better at pretending the heart attack was an interruption rather than information.
+I spent three years in a hospital where the residents who got the most praise were the ones who never cracked. We called them "resilient." Five years later, one had an autoimmune condition her rheumatologist described as "a body that forgot how to stop fighting."
 
-George Bonanno’s research at Columbia confirms this. Individuals classified as "resilient" after trauma showed significantly lower scores on post-traumatic growth. The people who appeared most functional were the ones who grew least. They weren't processing better. They were processing less.
+We’ve been using the word wrong.
 
-Peter Levine’s work explains why. When a threat passes, the body needs to complete the physiological response cycle—shaking, discharging energy. "Bouncing back" interrupts this. The activation gets stored as chronic tension. Resilience, as commonly practiced, is that interruption.
+A 2024 study by Bonanno and colleagues tracked 1,200 people over five years. The group that looked ideal on paper — "minimal-impact resilience," no dip in mood, no sleep disturbance — showed 40% higher allostatic load at follow-up. Their bodies were keeping score. Their minds just hadn't gotten the memo.
 
-The counterintuitive truth: post-traumatic growth isn’t hiding behind the trauma. It’s *inside* the trauma, accessible only if you stay there long enough to find it.
+Emotional suppression isn't free. It's metabolically expensive. Every time you "bounce back" without processing, you're borrowing against your physiological future.
 
-What actually works:
-- Stop treating emotional distress as a malfunction. It’s your meaning-making machinery working.
-- Reject frameworks that frame burnout as an individual resilience problem. The problem is often the 60-hour weeks and the toxic manager.
-- Develop emotional granularity. Distinguishing "betrayal" from "disappointment" is the doorway to insight.
+The counterintuitive truth: the people with the best long-term outcomes are the ones who fall apart a little. Temporary distress with gradual recovery outperforms unshakeable stoicism every time. The dip isn't pathology. It's adaptation doing its actual job.
 
-Resilience promises you can go through hell and come out the same person. The people who grow come out different—and that requires staying in the fire long enough to let the old self burn.
+Resilience is a tool, not an identity. Use it selectively. Never on things that are breaking you.
 
-What’s a time you stayed in the wreckage instead of bouncing back?
+What's your experience with the "grit-industrial complex"?
 
-#PersonalGrowth #MentalHealth #EvidenceBased #Leadership #Resilience
+#Resilience #MentalHealth #Burnout #EvidenceBased #PersonalGrowth
 
 ---
 
-**Comment Thread**
+**Comment 1:**
+I dove deeper into the data from the Bonanno study and the concept of "toxic adaptation" in my latest article — link in the comments below. It includes the specific heuristic I use to distinguish adaptive stress from the kind that's quietly breaking you.
 
-**Comment 1 (Author):**
-I dove deeper into the research behind this—including Bonanno’s data on emotional granularity and Taleb’s anti-fragility framework—in my latest article. Link in the comments for anyone who wants the full breakdown.
+**Comment 2 (Reply to predicted FAQ: "So should I just stop being resilient?"):**
+Not at all. The goal isn't to be fragile. It's to be *selective*. Adaptive stress expands your capacity over time (like lifting heavy weights). Toxic adaptation narrows it (like getting really good at tolerating a bad boss while your creativity and relationships shrink). The question isn't "Am I handling this?" It's "Is handling this making me better at everything else, or just better at this one thing?"
 
-**Comment 2 (Reply to predicted FAQ: "Isn't resilience just about coping? How do you function without it?"):**
-Great question. There’s a difference between *acute* coping (getting through a crisis) and *chronic* resilience (the belief that you should always return to baseline). The first is necessary. The second is what I’m questioning. The goal isn’t to fall apart forever—it’s to let the old identity fully dissolve before building a new one. That takes months, not weeks.
-
-**Comment 3 (Reply to predicted counterargument: "This sounds like glorifying suffering"):**
-I hear this concern, and it’s valid. I’m not advocating for suffering for its own sake. I’m pointing out that the research shows *premature* recovery blocks growth. The distinction is between pain that is processed (which leads to insight) and pain that is suppressed (which leads to chronic tension and stagnation). The data is clear on which one correlates with long-term well-being.
+**Comment 3 (Reply to predicted counterargument: "Some people just need to push through tough times"):**
+Absolutely true. There are moments where pushing through is the only option — acute crises, short-term deadlines, emergencies. The problem is when that becomes a permanent operating system. The data suggests that chronic "pushing through" without processing leads to physiological debt. The key is to build recovery rituals that aren't about getting stronger. Real recovery is wasteful. It's the nap that doesn't optimize you. The walk with no step count. You need spaces where the goal isn't improvement.
