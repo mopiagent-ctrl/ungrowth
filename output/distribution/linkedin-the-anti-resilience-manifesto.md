@@ -2,33 +2,37 @@ Here is the LinkedIn post and comment thread based on the article.
 
 ---
 
-**The people who handle stress best are often the ones dying fastest.**
+**LinkedIn Post**
 
-Not from the stress itself. From the act of handling it.
+I used to think resilience was my superpower. Then I realized it was just the bill I was paying to stay in a broken system.
 
-I spent three years in a hospital where the residents who got the most praise were the ones who never cracked. We called them "resilient." Five years later, one had an autoimmune condition her rheumatologist described as "a body that forgot how to stop fighting."
+For three years, I was the poster child for grit. I bounced back from 80-hour weeks, toxic leadership, and the slow erosion of my personal life. Colleagues admired my "mental toughness." I admired it too.
 
-We’ve been using the word wrong.
+Then I crashed. Not a dramatic collapse—just a quiet emptiness where curiosity used to live. I’d wake up and calculate how many hours until I could go back to sleep.
 
-A 2024 study by Bonanno and colleagues tracked 1,200 people over five years. The group that looked ideal on paper — "minimal-impact resilience," no dip in mood, no sleep disturbance — showed 40% higher allostatic load at follow-up. Their bodies were keeping score. Their minds just hadn't gotten the memo.
+A 2023 study in *Emotion* tracked people through repeated stressors. The finding? High-resilience individuals didn't bounce back faster. They showed *greater* cognitive depletion after each cycle. They were burning more fuel to keep performing "okay."
 
-Emotional suppression isn't free. It's metabolically expensive. Every time you "bounce back" without processing, you're borrowing against your physiological future.
+Resilience is a tax. And the bill always comes due.
 
-The counterintuitive truth: the people with the best long-term outcomes are the ones who fall apart a little. Temporary distress with gradual recovery outperforms unshakeable stoicism every time. The dip isn't pathology. It's adaptation doing its actual job.
+The most growth-oriented move I ever made was not becoming more resilient. It was quitting. I left the environment that demanded constant coping, and suddenly I didn’t need resilience anymore.
 
-Resilience is a tool, not an identity. Use it selectively. Never on things that are breaking you.
+We need to stop asking "how do I become more resilient?" and start asking "what needs to change so I don't need resilience?"
 
-What's your experience with the "grit-industrial complex"?
+For leaders: stop teaching people to cope with burnout. Eliminate the conditions that produce it. Reasonable workloads, psychological safety, actual autonomy—these aren't perks. They're the alternative to extracting resilience taxes until your people collapse.
 
-#Resilience #MentalHealth #Burnout #EvidenceBased #PersonalGrowth
+What’s one situation where "being resilient" kept you in a place you should have left?
+
+#Resilience #Burnout #Leadership #MentalHealth #WorkCulture
 
 ---
 
-**Comment 1:**
-I dove deeper into the data from the Bonanno study and the concept of "toxic adaptation" in my latest article — link in the comments below. It includes the specific heuristic I use to distinguish adaptive stress from the kind that's quietly breaking you.
+**Comment Thread**
 
-**Comment 2 (Reply to predicted FAQ: "So should I just stop being resilient?"):**
-Not at all. The goal isn't to be fragile. It's to be *selective*. Adaptive stress expands your capacity over time (like lifting heavy weights). Toxic adaptation narrows it (like getting really good at tolerating a bad boss while your creativity and relationships shrink). The question isn't "Am I handling this?" It's "Is handling this making me better at everything else, or just better at this one thing?"
+**Comment 1 (Author):**
+I dove deeper into the data on this—including the meta-analysis from *Clinical Psychology Review* showing that resilience interventions have near-zero effect on long-term well-being when the stressor is chronic. Link to the full article in the comments below.
 
-**Comment 3 (Reply to predicted counterargument: "Some people just need to push through tough times"):**
-Absolutely true. There are moments where pushing through is the only option — acute crises, short-term deadlines, emergencies. The problem is when that becomes a permanent operating system. The data suggests that chronic "pushing through" without processing leads to physiological debt. The key is to build recovery rituals that aren't about getting stronger. Real recovery is wasteful. It's the nap that doesn't optimize you. The walk with no step count. You need spaces where the goal isn't improvement.
+**Comment 2 (Reply to predicted FAQ: "But isn't quitting just giving up?"):**
+This is the most common pushback I get. There's a critical difference between quitting a temporary challenge (a hard project, a steep learning curve) and quitting a chronic drain (a toxic system, a grinding environment). The first is growth. The second is pattern recognition. Visakan Veerasamy calls quitting "the most underrated growth skill"—the ability to see that continued effort in a broken system is not perseverance but a failure of discernment.
+
+**Comment 3 (Reply to predicted counterargument: "Some people just need more grit"):**
+I hear this a lot, and it's worth unpacking. When we tell a single mother working three jobs that she needs more grit, we're not empowering her—we're excusing the system that demands she be superhuman. The *New Yorker* called this "blame the victim culture disguised as empowerment." The most resilient people I know aren't the ones who endured the most. They're the ones who knew when to stop enduring and change the environment instead.
