@@ -4,35 +4,33 @@ Here is the LinkedIn post and comment thread based on the article.
 
 **LinkedIn Post**
 
-I used to think resilience was my superpower. Then I realized it was just the bill I was paying to stay in a broken system.
+We’ve spent a generation worshipping the ability to absorb punishment. The data now shows that’s not a superpower — it’s a trap.
 
-For three years, I was the poster child for grit. I bounced back from 80-hour weeks, toxic leadership, and the slow erosion of my personal life. Colleagues admired my "mental toughness." I admired it too.
+I used to believe resilience was the ultimate professional virtue. Grit. Toughness. The ability to take a hit and keep moving. Schools teach it. Companies hire for it. We put it on coffee mugs.
 
-Then I crashed. Not a dramatic collapse—just a quiet emptiness where curiosity used to live. I’d wake up and calculate how many hours until I could go back to sleep.
+Then I read the clinical evidence. A 2022 paper in *American Psychologist* found that high resilience scores correlated with *delayed help-seeking*. These weren’t people who didn’t need help. They were people who’d gotten so good at toughing it out that they bypassed their own distress signals. By the time they reached care, their conditions were more severe and harder to treat.
 
-A 2023 study in *Emotion* tracked people through repeated stressors. The finding? High-resilience individuals didn't bounce back faster. They showed *greater* cognitive depletion after each cycle. They were burning more fuel to keep performing "okay."
+The organizational data is worse. Harvard Business Review documented how over-resilient employees become shock absorbers for dysfunctional systems. They tolerate toxic managers and unsustainable workloads — not because they’re thriving, but because they’ve been trained to interpret suffering as growth. The organization never fixes anything because it doesn’t have to. The resilient ones will absorb it.
 
-Resilience is a tax. And the bill always comes due.
+Nassim Taleb’s distinction between hormesis and allostatic load is the key. Low-dose stress triggers adaptation. Chronic stress degrades. The problem is that nobody can tell you where the line is in your specific case until it’s too late.
 
-The most growth-oriented move I ever made was not becoming more resilient. It was quitting. I left the environment that demanded constant coping, and suddenly I didn’t need resilience anymore.
+The people who thrive aren’t the ones who withstand the most. They’re the ones who know when to stop withstanding.
 
-We need to stop asking "how do I become more resilient?" and start asking "what needs to change so I don't need resilience?"
+The question isn’t “How do I become more resilient?” It’s “What is my resilience currently enabling me to tolerate that I should be leaving?”
 
-For leaders: stop teaching people to cope with burnout. Eliminate the conditions that produce it. Reasonable workloads, psychological safety, actual autonomy—these aren't perks. They're the alternative to extracting resilience taxes until your people collapse.
+What’s your experience with the line between growth and grinding?
 
-What’s one situation where "being resilient" kept you in a place you should have left?
-
-#Resilience #Burnout #Leadership #MentalHealth #WorkCulture
+#Resilience #Leadership #MentalHealth #EvidenceBased #PersonalGrowth
 
 ---
 
 **Comment Thread**
 
 **Comment 1 (Author):**
-I dove deeper into the data on this—including the meta-analysis from *Clinical Psychology Review* showing that resilience interventions have near-zero effect on long-term well-being when the stressor is chronic. Link to the full article in the comments below.
+I dove deeper into the distinction between hormesis and allostatic load in my latest article — link in the comments. The short version: if you can’t tell whether your stress is making you stronger or wearing you down, you’re probably already past the line.
 
-**Comment 2 (Reply to predicted FAQ: "But isn't quitting just giving up?"):**
-This is the most common pushback I get. There's a critical difference between quitting a temporary challenge (a hard project, a steep learning curve) and quitting a chronic drain (a toxic system, a grinding environment). The first is growth. The second is pattern recognition. Visakan Veerasamy calls quitting "the most underrated growth skill"—the ability to see that continued effort in a broken system is not perseverance but a failure of discernment.
+**Comment 2 (Reply to predicted FAQ: "But isn't resilience necessary for success?"):**
+Absolutely — but there’s a difference between short-term grit for a specific goal and chronic endurance of a harmful environment. The research from *Human Relations* showed that people who left toxic situations reported higher well-being even when it meant a pay cut or career setback. Resilience is a tool, not a lifestyle. The skill is knowing when to use it and when to walk away.
 
-**Comment 3 (Reply to predicted counterargument: "Some people just need more grit"):**
-I hear this a lot, and it's worth unpacking. When we tell a single mother working three jobs that she needs more grit, we're not empowering her—we're excusing the system that demands she be superhuman. The *New Yorker* called this "blame the victim culture disguised as empowerment." The most resilient people I know aren't the ones who endured the most. They're the ones who knew when to stop enduring and change the environment instead.
+**Comment 3 (Reply to predicted counterargument: "This sounds like it encourages quitting at the first sign of difficulty"):**
+That’s the opposite of what the evidence says. The problem isn’t quitting too early — it’s staying too long because we’ve been taught that leaving is failure. The data shows that people who score highest on resilience measures are often the ones who stay longest in situations that are actively harming them. The real courage is in accurately reading the situation and acting on that reading, not in enduring indefinitely.

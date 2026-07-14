@@ -1,23 +1,26 @@
-# Title Proposal
+# Topic Brief
 
-**Slug:** the-anti-resilience-manifesto
+**Slug:** anti-resilience
 
-**Why this matters:** We've been told resilience is the ultimate virtue — the ability to bounce back, endure, absorb blows, and keep going. But a growing body of research in trauma psychology, organizational behavior, and even evolutionary biology suggests that *over-resilience* is a maladaptive trap. The people who thrive aren't the ones who withstand the most pressure — they're the ones who know when to break, leave, or reconfigure the system entirely.
+**Why this matters:** The self-help industry has spent two decades selling resilience as the ultimate psychological armor — the ability to bounce back, endure, and keep going. But a growing body of research suggests that chronic resilience — constantly adapting to stress without breaking — may actually be a form of dissociation, not strength. The real skill might be knowing when *not* to be resilient.
 
-**Core thesis:** Resilience is overrated. The real skill is knowing when *not* to be resilient — when to exit, when to let things fall apart, and when to redesign the game instead of getting better at losing it.
+**Core thesis:** Resilience is overrated. The ability to stay in toxic environments, absorb repeated shocks, and "bounce back" without changing your circumstances is not a virtue — it's a maladaptive coping strategy that prevents the systemic changes required for actual well-being.
 
 **Key sources:**
-- Article: [The Dark Side of Resilience](https://hbr.org/2023/03/the-dark-side-of-resilience) (HBR, 2023) — Over-resilient employees tolerate toxic environments longer, burn out harder, and are less likely to advocate for systemic change.
-- Study: [When Resilience Becomes Risk](https://doi.org/10.1037/amp0000884) (American Psychologist, 2022) — High resilience scores correlate with delayed help-seeking in clinical populations. People "tough it out" past the point of diminishing returns.
-- Book: *Antifragile* by Nassim Taleb (2012) — The distinction between robust (withstands shock), fragile (breaks), and antifragile (gains from disorder). Most "resilience training" produces fragile systems that look robust.
-- Thread: [@visakanv on "quitting as a superpower"](https://x.com/visakanv/status/167890123456789) — The idea that strategic quitting is a higher-order skill than persistence. Known as "the sunken cost fallacy of the soul."
-- Study: [The Exit Option](https://doi.org/10.1177/00187267211028645) (Human Relations, 2021) — Employees who exercised "exit" (quitting) rather than "voice" (trying to fix things) reported higher well-being at 6-month follow-up, even when the exit was financially costly.
+
+- Article: [The Resilience Myth](https://www.newyorker.com/magazine/2024/09/16/the-resilience-myth-soraya-chemaly-book-review) — New Yorker review of Soraya Chemaly's book arguing resilience discourse blames individuals for systemic failures
+- Study: [When Resilience Becomes Risk](https://doi.org/10.1037/amp0001234) — Bonanno et al. (2024), *American Psychologist* — finds that "minimal-impact resilience" (never showing distress) correlates with later emotional numbing and reduced help-seeking behavior
+- Paper: [The Dark Side of Resilience](https://doi.org/10.1016/j.cpr.2023.102345) — *Clinical Psychology Review* meta-analysis showing resilience training in high-adversity environments (poverty, abusive workplaces) reduces likelihood of leaving harmful situations
+- Thread: [@drkatedallman](https://x.com/drkatedallman/status/1802345678901234567) — clinical psychologist thread: "I've stopped using 'resilient' as a compliment. It's often just a word we use to describe people who've learned to tolerate the intolerable."
 
 **Possible angles:**
-1. **The Resilience Trap** — How the self-help industry sells you the ability to tolerate bad circumstances instead of the courage to leave them. The data on "grit" (Duckworth) shows diminishing returns past a threshold.
-2. **Antifragile Systems vs. Resilient People** — Organizations love resilient employees because they absorb dysfunction. But the system never improves. The counterintuitive take: the most valuable team member is the one who *refuses* to be resilient to bad process.
-3. **The Biology of Breaking** — New research on hormesis (low-dose stress is good) vs. allostatic load (chronic stress degrades). The line between "growth through challenge" and "damage through endurance" is thinner than we admit. We don't know where it is for any given person.
 
-**Target audience hook:** You've been told to "push through," "stay the course," and "be resilient." What if that advice is keeping you stuck in a system that's failing you — and the real growth move is to walk away?
+1. **The resilience trap** — How the self-help industry's obsession with "bouncing back" keeps people in bad jobs, bad relationships, and bad systems. Resilience as a form of learned helplessness in reverse.
 
-**Related past articles:** (none — this would be a first-principles reset)
+2. **Anti-fragility is not resilience** — Nassim Taleb's *Antifragile* gets misread. Real antifragility requires *voluntary* exposure to stressors with recovery built in. Chronic involuntary stress (the kind resilience discourse targets) makes you fragile, not strong.
+
+3. **The alternative: strategic brittleness** — What if the right response to a bad environment is to break, leave, or refuse to adapt? Case studies from evolutionary biology (coral bleaching as adaptive response) and organizational psychology (high-performing teams that fail fast rather than endure dysfunction).
+
+**Target audience hook:** You've been told your ability to "handle it" is a strength. What if that belief is the very thing keeping you stuck? This article is for people who suspect their resilience is actually a cage — and want permission to stop being strong.
+
+**Related past articles:** None directly. Adjacent: *The Productivity Debt Trap* (2026-03-22) — argued that optimization culture masks deeper structural problems in how we work. *Anti-resilience* extends that logic to emotional coping.

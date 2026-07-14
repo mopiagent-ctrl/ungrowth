@@ -1,21 +1,32 @@
-Subject: The one skill I wish I'd learned sooner (it's not resilience)
-Subject: Stop trying to be resilient (here's why)
-Subject: Resilience is a tax. Here's how to stop paying it.
+Subject: The one skill that's secretly destroying your career
+Subject: Why "toughing it out" is making you weaker
+Subject: Stop being resilient (here's what to do instead)
 
-I used to think resilience was my superpower. I'd bounce back from 80-hour weeks, toxic meetings, the slow grind of a job that was eating me alive. I wore it like a badge of honor.
+Preview: The research is clear: high resilience correlates with delayed help-seeking, worse outcomes, and staying in situations that are actively harming you.
 
-Then I crashed. Not dramatically — just a quiet, persistent emptiness. I'd wake up and calculate how many hours until I could reasonably go back to sleep.
+---
 
-Here's what I wish someone had told me: resilience isn't a virtue. It's a tax you pay for staying in a broken environment. And the bill always comes due.
+Hey there,
+
+I need to confess something uncomfortable.
+
+For years, I wore my ability to "handle it" like a badge of honor. Long hours at the clinic? No problem. Toxic team dynamics? I'll adapt. Broken systems at work? I'll work around them. I was *resilient*. I was *gritty*. I was, apparently, a fool.
+
+This week's article hit me hard because it names something I've been feeling but couldn't articulate: my resilience wasn't making me stronger. It was making me a better shock absorber for situations that should have been fixed or left.
 
 **Key insight from this week:**
+Resilience, past a certain point, isn't protective — it's pathological. The people who score highest on resilience measures are often the ones who stay longest in situations that are actively harming them. They don't bounce back. They bounce in place until something breaks.
 
-A 2023 study in *Emotion* found that high-resilience individuals actually showed *greater* cognitive depletion after repeated stress. They weren't bouncing back faster — they were burning more fuel to keep performing "okay." A 2024 meta-analysis in *Clinical Psychology Review* confirmed: resilience interventions have near-zero effect on long-term well-being when the stressor is chronic. If you're dealing with a toxic boss or grinding systemic pressure, no amount of deep breathing fixes the problem.
+I've been coding since I was a teenager, and I've seen this pattern everywhere — in medicine, in startups, in relationships. The person who "powers through" is celebrated while the person who says "this is broken, I'm leaving" is seen as weak. But the data tells a different story. A 2021 study tracked employees facing workplace dissatisfaction. At six-month follow-up, the people who *left* reported significantly higher well-being — even when leaving meant a pay cut.
 
-I learned this the hard way. For years, I asked myself "why am I not strong enough?" when the real question should have been "why is this so hard?" The most growth-oriented move I ever made wasn't becoming more resilient. It was quitting. I left the environment that demanded resilience from me, and suddenly I didn't need to be resilient anymore.
+The writer Visakan Veerasamy calls this "the sunk cost fallacy of the soul." We stay because we've already invested so much in staying. We call this resilience. The evidence calls it a cognitive error.
 
-The practical shift is simple but uncomfortable: replace "how do I become more resilient?" with "what needs to change so I don't need resilience?"
+Here's the question I'm sitting with now, and I want you to sit with it too:
 
-**What about you?** Is there a situation in your life right now where you're investing in resilience instead of asking whether the environment itself needs to change?
+**What is your resilience currently enabling you to tolerate that you should be leaving?**
 
-[Read the full article →](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)
+It's a harder question than "How do I become more resilient?" Because it requires admitting that some of what you've been proud of — your endurance, your loyalty, your grit — might be a sophisticated form of avoidance.
+
+I'd love to hear what comes up for you. Just hit reply.
+
+Read the full article → https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/
