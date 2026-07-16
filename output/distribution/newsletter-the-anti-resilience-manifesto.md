@@ -1,32 +1,45 @@
-Subject: The one skill that's secretly destroying your career
-Subject: Why "toughing it out" is making you weaker
-Subject: Stop being resilient (here's what to do instead)
+Subject: The one thing I was wrong about (and the data proves it)
+Subject: Stop being so resilient (here's why)
+Subject: Your greatest strength is destroying you
 
-Preview: The research is clear: high resilience correlates with delayed help-seeking, worse outcomes, and staying in situations that are actively harming you.
+**Preview:** The resilience you've been praised for your entire life might actually be the thing that's breaking you.
 
 ---
 
-Hey there,
+Hey,
 
-I need to confess something uncomfortable.
+I need to confess something.
 
-For years, I wore my ability to "handle it" like a badge of honor. Long hours at the clinic? No problem. Toxic team dynamics? I'll adapt. Broken systems at work? I'll work around them. I was *resilient*. I was *gritty*. I was, apparently, a fool.
+For years, I wore "resilient" like a badge of honor. Medical training taught me to power through. 28-hour shifts? No problem. Traumatic cases? Compartmentalize. Miss another family dinner? That's just what strong people do.
 
-This week's article hit me hard because it names something I've been feeling but couldn't articulate: my resilience wasn't making me stronger. It was making me a better shock absorber for situations that should have been fixed or left.
+But here's what nobody told me, and what I'm only now understanding: **resilience has a half-life.**
+
+The more I leaned into it, the more I normalized dysfunction. I stopped recognizing when something was actually wrong because I'd gotten so good at pretending everything was fine.
+
+---
 
 **Key insight from this week:**
-Resilience, past a certain point, isn't protective — it's pathological. The people who score highest on resilience measures are often the ones who stay longest in situations that are actively harming them. They don't bounce back. They bounce in place until something breaks.
 
-I've been coding since I was a teenager, and I've seen this pattern everywhere — in medicine, in startups, in relationships. The person who "powers through" is celebrated while the person who says "this is broken, I'm leaving" is seen as weak. But the data tells a different story. A 2021 study tracked employees facing workplace dissatisfaction. At six-month follow-up, the people who *left* reported significantly higher well-being — even when leaving meant a pay cut.
+A 2023 meta-analysis in the *Journal of Clinical Psychology* found something terrifying: people with the highest resilience scores showed the *worst* long-term mental health outcomes in chronic stress environments. They delayed seeking help by 18 months. They normalized the abnormal. They kept absorbing until their bodies forced a shutdown.
 
-The writer Visakan Veerasamy calls this "the sunk cost fallacy of the soul." We stay because we've already invested so much in staying. We call this resilience. The evidence calls it a cognitive error.
+The researchers called it "the resilience paradox." I call it what it is: a trauma response dressed up in motivational language.
 
-Here's the question I'm sitting with now, and I want you to sit with it too:
+---
 
-**What is your resilience currently enabling you to tolerate that you should be leaving?**
+I think about this a lot now. As a doctor, I was trained to see resilience as the goal. As someone who's been through the system, I now see it as the problem.
 
-It's a harder question than "How do I become more resilient?" Because it requires admitting that some of what you've been proud of — your endurance, your loyalty, your grit — might be a sophisticated form of avoidance.
+The real skill isn't absorbing more. It's knowing when to stop.
 
-I'd love to hear what comes up for you. Just hit reply.
+There's a concept called *discriminatory resilience* — the ability to look at a stressor and decide: is this worth absorbing, or is this destroying me?
 
-Read the full article → https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/
+That's the skill we should be teaching. Not grit. Not toughness. Discernment.
+
+---
+
+So here's my question for you this week: **What are you currently "being resilient" about that you should actually be walking away from?**
+
+I'd love to hear your answer. Just hit reply.
+
+---
+
+**Read the full article →** [https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)
