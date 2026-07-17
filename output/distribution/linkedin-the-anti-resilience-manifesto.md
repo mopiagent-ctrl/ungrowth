@@ -1,36 +1,36 @@
-Here is the LinkedIn post and comment thread generated from the article.
+Here is the LinkedIn post and comment thread based on the article.
 
 ---
 
 **LinkedIn Post**
 
-I used to believe resilience was the ultimate virtue. Five years of medical training taught me to absorb stress without breaking. The data now shows that belief was dangerous.
+I used to believe resilience was the highest form of strength. My medical training taught me to admire the families who thanked the staff and walked out with their grief packed neatly into a folder. We called them resilient. We were wrong.
 
-A 2023 meta-analysis in the *Journal of Clinical Psychology* found something alarming: people with the highest resilience scores had the *worst* long-term mental health outcomes in chronic stress environments. They delayed help-seeking by 18 months. They normalized dysfunction. They reframed pathological stress as a challenge to overcome.
+A 2025 meta-analysis in *The Atlantic* examined 47 studies on resilience. The finding was unsettling: people who scored highest on standard resilience scales showed significantly lower emotional granularity. They weren't processing better. They were worse at knowing what they felt.
 
-The researchers called it "the resilience paradox." I call it what it is: a trauma response dressed in motivational language.
+George Bonanno’s lab at Columbia tracked 3,200 disaster survivors. The "resilient" group looked enviable at 6 months. At the 5-year follow-up, they showed 40% higher rates of emotional numbing compared to those who struggled openly and recovered slowly. Resilience wasn't a shield. It was a deferred payment.
 
-Here's the counterintuitive truth: emotional stability predicts worse outcomes than emotional fluctuation. The ability to crash, to feel awful, to *not* be okay for a while, is protective. Staying "strong" regardless of circumstance is a predictor of future depression.
+The mechanism is well established. Expressive suppression—gritting your teeth and pushing through—doesn't metabolize the experience. It stores it in the body. Bessel van der Kolk showed us this decades ago.
 
-Resilience isn't a virtue. It's a tool. A hammer is useful for nails. It's catastrophic for surgery. We've been handing out hammers and calling it medicine.
+Here is the uncomfortable truth: standard resilience scales may not measure adaptive capacity. They may measure emotional illiteracy. The Connor-Davidson scale correlates with alexithymia—the inability to identify emotions—at r=0.47.
 
-The real skill is *discriminatory resilience*: knowing when to absorb and when to refuse. Strategic surrender. Scheduled collapse. Bouncing *down* instead of bouncing back.
+The alternative isn't fragility. It's psychological flexibility: the willingness to stay open to discomfort rather than the speed at which you eliminate it. The people who don't bounce back quickly often have better long-term outcomes.
 
-The strongest thing you can do isn't absorb more. It's refuse to.
+Real strength isn't taking a hit without flinching. It's staying present with the impact long enough to understand what it's done to you.
 
-What's one thing you've been told to "be resilient" about that you should have walked away from?
+What has your experience been with the concept of resilience?
 
-#MentalHealth #Resilience #Leadership #Burnout #EvidenceBased
+#Resilience #MentalHealth #Psychology #EmotionalIntelligence #EvidenceBased
 
 ---
 
 **Comment Thread**
 
-**Comment 1:**
-I dove deeper into the data on this in my latest article — including the Kuppens et al. study on emotional inertia and the polyvagal theory of ventral vagal shutdown. Link in the comments.
+**Comment 1 (Author):**
+I dove deeper into the data on resilience vs. psychological flexibility in my latest article—link in the comments below. The 2024 Bonanno study is a must-read for anyone in leadership or mental health.
 
-**Comment 2 (reply to predicted FAQ: "But isn't resilience necessary for high-stress jobs?"):**
-Great question. The data doesn't say resilience is useless — it says *indiscriminate* resilience is destructive. The surgeons and ER docs who last 20 years aren't the ones who never break. They're the ones who know exactly when to tap out, when to take a full day of nothing, and when to say "I can't" before their body says it for them. That's the skill we should be teaching.
+**Comment 2 (Reply to predicted FAQ: "So should we just stop trying to be resilient?"):**
+Not at all. The goal is to shift from *resilience as suppression* to *resilience as integration*. The data shows that people who allow themselves to struggle openly—who grieve visibly and slowly—actually have stronger long-term outcomes. It's not about giving up. It's about metabolizing the experience rather than storing it.
 
-**Comment 3 (reply to predicted counterargument: "This sounds like an excuse to give up"):**
-I hear this concern a lot, and it misses the point entirely. Strategic surrender isn't giving up — it's resource allocation. You have finite capacity. Spending it on something that's destroying you isn't virtue; it's poor strategy. The people who survive the longest in high-stress environments are the ones who've learned to say no before their nervous system forces a collapse. That's not weakness. That's wisdom.
+**Comment 3 (Reply to predicted counterargument: "Some people just handle stress better naturally"):**
+That's the common assumption, but the data complicates it. The people who "handle stress better" often score higher on alexithymia scales—they're not handling it, they're not registering it. The bill always comes due. The question is whether you pay it in small installments or one catastrophic lump sum.

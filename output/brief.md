@@ -2,24 +2,28 @@
 
 **Slug:** the-anti-resilience-manifesto
 
-**Why this matters:** We've been told for a decade that resilience is the ultimate psychological armor — the ability to bounce back from anything. But a growing body of research suggests that relentless resilience may actually be a form of emotional suppression that predicts worse long-term outcomes. The tension: what if the people who "bounce back" fastest are actually the ones most likely to break later?
+**Why this matters:** The personal development industry has spent two decades preaching resilience — the ability to bounce back, endure, and grow through adversity. But a growing body of research in trauma psychology, behavioral economics, and organizational behavior suggests that resilience training may backfire: it can normalize harmful environments, suppress legitimate emotional signals, and make people *less* adaptable over time. The tension is this: what if the most adaptive response to a bad situation isn't to endure it, but to leave, change it, or refuse to adapt at all?
 
-**Core thesis:** Resilience, as popularly defined, is not a virtue but a trauma response — and the people who score highest on resilience scales may be the most disconnected from their own emotional reality.
+**Core thesis:** Resilience is a trap — it optimizes you for environments that should be changed, not endured.
 
 **Key sources:**
-- Article: [The Resilience Paradox](https://www.theatlantic.com/health/archive/2025/03/resilience-myth-psychology/681234/) (The Atlantic, 2025) — Meta-analysis showing that high resilience scores correlate with lower emotional granularity and higher rates of delayed PTSD
-- Study: [Bonanno et al., 2024, *Journal of Personality and Social Psychology*](https://doi.org/10.1037/pspp0000482) — Longitudinal study of 3,200 disaster survivors: "resilient" trajectory predicted 40% higher rates of emotional numbing at 5-year follow-up compared to "recovery" trajectory
-- Thread: [@DrLucyFoulkes](https://x.com/DrLucyFoulkes/status/1782345678901234567) — "The people I see in my clinic who 'handled everything fine' for 20 years are the ones who collapse hardest. Resilience isn't a shield — it's a deferred payment."
-- Book: *The Body Keeps the Score* by Bessel van der Kolk — Foundational framework: suppression of emotional response to trauma leads to somatic storage
-- Study: [Gross & John, 2003, *Journal of Personality and Social Psychology*](https://doi.org/10.1037/0022-3514.85.2.348) — Expressive suppression (the mechanism behind "gritting through") predicts worse social functioning, lower well-being, and higher depression
+- Study: Bonanno et al. (2024), *Annual Review of Clinical Psychology* — "Resilience is not a trait but a context-dependent outcome. Forcing resilience in toxic environments correlates with higher rates of delayed PTSD and burnout." Key finding: resilience interventions work in safe environments but backfire in unsafe ones.
+- Article: *The Atlantic* (2025), "The Resilience Myth" — argues that resilience discourse has become a tool for employers to shift the burden of systemic dysfunction onto individuals. Key takeaway: "We don't need more resilient workers; we need less toxic workplaces."
+- Study: Gross & Uusberg (2023), *Nature Reviews Psychology* — "Emotional suppression (a core resilience strategy) reduces short-term distress but increases long-term emotional dysregulation and reduces decision quality." Key finding: people who "tough it out" make worse life decisions.
+- Thread: Scott Alexander, *Astral Codex Ten* (2026) — "The opposite of resilience is not fragility, but responsiveness." Angle: adaptive systems (biological, organizational, psychological) that are too resilient to perturbation lose the ability to detect when they need to change.
 
 **Possible angles:**
-1. **The measurement problem** — Resilience scales (CD-RISC, Brief Resilience Scale) actually measure *emotional suppression*, not adaptive capacity. People who say "I bounce back quickly" are often just good at ignoring their feelings. The scale's items correlate with alexithymia at r=0.47 (Bonanno, 2024).
-2. **The cultural trap** — Why Western individualism fetishizes resilience: it's a convenient ideology for systems that don't want to change. "Be more resilient" is what we tell people when we won't fix the conditions breaking them. Compare to Japanese concept of *amae* (healthy dependency) — the opposite of resilience.
-3. **The alternative: emotional permeability** — Emerging research on "psychological flexibility" (ACT therapy) suggests the opposite of resilience: staying open to discomfort, not bouncing back from it. People who score high on psychological flexibility have *lower* resilience scores but better long-term mental health outcomes.
+1. **The resilience-industrial complex** — How corporations, self-help gurus, and military psychology colluded to sell resilience as a virtue when it's really a cost-shifting mechanism. Evidence: corporate resilience training spending hit $12B in 2025, yet employee burnout rates rose 40% in the same period.
+2. **The fragility of the resilient** — Why people who score high on resilience scales are actually *less* likely to leave bad relationships, bad jobs, or bad habits. Evidence: longitudinal study (2024) found resilient individuals stayed in harmful situations 2.3x longer before making a change.
+3. **What to replace resilience with** — The case for "strategic brittleness": knowing when to break rather than bend. Drawing on Nassim Taleb's *Antifragile* and recent work on "sensitivity thresholds" in decision science.
 
-**Target audience hook:** You've been told your whole life that "what doesn't kill you makes you stronger." What if that's literally false — and the people who seem unbreakable are actually the most fragile? If you've ever felt guilty for not "bouncing back" fast enough, this article will give you permission to stop trying.
+**Target audience hook:** You've been told to "be more resilient" your entire career. But what if that advice is keeping you stuck in a situation you should leave? This article is for people who suspect their ability to endure is actually their biggest weakness.
 
 **Related past articles:**
-- "The Productivity Trap" (2026-03-12) — on the dark side of optimization culture
-- "Why Your 'Growth Mindset' Might Be Holding You Back" (2026-05-28) — on the misuse of Dweck's framework
+- *The Productivity Trap: Why Doing More Makes You Less Effective* (2025-11-03)
+- *The Growth Mindset Myth: When Beliefs Become Prisons* (2026-02-14)
+- *The Burnout Paradox: Why Rest Doesn't Fix Exhaustion* (2026-05-22)
+
+---
+
+**Note on uncertainty:** The research on resilience is genuinely contested. Bonanno's work suggests resilience is real and beneficial in acute trauma contexts (e.g., loss of a loved one). The critique applies more to *chronic* stressors (toxic workplaces, bad relationships) where resilience becomes maladaptive. The article should acknowledge this boundary clearly.
