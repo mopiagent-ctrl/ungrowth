@@ -1,33 +1,33 @@
-Subject: The people who "handle everything fine" are the ones who collapse hardest
-Subject: Stop bouncing back (the anti-resilience manifesto)
-Subject: Resilience is a deferred payment — here's what actually works
+Subject: The one resilience skill you should stop using immediately
+Subject: You've been sold a lie about resilience (here's what actually works)
+Subject: Why your ability to "tough it out" might be keeping you stuck
 
-Preview: What if the people who seem unbreakable are the ones most likely to shatter — just not on your timeline?
+Preview: New research suggests resilience training in toxic environments doesn't just fail — it actively causes harm.
 
 ---
 
-I spent years watching patients die. Some families wailed. Others sat in perfect composure, thanked the staff, and walked out with their grief packed neatly into a folder of paperwork. We called the second group "resilient."
+Hey friend,
 
-We were wrong.
+I've been thinking a lot about resilience lately. Partly because I'm a doctor who's watched brilliant colleagues burn out in systems that praised them for "handling it so well." Partly because I'm a coder who's stayed too long in projects that were clearly dead ends, telling myself I just needed to be more resilient.
 
-I've been thinking about this a lot lately because I see the same pattern everywhere — in my own life, in the startup world, in the way we talk about "bouncing back" as if it's the highest form of human achievement. HR departments chant it. Coaches sell it. Parents demand it from children who've just watched their world collapse.
+And partly because I'm human, and I've stayed in things I should have left.
 
-But here's what the data actually says: people who score highest on standard resilience scales show significantly lower emotional granularity. They're worse at knowing what they feel. And at 5-year follow-ups, the "resilient" group shows 40% higher rates of emotional numbing compared to people who struggled openly and slowly clawed their way back.
-
-The resilient hadn't healed faster. They'd deferred the bill.
+This week's article hit me hard. It's based on research I hadn't seen before — and it completely reframes how I think about strength.
 
 **Key insight from this week:**
 
-Standard resilience scales may not be measuring adaptive capacity at all. They may be measuring emotional illiteracy. The Connor-Davidson Resilience Scale items like "I tend to bounce back quickly after hard times" correlate with alexithymia — the clinical inability to identify and describe emotions — at r=0.47. The people endorsing these statements aren't processing adversity efficiently. They're not registering it.
+George Bonanno's 2024 research in the *Annual Review of Clinical Psychology* dropped a bombshell: resilience interventions in chronic stress environments don't just fail — they cause harm. When you're in a toxic workplace or relationship, training yourself to "endure better" actually delays the collapse while making it worse when it comes. You don't bounce back. You just postpone the breaking point, and the recovery takes longer.
 
-This hit me hard because I've been that person. The one who "handles everything fine" while the body keeps score in muscle tension, sleep disruption, and panic attacks that arrive years later. Dr. Lucy Foulkes at Oxford put it perfectly: "Resilience isn't a shield — it's a deferred payment."
+The people who score highest on resilience scales? They stay 2.3 times longer in bad situations before leaving. They don't suffer less. They suffer *longer*, more quietly.
 
-The alternative isn't fragility. It's what researchers call *psychological flexibility* — the willingness to stay open to discomfort rather than your speed in eliminating it. People who score high on psychological flexibility tend to score lower on resilience scales. They admit when they're struggling. They don't bounce back quickly. And at long-term follow-up, they have better mental health outcomes, stronger relationships, and lower rates of delayed trauma responses.
+This hit me because I've been that person. I've been proud of my ability to handle stress, to keep going when others would quit. And I've had to ask myself: what am I proud of surviving that I should have simply left?
 
-I'm trying to unlearn the resilience script. Instead of asking "How quickly can I get back to normal?", I'm learning to ask "What is this experience telling me about what I value, what I fear, and what I need?"
+The article offers a counterintuitive alternative: strategic brittleness. Knowing when to break rather than bend. Treating emotional pain as information, not weakness.
 
-It's harder. Slower. More uncomfortable. But I suspect the bill won't come due.
+I've started doing this exercise the author recommends: setting sensitivity thresholds in advance. Writing down, when I'm calm, what conditions would make me leave. And promising myself that when those thresholds are crossed, I don't negotiate — I act.
 
-Have you ever been the "resilient one" — and then paid for it later?
+It's harder than it sounds. But it feels more honest than pretending I can handle anything.
 
-**Read the full article →** [https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)
+**What about you?** Have you ever stayed in something too long because you were "being resilient"? I'd love to hear your story — just hit reply.
+
+[Read the full article →](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)
