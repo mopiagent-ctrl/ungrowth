@@ -1,32 +1,42 @@
-# LinkedIn Post
-
-I used to believe resilience was the highest form of strength. Then I read the data that changed my mind.
-
-A 2024 study in *Annual Review of Clinical Psychology* by George Bonanno found something the self-help industry won't tell you: resilience training works beautifully after acute trauma, but in chronic toxic environments, it causes harm. People who are taught to "tough it out" in bad jobs or bad relationships don't bounce back. They just delay the collapse.
-
-Here's the uncomfortable part. A longitudinal study tracked people across bad situations and found that the highly resilient stayed 2.3 times longer before leaving. They didn't suffer less. They suffered longer, more quietly.
-
-We've been sold a story about strength that's remarkably convenient for the people causing the harm. Your boss doesn't need to fix the toxic culture if you can be trained to tolerate it. The system stays intact, and you get the bill.
-
-Scott Alexander put it best: "The opposite of resilience is not fragility, but responsiveness."
-
-What I've learned to value instead: strategic brittleness. Knowing when to break rather than bend. Treating emotional pain as information, not weakness. If you dread Monday morning every Sunday night, that's not a resilience deficit. That's data.
-
-The goal isn't to become someone who can withstand anything. The goal is to become someone who knows what isn't worth withstanding.
-
-What's one thing you're proud of surviving that you now realize you should have simply left?
-
-#Resilience #MentalHealth #WorkplaceCulture #PersonalGrowth #EvidenceBased
+Here is the LinkedIn post and comment thread based on the article.
 
 ---
 
-# Comment Thread
+**LinkedIn Post**
 
-**Comment 1:**
-I dove deeper into the research behind this in my latest article — including Bonanno's findings on how resilience interventions can actually increase delayed PTSD in chronic stress environments. Link in the comments if you want to read the full piece.
+I used to believe resilience was the ultimate professional virtue. I was wrong.
 
-**Comment 2 (reply to predicted FAQ):**
-A few people have asked: "So should we just give up when things get hard?" No — the distinction matters. Acute adversity (loss, trauma, crisis) genuinely benefits from resilience. The problem is when we apply the same framework to *chronic* dysfunction. The key question is: is this stress temporary and meaningful, or is it a slow erosion I've been trained to normalize?
+For years, I wore my ability to handle stress like a badge of honor. 80-hour weeks. Toxic dynamics I could "work through." Physical symptoms I dismissed as normal wear and tear. I was proud of how much I could endure.
 
-**Comment 3 (reply to predicted counterargument):**
-Someone will say: "But resilience got me through [difficult time]." I believe you. And that's exactly the point — resilience is a tool, not an identity. The danger is when it becomes a permanent posture. The most resilient people I know are also the ones who left the most situations. They just didn't call it quitting. They called it choosing.
+Then the data caught up with me.
+
+A 2024 study in *Emotion* tracked people over five years and found that habitual emotional suppression—the core of most resilience training—systematically degrades your ability to read your own body's signals. The people best at "keeping it together" became progressively worse at making good life decisions.
+
+The paradox is brutal: high resilience scores predict staying in objectively bad situations longer. You interpret your ability to endure as proof the situation is fine. The "tough it out" mindset becomes a trap.
+
+Here's the counterintuitive truth: the goal isn't to become someone who can handle anything. The goal is to become someone who refuses to handle the wrong things.
+
+Your sensitivity isn't a vulnerability. It's an early-warning system. The people who "break down" first in a dysfunctional environment are often the most accurate detectors of dysfunction. They're not weak. They're calibrated.
+
+Stop asking "how do I cope?" Start asking "what is this discomfort telling me about the environment?"
+
+What's your experience with the resilience narrative—has it helped or hurt you?
+
+#Resilience #EmotionalIntelligence #Leadership #MentalHealth #EvidenceBased
+
+---
+
+**Comment Thread**
+
+**Comment 1 (Author):**
+I dove deeper into this in my latest article—link in the comments. The research on sensory processing sensitivity and interoceptive accuracy completely changed how I think about "toughness."
+
+**Comment 2 (Reply to predicted FAQ):**
+*"But don't we need resilience to get through hard things?"*
+
+Yes—but there's a critical distinction between acute resilience (getting through a crisis) and chronic resilience (enduring a bad environment indefinitely). The first is necessary. The second is dangerous. The key is knowing which one you're practicing.
+
+**Comment 3 (Reply to predicted counterargument):**
+*"This sounds like giving up when things get hard."*
+
+It's the opposite. Leaving a situation that requires you to suppress your own signals isn't failure—it's accurate threat detection. We don't call someone who leaves a burning building "not resilient enough." We recognize they read the signals correctly.

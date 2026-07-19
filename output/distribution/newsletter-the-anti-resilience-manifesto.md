@@ -1,33 +1,43 @@
-Subject: The one resilience skill you should stop using immediately
-Subject: You've been sold a lie about resilience (here's what actually works)
-Subject: Why your ability to "tough it out" might be keeping you stuck
+Subject: The resilience trap (and what to do instead)
+Subject: You're not "too sensitive" — you're calibrated
+Subject: Stop pushing through. Start paying attention.
 
-Preview: New research suggests resilience training in toxic environments doesn't just fail — it actively causes harm.
+Preview: Resilience might be keeping you in situations you should leave. Here's what the data actually says.
 
 ---
 
-Hey friend,
+Hey,
 
-I've been thinking a lot about resilience lately. Partly because I'm a doctor who's watched brilliant colleagues burn out in systems that praised them for "handling it so well." Partly because I'm a coder who's stayed too long in projects that were clearly dead ends, telling myself I just needed to be more resilient.
+I used to be proud of how much I could handle.
 
-And partly because I'm human, and I've stayed in things I should have left.
+Eighty-hour weeks? No problem. Toxic work environment? I'd adapt. Physical symptoms piling up? Just stress — push through. I wore my ability to endure like a badge of honor. Resilience was the goal, and I was winning.
 
-This week's article hit me hard. It's based on research I hadn't seen before — and it completely reframes how I think about strength.
+Turns out I was losing in slow motion.
+
+---
 
 **Key insight from this week:**
 
-George Bonanno's 2024 research in the *Annual Review of Clinical Psychology* dropped a bombshell: resilience interventions in chronic stress environments don't just fail — they cause harm. When you're in a toxic workplace or relationship, training yourself to "endure better" actually delays the collapse while making it worse when it comes. You don't bounce back. You just postpone the breaking point, and the recovery takes longer.
+Resilience, as we've been taught it, is a trap. The people who score highest on resilience scales are *more likely* to stay in objectively bad situations — jobs that destroy their health, relationships that erode their sense of self. They interpret their ability to endure as proof that everything's fine. But each time you override your own signals — push through exhaustion, reframe dread as growth — you betray your own perception. A 2024 study found that habitual emotional suppression systematically degrades your ability to read your body's signals. The people best at "keeping it together" became progressively worse at making good life decisions.
 
-The people who score highest on resilience scales? They stay 2.3 times longer in bad situations before leaving. They don't suffer less. They suffer *longer*, more quietly.
+---
 
-This hit me because I've been that person. I've been proud of my ability to handle stress, to keep going when others would quit. And I've had to ask myself: what am I proud of surviving that I should have simply left?
+I felt this one in my bones when I read the research. Because I've been that person. I've been the one who meditated, reframed, and pushed through — only to end up collapsed, unable to trust my own internal signals anymore.
 
-The article offers a counterintuitive alternative: strategic brittleness. Knowing when to break rather than bend. Treating emotional pain as information, not weakness.
+The alternative isn't more coping strategies. It's something I'm still learning to practice: *exit detection*. The skill of recognizing when adaptation is the wrong move. When the discomfort isn't a signal to adjust yourself — it's a signal to change the environment.
 
-I've started doing this exercise the author recommends: setting sensitivity thresholds in advance. Writing down, when I'm calm, what conditions would make me leave. And promising myself that when those thresholds are crossed, I don't negotiate — I act.
+Here's the question I'm trying to ask now, and maybe it'll help you too: *Is this discomfort telling me something about the environment that I've been trying to override?*
 
-It's harder than it sounds. But it feels more honest than pretending I can handle anything.
+Not "how do I cope?" but "what is this?"
 
-**What about you?** Have you ever stayed in something too long because you were "being resilient"? I'd love to hear your story — just hit reply.
+---
+
+The people who end up happiest aren't the ones who can handle anything. They're the ones who learned to trust their own signals enough to walk away from what they shouldn't have to handle.
+
+Your sensitivity isn't a flaw. It's the only navigation system you have.
+
+What's one situation where you've been overriding your own signals — and what might happen if you stopped?
+
+---
 
 [Read the full article →](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)
