@@ -1,38 +1,40 @@
-Here is the LinkedIn post and comment thread based on the article.
+Here is the LinkedIn post and comment thread generated from the article.
 
 ---
 
 **LinkedIn Post**
 
-I used to think "resilient" was the highest compliment you could pay a doctor.
+I used to believe resilience meant being unbreakable. Now I think it’s often just compliance with a better PR team.
 
-Then I realized we were just describing dissociation with a better marketing team.
+In medical training, I watched residents absorb impossible workloads without complaint. Everyone called them strong. I started to notice something else: the most “resilient” people in a broken system aren’t the healthiest. They’re the ones who make the system look functional by absorbing its costs.
 
-A 2024 paper in *American Psychologist* studied people who experience severe adversity but report zero distress. On paper, they’re resilience success stories. In reality, they showed elevated emotional numbing and were significantly less likely to seek help. They weren’t fine. They’d just stopped registering the damage.
+We’ve built an entire industry around this. Books, podcasts, corporate wellness programs—all teaching you to endure more. But the data tells a different story.
 
-Here’s what the data actually says:
+George Bonanno’s work on trauma found that people who appear fine because they’re suppressing everything have significantly higher rates of delayed PTSD. Kelly McGonigal’s research on stress mindsets contains a finding rarely discussed: people who reframe stress as “fuel for growth” tolerate bad situations longer—and stay stuck longer.
 
-A 2023 meta-analysis in *Clinical Psychology Review* found that resilience training in high-adversity environments made participants *less likely* to leave harmful situations. The programs didn’t build strength. They built tolerance for being harmed.
+Here’s the counterintuitive part: physical systems don’t worship resilience. They build in deliberate failure points. Circuit breakers. Crumple zones. These aren’t flaws. They’re intelligence.
 
-This is the uncomfortable truth we avoid: a system that requires you to be endlessly resilient is a system that has no incentive to change.
+What if your inability to tolerate a toxic workplace isn’t a character defect, but a circuit breaker? What if your anxiety about a draining relationship is a crumple zone absorbing impact before something essential breaks?
 
-The alternative isn’t fragility. It’s strategic brittleness—the clarity to recognize when an environment is damaging you, and the willingness to break your relationship with it rather than endlessly bend.
+The skill we should be teaching isn’t “how to endure more.” It’s “how to recognize when endurance has become self-destruction.”
 
-Stop asking "How can I be more resilient?" Start asking "What is this situation asking me to tolerate, and should I?"
+The question that matters: *Who benefits from my resilience here?*
 
-What’s one situation where you realized your "resilience" was just endurance?
+That question will get you uninvited from corporate wellness seminars. But it’s the only one that counts.
 
-#Resilience #MentalHealth #Leadership #Psychology #WorkplaceCulture
+What’s your experience with the difference between genuine resilience and quiet compliance?
+
+#Resilience #MentalHealth #WorkplaceCulture #Leadership #Psychology
 
 ---
 
 **Comment Thread**
 
 **Comment 1 (Author):**
-I wrote a deeper breakdown of the research behind this—including the Bonanno paper and the Chemaly book—in my latest article. Link in the comments for anyone who wants the full picture.
+I dove deeper into the research behind this—including the Seery study on lifetime adversity and why self-reported resilience often masks emotional suppression. Full article linked in the comments.
 
-**Comment 2 (Reply to predicted FAQ: "But what about people who can't leave? Isn't resilience still useful?"):**
-This is a fair and important question. For people in genuinely trapped situations—economic, geographic, structural—resilience skills can be survival tools. The problem is when we *only* offer resilience training and never ask why the environment is harmful in the first place. The goal isn't to remove coping skills. It's to stop pretending coping is the same as thriving.
+**Comment 2 (Reply to predicted FAQ: "But isn't some discomfort necessary for growth?"):**
+Absolutely. The key distinction is between "this is hard but meaningful" and "this is hard because it's breaking me." Growth requires stretching, not snapping. The problem is we've been taught to ignore the difference. A good rule of thumb: if the system doesn't change after you've endured, you're not growing—you're subsidizing.
 
-**Comment 3 (Reply to predicted counterargument: "Some people just need to toughen up"):**
-I hear this a lot, and I think it misses the mark. The data doesn't say discomfort is bad. It says *chronic involuntary stress without recovery* causes measurable physiological damage—allostatic load, immune dysfunction, emotional flattening. There's a difference between building grit for a marathon and dissociating through a decade of abuse. One is growth. The other is survival mode we've rebranded as virtue.
+**Comment 3 (Reply to predicted counterargument: "Resilience training saved my career"):**
+I'm genuinely glad it helped you—many people find real value in coping strategies. My concern is when resilience becomes a one-size-fits-all prescription that shifts responsibility from broken systems onto individuals. The healthiest response to a toxic environment isn't always to become more resilient. Sometimes it's to leave. And that choice should never be framed as weakness.

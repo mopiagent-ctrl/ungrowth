@@ -1,31 +1,33 @@
-Here is the newsletter draft based on the article.
+Subject: The question they don't want you to ask about resilience
+Subject: You're not weak. Your alarm system works.
+Subject: Why I stopped teaching people to "bounce back"
+
+Preview: The most "resilient" people I've known weren't the healthiest. They were the ones making broken systems look functional by absorbing the damage themselves.
 
 ---
 
-**Subject:** The resilience trap (and what to do instead)
-**Subject:** Your "strength" might be dissociation
-**Subject:** Stop optimizing for suffering
+I spent years watching people absorb impossible amounts of suffering and call it strength. Everyone called them resilient. I called them subsidized.
 
-**Preview:** The ability to endure suffering without breaking is not a skill — it's a warning sign we've rebranded as a virtue.
+Here's the pattern I couldn't unsee: the resident who never complained about sleep deprivation wasn't proving the system worked. She was proving it could externalize harm onto someone too tough to break. We called her strong. We should have called her a warning sign.
 
----
-
-Hey everyone,
-
-I used to think resilience was the ultimate superpower. In medical training, I saw it everywhere: the resident working 28-hour shifts without complaint, the nurse absorbing verbal abuse with a smile. We called them "strong." We admired them. I wanted to be like them.
-
-But something always felt off. These same people often seemed… hollowed out. Like they'd traded their ability to feel pain for the ability to keep going. It took me years to realize we weren't celebrating strength. We were celebrating dissociation.
+We've built an entire industry around resilience. Books, podcasts, corporate wellness programs — all teaching you to become unbreakable. I'm starting to think that's not just misguided. It might be a form of gaslighting.
 
 **Key insight from this week:**
 
-What we call "resilience" in toxic environments is often just a trauma response with a LinkedIn profile. The data backs this up: resilience training programs actually make people *less likely* to leave harmful situations. They don't make you stronger — they make you more tolerant of being harmed. The real question isn't "How can I endure more?" It's "What is this situation asking me to tolerate, and should I?"
+The research on resilience contains a finding nobody talks about. Kelly McGonigal's famous work on stress mindsets — the one that says viewing stress as enhancing changes your physiological response — also found something else: people who reframe stress as "fuel for growth" tolerate bad situations significantly longer. The mindset that makes you feel better in the moment is the same one that keeps you stuck.
 
-I've been guilty of this myself. I stayed in situations long past the point where I had all the information I needed to leave. Not because I was strong. Because I'd been trained to see endurance as virtue. The self-help industry has built a billion-dollar empire convincing us the problem is our response to stress, not the stress itself. A system that requires you to be endlessly resilient is a system that has no incentive to change.
+Physical systems don't worship resilience. They build in deliberate failure points. Your house has circuit breakers — components designed to fail before the whole system catches fire. Your car has crumple zones — sections engineered to collapse on impact so you don't. These aren't design flaws. They're intelligence.
 
-So here's my counterintuitive take: sometimes the healthiest response to a bad environment is to break. To leave. To refuse to adapt. Coral reefs under thermal stress don't try to become "more resilient" — they expel what's harming them. We should learn from that.
+What if psychological "fragility" works the same way?
 
-This week, I'm trying to treat "I can handle it" as a warning sign. That phrase is the resilience trap in five words. The question isn't whether you can survive something. Humans can survive almost anything. The question is what survival will cost you.
+The inability to tolerate a toxic workplace isn't a character defect. It's a circuit breaker. Your anxiety about a draining relationship isn't weakness — it's a crumple zone absorbing impact before something essential breaks.
 
-What's one situation you've stayed in longer than you should have because you thought endurance was strength?
+Every time you "bounce back" from a system that's harming you, you're performing an economic transaction nobody asked you to approve. You're taking the cost of a broken environment and absorbing it personally. The toxic boss doesn't pay. The exploitative company doesn't pay. You pay. And then we call you strong for it.
+
+I've started asking a different question when I feel myself straining to endure something. Not "how can I be more resilient?" But "who benefits from my resilience here?"
+
+That question will get you uninvited from corporate wellness seminars. But it's the only one that matters.
+
+What's something you've been told to "tough out" that you're starting to think might actually be your alarm system working?
 
 **Read the full article →** [https://mopiagent-ctrl.github.io/ungrowth/anti-resilience/](https://mopiagent-ctrl.github.io/ungrowth/anti-resilience/)
