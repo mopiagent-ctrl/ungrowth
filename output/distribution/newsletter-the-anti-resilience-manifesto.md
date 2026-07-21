@@ -1,43 +1,31 @@
-Subject: The resilience trap (and what to do instead)
-Subject: You're not "too sensitive" — you're calibrated
-Subject: Stop pushing through. Start paying attention.
+Subject: The resilience trap (and what actually works)
+Subject: Stop bouncing back. Start falling apart.
+Subject: Why "getting over it" is keeping you stuck
 
-Preview: Resilience might be keeping you in situations you should leave. Here's what the data actually says.
+**Preview:** The people who grow most aren't the ones who bounce back fastest—they're the ones who let themselves stay shattered long enough to rebuild something that actually fits.
 
 ---
 
 Hey,
 
-I used to be proud of how much I could handle.
+I've been thinking a lot about resilience lately. Partly because I keep seeing it everywhere—corporate wellness programs, Instagram quotes, well-meaning friends telling me to "stay strong" after a rough week. Partly because I've been the guy who bounces back fast, and I'm starting to wonder if that's actually a good thing.
 
-Eighty-hour weeks? No problem. Toxic work environment? I'd adapt. Physical symptoms piling up? Just stress — push through. I wore my ability to endure like a badge of honor. Resilience was the goal, and I was winning.
-
-Turns out I was losing in slow motion.
-
----
+Here's the uncomfortable truth I stumbled into this week: the resilience industry is a multi-billion dollar machine designed to keep you functional, not transformed. And the people who recover fastest? They're often the ones who grow least.
 
 **Key insight from this week:**
 
-Resilience, as we've been taught it, is a trap. The people who score highest on resilience scales are *more likely* to stay in objectively bad situations — jobs that destroy their health, relationships that erode their sense of self. They interpret their ability to endure as proof that everything's fine. But each time you override your own signals — push through exhaustion, reframe dread as growth — you betray your own perception. A 2024 study found that habitual emotional suppression systematically degrades your ability to read your body's signals. The people best at "keeping it together" became progressively worse at making good life decisions.
+The research on post-traumatic growth is clear—highly resilient individuals who adapt quickly and return to normal functioning show lower rates of deep, transformative growth than those who struggle longer. They bounce back so efficiently that they never integrate the experience. They return to the person they were before, which is exactly the problem. The person you were before is the person who got broken in the first place.
 
----
+I've been guilty of this myself. After a particularly brutal year in my medical training, I did what I was supposed to do: I compartmentalized, reframed, and got back to work. I was praised for my resilience. But looking back, I realize I just bypassed the hard questions—the ones about whether I was even on the right path, whether the system was broken, whether I needed to change, not just adapt.
 
-I felt this one in my bones when I read the research. Because I've been that person. I've been the one who meditated, reframed, and pushed through — only to end up collapsed, unable to trust my own internal signals anymore.
+Dr. Lucy Foulkes at Oxford calls this "the resilience trap." Resilience discourse has become a tool for maintaining the status quo. If you're resilient, you don't need better working conditions. If you're resilient, you don't need to leave the relationship. If you're resilient, the problem is never the environment—it's your failure to adapt to it.
 
-The alternative isn't more coping strategies. It's something I'm still learning to practice: *exit detection*. The skill of recognizing when adaptation is the wrong move. When the discomfort isn't a signal to adjust yourself — it's a signal to change the environment.
+That hit me hard. Because I've been that person. And maybe you have too.
 
-Here's the question I'm trying to ask now, and maybe it'll help you too: *Is this discomfort telling me something about the environment that I've been trying to override?*
+So here's what I'm trying instead: when I hit a rupture, I'm stopping myself from asking "how do I recover from this?" and starting to ask "what is this making possible that wasn't possible before?"
 
-Not "how do I cope?" but "what is this?"
+It's harder. It's messier. But the people who grow most aren't the resilient ones. They're the ones who let the rupture do its work.
 
----
+What's one area of your life where "bouncing back" might actually be keeping you stuck?
 
-The people who end up happiest aren't the ones who can handle anything. They're the ones who learned to trust their own signals enough to walk away from what they shouldn't have to handle.
-
-Your sensitivity isn't a flaw. It's the only navigation system you have.
-
-What's one situation where you've been overriding your own signals — and what might happen if you stopped?
-
----
-
-[Read the full article →](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)
+**Read the full article →** [https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)
