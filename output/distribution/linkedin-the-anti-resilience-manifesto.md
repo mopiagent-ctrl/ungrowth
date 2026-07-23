@@ -4,35 +4,37 @@ Here is the LinkedIn post and comment thread based on the article.
 
 **LinkedIn Post**
 
-The people who grow most aren’t the ones who bounce back fastest. They’re the ones who let themselves stay shattered long enough to rebuild something that actually fits.
+The people we praise most for "bouncing back" are often the ones who never processed what hit them in the first place.
 
-I used to believe resilience was the ultimate professional virtue. Bounce back. Adapt. Don’t let them see you struggle. The corporate wellness machine agrees — resilience training is a multi-billion dollar industry that teaches you to return to baseline as quickly as possible.
+I spent five years treating patients in a hospital system that ran on resilience. Double shifts, trauma cases, death in the corridor—and the highest praise you could receive was "you handle it so well."
 
-But the data tells a different story.
+A 2022 Harvard Business Review analysis put numbers to what many of us sensed clinically: resilience correlates with worse health outcomes in toxic environments. Not because resilient people are weaker—but because they stay longer.
 
-George Bonanno’s longitudinal research on trauma survivors found that the people who appeared most resilient in the early months — minimal disruption, back to work, smiling through it — were not the ones who, years later, described their lives as fundamentally changed for the better.
+The self-help industry canonized this as virtue. Bounce back. Grit through. Never break.
 
-The people who were a mess at six months? They were the ones who, five years later, reported deeper relationships, clearer values, and a fundamentally reorganized sense of self.
+But George Bonanno's landmark work on trauma trajectories found that only about 10% of people show a genuinely "resilient" pattern after major loss. We built an entire cultural mythology around the exception.
 
-Oxford psychologist Dr. Lucy Foulkes calls this the “resilience trap.” Resilience discourse has become a tool for maintaining the status quo. If you’re resilient, you don’t need better working conditions. You don’t need to leave the relationship. The problem is never the environment — it’s your failure to adapt to it.
+What looks like strength is frequently a failure of pattern recognition. People high in trait grit stay in failing marriages longer. They persist in dead-end jobs. They return to abusive environments because leaving feels like failure.
 
-The counterintuitive truth: human growth proceeds through what psychologists call “constructive disintegrations.” You can’t upgrade a foundation while you’re still standing on it.
+The alternative isn't fragility. It's *kintsugi*—repairing broken pottery with gold, making the cracks visible rather than hidden.
 
-Next time you hit a rupture, stop asking “how do I recover from this?” Start asking “what is this making possible that wasn’t possible before?”
+Anti-resilience as a practice: strategic quitting, scheduled collapse, deliberate vulnerability, and letting things break clean so you can rebuild honestly.
 
-What’s your experience with the resilience trap?
+Resilience kept you in the burning building. The skill you actually need is knowing when to walk out—and the courage to look fragile while doing it.
 
-#PersonalGrowth #PostTraumaticGrowth #Leadership #Psychology #MentalHealth
+What's one thing you've stayed in too long because you were told to be resilient?
+
+#Resilience #MentalHealth #Leadership #PersonalGrowth #EvidenceBased
 
 ---
 
 **Comment Thread**
 
 **Comment 1 (Author):**
-I dove deeper into the research on constructive disintegration and the difference between resilience and post-traumatic growth in the full article — link in the comments below.
+I dove deeper into the data on resilience myths and the neuroscience of "strategic quitting" in my latest article—link in the comments below. The section on delayed-onset PTSD in first responders might surprise you.
 
-**Comment 2 (Reply to predicted FAQ: "Isn't this just glorifying suffering?"):**
-Important clarification: this isn’t an argument for wallowing. There’s a difference between productive suffering and learned helplessness. Productive suffering means staying with the pain long enough to let it reorganize you — writing, talking, sitting in silence with the discomfort — not to fix it, but to understand what it’s telling you. The goal isn’t more pain. It’s less bypassing.
+**Comment 2 (Reply to predicted FAQ: "But isn't resilience necessary for success?"):**
+Great question. The nuance is this: resilience is useful for *short-term* performance under predictable stress (think: a surgeon finishing a 12-hour operation). It becomes dangerous when applied to *chronic, systemic* stressors (think: a toxic workplace that never changes). The data shows the same trait that helps you finish the marathon also keeps you in the abusive relationship. The key is knowing which situation you're in—and most of us are terrible at that distinction.
 
-**Comment 3 (Reply to predicted counterargument: "Resilience saved my career"):**
-Resilience absolutely has its place — acute survival situations, operational roles, short-term crises. The issue is when we generalize it as the *only* healthy response to major life ruptures. If you bounced back and that worked for you, that’s valid. But the data suggests that for transformative life events — career loss, divorce, serious illness — the people who grow most are the ones who resist the pressure to return to who they were. Both paths exist. We just only celebrate one.
+**Comment 3 (Reply to predicted counterargument: "Some people just need to toughen up"):**
+I hear this a lot, and I used to believe it. But the evidence from occupational health is clear: the professions that select for "toughness" (ICU nursing, social work, military) have the highest rates of delayed-onset PTSD and moral injury. The people who "handle it best" in the moment are often the ones who disintegrate most completely when the load finally exceeds capacity. Toughening up works—until it doesn't. And by then, the repair is much harder.
