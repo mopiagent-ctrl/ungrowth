@@ -1,25 +1,23 @@
 # Topic Brief
 
-## Title Proposal
+**Slug:** anti-goal-setting
 
-**Slug:** the-anti-resilience-manifesto
+**Why this matters:** The personal development industry has spent decades telling us to set SMART goals, visualize success, and commit publicly. But a growing body of evidence suggests this approach backfires — it narrows our field of vision, blinds us to opportunity, and actually reduces performance in complex environments. The tension: the very tool we use to achieve more may be the thing keeping us stuck.
 
-**Why this matters:** The personal development industry has spent two decades telling us resilience is the ultimate virtue — the ability to bend without breaking, to bounce back from anything. But a growing body of research in trauma psychology, organizational behavior, and evolutionary biology suggests that chronic resilience training may actually *increase* vulnerability. The people who "bounce back" fastest are often the ones who never fully processed what happened to them. The real question isn't "how do I become more resilient?" — it's "what am I resilient *at the expense of*?"
-
-**Core thesis:** Resilience is not a muscle to be strengthened; it's a trade-off. Over-optimizing for resilience can suppress necessary emotional processing, prevent systemic change, and keep people in environments that are actively harming them.
+**Core thesis:** Goal-setting is a cognitive straitjacket — it works for simple, repeatable tasks but systematically fails for creative, adaptive, or long-term growth.
 
 **Key sources:**
-- **Study:** Bonanno et al. (2011), "Resilience to Loss and Potential Trauma" — found that the "resilient trajectory" (minimal symptom disruption after trauma) is common, but often correlates with *avoidant coping styles*, not healthy adaptation. The people who looked resilient on the surface were often dissociating.
-- **Article:** *The Atlantic*, "The Problem with Resilience" (2023) — argues that resilience discourse has been co-opted by institutions to shift responsibility from systemic failures onto individuals. "Be more resilient" becomes a way to say "don't complain about the broken system."
-- **Study:** Seery et al. (2010), "Whatever Does Not Kill Us" — found that moderate lifetime adversity predicts better outcomes, but *zero* adversity and *high* adversity both predict worse outcomes. The U-shaped curve suggests resilience isn't a linear skill.
-- **Book:** *The Body Keeps the Score* by Bessel van der Kolk — central thesis: the body stores unprocessed trauma. "Bouncing back" without processing is just suppression, which leads to somatic symptoms later.
-- **Thread:** r/CPTSD community discussions — recurring theme: "I was praised for being so resilient as a child. Now I realize I was just dissociating."
+- Study: Ordóñez et al. (2009) "Goals Gone Wild" — documented systematic negative side effects of goal-setting including unethical behavior, narrowed focus, and reduced learning
+- Book: Harford (2011) *Adapt: Why Success Always Starts with Failure* — argues for "try, learn, iterate" over "plan, execute, achieve"
+- Study: Schweitzer, Ordóñez & Douma (2004) — goal-setting led to increased cheating when people fell just short of targets
+- Article: Newport (2016) *Deep Work* — contrasts goal-setting with "deep work" as a process-based approach
+- Research: Locke & Latham (2002) — the canonical pro-goal paper, but their own data shows goals work best for simple, well-defined tasks
 
 **Possible angles:**
-1. **The resilience trap** — How "bouncing back" prevents you from changing the environment that broke you. Applied to toxic workplaces, bad relationships, and systemic injustice.
-2. **Resilience as privilege** — The people who preach resilience the loudest are often those who have the most resources. True resilience requires a safety net; without one, it's just survival.
-3. **The anti-resilience practice** — What if instead of training to withstand more, we trained to *notice* when we're adapting to something harmful? A framework for distinguishing healthy adaptation from maladaptive accommodation.
+1. **The opportunity cost of goals** — every goal you set is a blindfold: you stop seeing everything that isn't the goal. In complex environments (careers, relationships, creativity), this is catastrophic.
+2. **The identity trap** — goals force you to commit to a specific future self. But the person who set the goal is not the person who will achieve it. You're locking in yesterday's preferences.
+3. **Systems over goals** — Scott Adams' "systems vs. goals" framework, backed by evidence that process-focused people outperform outcome-focused people in uncertain domains.
 
-**Target audience hook:** You've been told to be more resilient your whole life. But what if your "resilience" is just you getting really good at tolerating things that should be intolerable? This article is for people who suspect their strength might be a coping mechanism.
+**Target audience hook:** You've been told your whole life that you need goals. But look at the most successful people you know — do they actually operate that way? Or do they just *say* they do because it sounds good? If you've ever felt like goal-setting is making you anxious, narrow, or stuck, this article will explain why — and what to do instead.
 
-**Related past articles:** (none yet — this would be a foundational piece for a new angle on growth)
+**Related past articles:** (none — this would be a fresh topic for the publication)

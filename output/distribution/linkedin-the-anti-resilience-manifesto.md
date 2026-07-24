@@ -1,40 +1,38 @@
-Here is the LinkedIn post and comment thread based on the article.
+Here is the LinkedIn post and comment thread optimized for professional engagement, based on your article.
 
 ---
 
 **LinkedIn Post**
 
-The people we praise most for "bouncing back" are often the ones who never processed what hit them in the first place.
+I used to think resilience was my superpower. Then I realized it was just a well-disguised survival adaptation.
 
-I spent five years treating patients in a hospital system that ran on resilience. Double shifts, trauma cases, death in the corridor—and the highest praise you could receive was "you handle it so well."
+For years, I wore my ability to "bounce back" as a badge of honor. Toxic job? Adapted and got promoted. Bad breakup? Fine by Monday. Everyone called me strong. What I didn't see was that I wasn't processing anything. I was bypassing.
 
-A 2022 Harvard Business Review analysis put numbers to what many of us sensed clinically: resilience correlates with worse health outcomes in toxic environments. Not because resilient people are weaker—but because they stay longer.
+A 2011 study by George Bonanno at Columbia found that the "resilient trajectory" after trauma often correlates with avoidant coping styles. The people who look strongest on the surface are frequently engaging in emotional suppression and dissociation. They aren't healing. They're delaying the invoice.
 
-The self-help industry canonized this as virtue. Bounce back. Grit through. Never break.
+Bessel van der Kolk spent decades showing that unprocessed trauma gets stored in the body. Somatic symptoms, chronic pain, inexplicable anxiety years later. The bill always comes due.
 
-But George Bonanno's landmark work on trauma trajectories found that only about 10% of people show a genuinely "resilient" pattern after major loss. We built an entire cultural mythology around the exception.
+Here's the uncomfortable truth the personal development industry won't tell you: resilience has been captured by institutions. When a corporation offers a resilience workshop instead of fixing a toxic workload, they're shifting responsibility from systems onto individuals. "Be more resilient" is often a polite way of saying "stop complaining about the broken thing."
 
-What looks like strength is frequently a failure of pattern recognition. People high in trait grit stay in failing marriages longer. They persist in dead-end jobs. They return to abusive environments because leaving feels like failure.
+The better you get at tolerating a harmful environment, the less incentive you have to leave it. Your adaptability becomes your cage.
 
-The alternative isn't fragility. It's *kintsugi*—repairing broken pottery with gold, making the cracks visible rather than hidden.
+The real question isn't "How do I become more resilient?" It's "What am I being resilient at the expense of?"
 
-Anti-resilience as a practice: strategic quitting, scheduled collapse, deliberate vulnerability, and letting things break clean so you can rebuild honestly.
+That knot in your stomach before work? That's not weakness. That's data.
 
-Resilience kept you in the burning building. The skill you actually need is knowing when to walk out—and the courage to look fragile while doing it.
+What's your experience with the resilience trap?
 
-What's one thing you've stayed in too long because you were told to be resilient?
-
-#Resilience #MentalHealth #Leadership #PersonalGrowth #EvidenceBased
+#MentalHealth #WorkplaceCulture #Leadership #TraumaInformed #PersonalDevelopment
 
 ---
 
 **Comment Thread**
 
 **Comment 1 (Author):**
-I dove deeper into the data on resilience myths and the neuroscience of "strategic quitting" in my latest article—link in the comments below. The section on delayed-onset PTSD in first responders might surprise you.
+I dove deeper into the data behind this — including the Seery curve showing that high adversity doesn't strengthen, it erodes — in my latest article. Link in the comments below.
 
-**Comment 2 (Reply to predicted FAQ: "But isn't resilience necessary for success?"):**
-Great question. The nuance is this: resilience is useful for *short-term* performance under predictable stress (think: a surgeon finishing a 12-hour operation). It becomes dangerous when applied to *chronic, systemic* stressors (think: a toxic workplace that never changes). The data shows the same trait that helps you finish the marathon also keeps you in the abusive relationship. The key is knowing which situation you're in—and most of us are terrible at that distinction.
+**Comment 2 (Reply to predicted FAQ: "So should we just stop being resilient?")**
+Not at all. The alternative isn't fragility — it's discernment. Healthy adaptation means processing, integrating, and then changing your environment. Maladaptive accommodation means suppressing, adjusting expectations downward, and staying put while your body keeps score. One is strength. The other is just endurance with a positive label.
 
-**Comment 3 (Reply to predicted counterargument: "Some people just need to toughen up"):**
-I hear this a lot, and I used to believe it. But the evidence from occupational health is clear: the professions that select for "toughness" (ICU nursing, social work, military) have the highest rates of delayed-onset PTSD and moral injury. The people who "handle it best" in the moment are often the ones who disintegrate most completely when the load finally exceeds capacity. Toughening up works—until it doesn't. And by then, the repair is much harder.
+**Comment 3 (Reply to predicted counterargument: "Resilience saved my life")**
+I hear this a lot, and I don't want to dismiss it. For many people, resilience is genuinely life-saving — especially when you have no other options. The issue is when we stop there. When resilience becomes an identity instead of a temporary strategy. When we forget to ask: "Is this environment worth adapting to?" The goal isn't to endure everything. It's to build a life you don't need to endure.

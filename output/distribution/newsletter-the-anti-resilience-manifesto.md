@@ -1,39 +1,33 @@
-Subject: The resilience trap (and what to do instead)
-Subject: Stop being resilient (seriously)
-Subject: Why "bouncing back" might be breaking you
+Subject: The resilience trap that nobody talks about
+Subject: Stop trying to be more resilient
+Subject: Why I stopped being proud of my resilience
 
-[Preview: The people we praise most for handling everything are often the ones who never processed what hit them.]
+[Preview: Your ability to endure suffering might be the thing keeping you in it.]
 
-Hey,
+Hey friend,
 
-I used to wear resilience like a badge of honor.
+I used to wear my resilience like a badge of honor. Bad breakup? Bounced back in a week. Toxic workplace? Adapted and got promoted. Family crisis? Handled it like a pro. Everyone told me how strong I was.
 
-Five years in a public hospital system, double shifts, trauma cases, death in the corridor. The highest praise you could get? "You handle it so well." I was proud of that. I thought it meant I was strong.
+It took me fifteen years to realize I wasn't strong. I was numb.
 
-Turns out, I was just dissociating with style.
-
----
+This week's article is the one I wish I'd read a decade ago. It's called "The Anti-Resilience Manifesto," and it completely flipped my understanding of what it means to be resilient.
 
 **Key insight from this week:**
 
-Resilience isn't the virtue we've been sold. A 2022 Harvard Business Review analysis found that in toxic environments, resilience actually correlates with *worse* health outcomes. Not because resilient people are weaker—but because they stay longer. The very trait we celebrate keeps us in the blast radius.
+The resilience industry has sold us a dangerous lie. The people who "bounce back" fastest are often the ones who never fully landed in the first place. Research from Columbia psychologist George Bonanno shows that what looks like resilience on the surface frequently correlates with emotional suppression and dissociation. You're not processing — you're bypassing. And as Bessel van der Kolk has documented for decades, the body keeps score. Unprocessed trauma doesn't disappear; it gets stored, and the bill always comes due — often as chronic pain, autoimmune issues, or inexplicable anxiety years later.
 
----
+**Why this matters right now:**
 
-I saw this pattern play out clinically for years. The patient who says "I'm fine, I'm strong, I've moved on" six weeks after a devastating loss—and then develops panic attacks, autoimmune flares, or a drinking problem six months later. The body keeps score, but the resilient narrative keeps the conscious mind out of the loop.
+I've been thinking about this a lot lately because I see it everywhere. Corporations running resilience workshops for burned-out employees. Self-help gurus selling "mental toughness." The message is always the same: become stronger so you can withstand more.
 
-The data backs this up. George Bonanno's research on trauma trajectories found that only about *10%* of people show a genuinely "resilient" pattern after major loss. We built an entire cultural mythology around the exception.
+But here's what nobody tells you: the better you get at tolerating a harmful environment, the less incentive you have to leave it. Your adaptability becomes your cage. You become so good at surviving the toxic workplace that you spend five years there instead of five months. You become so resilient in your relationship that you absorb behavior no one should absorb. Your strength gets used against you — by you.
 
-And then there's what Soraya Chemaly calls out in her new book: resilience discourse is a neoliberal trap. It shifts responsibility from systems to individuals. Your workplace is toxic? Build resilience. The economy is extracting your soul? Meditate harder.
+The alternative isn't fragility. It's discernment. Instead of asking "How do I become more resilient?" start asking "What am I being resilient *at the expense of*?"
 
-The unspoken message: don't change the structure. Change your tolerance for suffering.
+That knot in your stomach before work? That's not weakness. That's data. The exhaustion that hits you the moment you stop moving? That's not laziness. That's your body finally getting a chance to tell you something.
 
-So what's the alternative? It's not fragility. It's something closer to what the Japanese call *kintsugi*—repairing broken pottery with gold, making the cracks visible and honored rather than hidden.
+The goal isn't to become someone who can endure anything. The goal is to become someone who doesn't have to.
 
-It's strategic quitting. Scheduled collapse. Deliberate vulnerability. Letting things break clean and rebuild honestly.
-
-I wrote the full piece on this—it's the most personal thing I've published in a while. Because I had to stop being resilient before I could actually heal.
-
-**What's one thing you've stayed in longer than you should have because "quitting felt like failure"?**
+What's something you've been "resilient" about that you might actually need to change instead?
 
 [Read the full article →](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)
