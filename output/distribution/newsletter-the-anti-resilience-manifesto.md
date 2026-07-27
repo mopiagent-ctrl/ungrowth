@@ -1,33 +1,33 @@
-Subject: The resilience trap that nobody talks about
-Subject: Stop trying to be more resilient
-Subject: Why I stopped being proud of my resilience
+Here is the newsletter draft based on the article.
 
-[Preview: Your ability to endure suffering might be the thing keeping you in it.]
+---
 
-Hey friend,
+**Subject:**
+- The skill nobody talks about (and it’s not resilience) ⭐
+- You’ve been sold a lie about “bouncing back”
+- Why quitting might be the most resilient thing you can do
 
-I used to wear my resilience like a badge of honor. Bad breakup? Bounced back in a week. Toxic workplace? Adapted and got promoted. Family crisis? Handled it like a pro. Everyone told me how strong I was.
+**Preview:** Resilience culture promised control, but the data says it’s making us weaker. Here’s what to do instead.
 
-It took me fifteen years to realize I wasn't strong. I was numb.
+---
 
-This week's article is the one I wish I'd read a decade ago. It's called "The Anti-Resilience Manifesto," and it completely flipped my understanding of what it means to be resilient.
+Hey,
+
+I’ve been thinking a lot about something uncomfortable lately.
+
+For years, I bought into the resilience gospel. Tough boss? Build mental armor. Exhausted? Push harder. I treated every struggle like a character-building gym session. And honestly? It worked — until it didn’t.
+
+I hit a wall where “bouncing back” felt less like strength and more like running on a broken leg. The more I adapted, the more I eroded. That’s when I started digging into the research, and what I found stopped me cold.
 
 **Key insight from this week:**
+Resilience is a feedback destroyer. Pain, exhaustion, and burnout aren’t weaknesses to overcome — they’re data points. When we treat chronic stress as a test of grit, we mute the signals that tell us something is fundamentally wrong. The real skill isn’t handling more stress. It’s knowing which stress is growing you and which is grinding you down.
 
-The resilience industry has sold us a dangerous lie. The people who "bounce back" fastest are often the ones who never fully landed in the first place. Research from Columbia psychologist George Bonanno shows that what looks like resilience on the surface frequently correlates with emotional suppression and dissociation. You're not processing — you're bypassing. And as Bessel van der Kolk has documented for decades, the body keeps score. Unprocessed trauma doesn't disappear; it gets stored, and the bill always comes due — often as chronic pain, autoimmune issues, or inexplicable anxiety years later.
+I’ve been guilty of the adaptation trap. Two years into a high-pressure environment, I’d developed “superpowers” — emotional suppression, hypervigilance, the inability to relax. I thought I was thriving. Turns out I was just wearing armor that would cost me in any healthier context.
 
-**Why this matters right now:**
+The most freeing thing I’ve learned? **Quitting isn’t failure. It’s strategy.** Walking away from a toxic system isn’t a lack of resilience — it’s the most resilient thing you can do.
 
-I've been thinking about this a lot lately because I see it everywhere. Corporations running resilience workshops for burned-out employees. Self-help gurus selling "mental toughness." The message is always the same: become stronger so you can withstand more.
+So here’s my challenge to you this week: audit your stress. Track every stressor for seven days. Label each as acute (finite, growth-promoting) or chronic (indefinite, embedded in your environment). If more than 30% are chronic, your problem isn’t grit. It’s your environment.
 
-But here's what nobody tells you: the better you get at tolerating a harmful environment, the less incentive you have to leave it. Your adaptability becomes your cage. You become so good at surviving the toxic workplace that you spend five years there instead of five months. You become so resilient in your relationship that you absorb behavior no one should absorb. Your strength gets used against you — by you.
-
-The alternative isn't fragility. It's discernment. Instead of asking "How do I become more resilient?" start asking "What am I being resilient *at the expense of*?"
-
-That knot in your stomach before work? That's not weakness. That's data. The exhaustion that hits you the moment you stop moving? That's not laziness. That's your body finally getting a chance to tell you something.
-
-The goal isn't to become someone who can endure anything. The goal is to become someone who doesn't have to.
-
-What's something you've been "resilient" about that you might actually need to change instead?
+I’d love to hear what you find. Hit reply and tell me — what’s one thing you’ve been “resilient” about that you secretly know you should leave?
 
 [Read the full article →](https://mopiagent-ctrl.github.io/ungrowth/the-anti-resilience-manifesto/)

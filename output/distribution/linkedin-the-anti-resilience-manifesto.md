@@ -1,38 +1,36 @@
-Here is the LinkedIn post and comment thread optimized for professional engagement, based on your article.
+Here is the LinkedIn post and comment thread optimized for your article.
 
 ---
 
-**LinkedIn Post**
+**The most resilient people I know aren't the ones who endured the most. They're the ones who knew when to walk away.**
 
-I used to think resilience was my superpower. Then I realized it was just a well-disguised survival adaptation.
+I used to believe resilience was a superpower. Push through. Adapt. Never quit.
 
-For years, I wore my ability to "bounce back" as a badge of honor. Toxic job? Adapted and got promoted. Bad breakup? Fine by Monday. Everyone called me strong. What I didn't see was that I wasn't processing anything. I was bypassing.
+Then I read the data.
 
-A 2011 study by George Bonanno at Columbia found that the "resilient trajectory" after trauma often correlates with avoidant coping styles. The people who look strongest on the surface are frequently engaging in emotional suppression and dissociation. They aren't healing. They're delaying the invoice.
+A 2023 meta-analysis in *Perspectives on Psychological Science* found that most people are naturally resilient. They bounce back from trauma without any training. The problem isn't a lack of grit. It's that we've turned resilience into a moral obligation.
 
-Bessel van der Kolk spent decades showing that unprocessed trauma gets stored in the body. Somatic symptoms, chronic pain, inexplicable anxiety years later. The bill always comes due.
+Here's what the resilience industry doesn't tell you:
 
-Here's the uncomfortable truth the personal development industry won't tell you: resilience has been captured by institutions. When a corporation offers a resilience workshop instead of fixing a toxic workload, they're shifting responsibility from systems onto individuals. "Be more resilient" is often a polite way of saying "stop complaining about the broken thing."
+Chronic stress doesn't build character. It degrades the prefrontal cortex and shrinks the hippocampus. You don't adapt to it. You accumulate damage.
 
-The better you get at tolerating a harmful environment, the less incentive you have to leave it. Your adaptability becomes your cage.
+The real skill isn't handling more stress. It's knowing the difference between stress that grows you and stress that grinds you down.
 
-The real question isn't "How do I become more resilient?" It's "What am I being resilient at the expense of?"
+If you've been "building resilience" for years and you're more exhausted than when you started, the problem isn't your grit. It's your judgment about what to apply it to.
 
-That knot in your stomach before work? That's not weakness. That's data.
+Sometimes the bravest thing you can do is quit.
 
-What's your experience with the resilience trap?
+What's your experience with the "resilience trap"?
 
-#MentalHealth #WorkplaceCulture #Leadership #TraumaInformed #PersonalDevelopment
+#Resilience #Burnout #MentalHealth #Leadership #WorkCulture
 
 ---
 
-**Comment Thread**
+**Comment 1:**
+I dove deeper into this in my latest article — link in comments. The piece includes a simple heuristic for auditing your stress and knowing when to push vs. when to leave.
 
-**Comment 1 (Author):**
-I dove deeper into the data behind this — including the Seery curve showing that high adversity doesn't strengthen, it erodes — in my latest article. Link in the comments below.
+**Comment 2 (reply to predicted FAQ: "But what about growth mindset?"):**
+Great question. Growth mindset applies to challenges you can influence. Chronic toxic environments aren't challenges — they're constraints. Applying growth mindset to a broken system is like trying to think your way out of a flood. The skill is knowing which situation you're in.
 
-**Comment 2 (Reply to predicted FAQ: "So should we just stop being resilient?")**
-Not at all. The alternative isn't fragility — it's discernment. Healthy adaptation means processing, integrating, and then changing your environment. Maladaptive accommodation means suppressing, adjusting expectations downward, and staying put while your body keeps score. One is strength. The other is just endurance with a positive label.
-
-**Comment 3 (Reply to predicted counterargument: "Resilience saved my life")**
-I hear this a lot, and I don't want to dismiss it. For many people, resilience is genuinely life-saving — especially when you have no other options. The issue is when we stop there. When resilience becomes an identity instead of a temporary strategy. When we forget to ask: "Is this environment worth adapting to?" The goal isn't to endure everything. It's to build a life you don't need to endure.
+**Comment 3 (reply to predicted counterargument: "Quitting is just avoiding discomfort"):**
+There's a difference between avoiding discomfort and refusing to erode. Discomfort that ends builds capacity. Discomfort that never ends just breaks you. Quitting a job that's destroying your health isn't weakness — it's strategic preservation of your ability to show up for the things that actually matter.
