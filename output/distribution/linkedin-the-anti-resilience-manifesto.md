@@ -1,36 +1,40 @@
-Here is the LinkedIn post and comment thread optimized for your article.
+Here is the LinkedIn post and comment thread based on the article.
 
 ---
 
-**The most resilient people I know aren't the ones who endured the most. They're the ones who knew when to walk away.**
+**The people who describe themselves as "resilient" are often the most stuck people in the room.**
 
-I used to believe resilience was a superpower. Push through. Adapt. Never quit.
+I used to believe resilience was the ultimate professional virtue. Bounce back. Absorb the hit. Don't let them see you sweat.
 
-Then I read the data.
+Then I spent a year digging into the data on trauma recovery and high-performance teams.
 
-A 2023 meta-analysis in *Perspectives on Psychological Science* found that most people are naturally resilient. They bounce back from trauma without any training. The problem isn't a lack of grit. It's that we've turned resilience into a moral obligation.
+A 2011 review by George Bonanno in the *Annual Review of Clinical Psychology* found that only about 15% of people show a "resilient trajectory" after trauma. They bounce back fast.
 
-Here's what the resilience industry doesn't tell you:
+But here's the kicker: those fast-bouncers showed the *least* psychological growth. The people who struggled—who wrestled with the break—were the ones who reported meaning-making, value shifts, and real behavioral change.
 
-Chronic stress doesn't build character. It degrades the prefrontal cortex and shrinks the hippocampus. You don't adapt to it. You accumulate damage.
+The resilient people just went back to being the same person who got into trouble in the first place.
 
-The real skill isn't handling more stress. It's knowing the difference between stress that grows you and stress that grinds you down.
+This is the paradox nobody talks about. Resilience can be a trap. It lets you absorb failure after failure without ever questioning whether your configuration is the problem.
 
-If you've been "building resilience" for years and you're more exhausted than when you started, the problem isn't your grit. It's your judgment about what to apply it to.
+Daniel Coyle's research on Navy SEALs and surgical teams backs this up. The individuals who score highest on traditional resilience measures are often the worst long-term performers. They're too tough to learn.
 
-Sometimes the bravest thing you can do is quit.
+The highest-performing teams don't prioritize resilience. They prioritize psychological safety—the shared belief that it's safe to admit mistakes, ask for help, and show vulnerability.
 
-What's your experience with the "resilience trap"?
+What if the goal isn't to be unbreakable? What if it's to be breakable in the right ways—so that when you break, you break *toward* something better, not back to something familiar?
 
-#Resilience #Burnout #MentalHealth #Leadership #WorkCulture
+What's your experience with the "too tough to learn" trap?
+
+#Resilience #PersonalGrowth #PsychologicalSafety #EvidenceBased #Leadership
 
 ---
+
+**Comment Thread**
 
 **Comment 1:**
-I dove deeper into this in my latest article — link in comments. The piece includes a simple heuristic for auditing your stress and knowing when to push vs. when to leave.
+I dove deeper into this in my latest article, "The Anti-Resilience Manifesto" — link in the comments. It covers the concept of "clean breaking" and how to design your life for informative failure rather than just absorbing hits.
 
-**Comment 2 (reply to predicted FAQ: "But what about growth mindset?"):**
-Great question. Growth mindset applies to challenges you can influence. Chronic toxic environments aren't challenges — they're constraints. Applying growth mindset to a broken system is like trying to think your way out of a flood. The skill is knowing which situation you're in.
+**Comment 2 (Reply to predicted FAQ: "So you're saying we should just fall apart?"):**
+Not at all. This isn't an argument for fragility. It's an argument for *intentional breakability*. Think of it like software design: the best systems fail fast and fail loud. They surface the exact line of code that broke and refuse to keep running in a degraded state. That's more reliable than any "robust" system. The same applies to us.
 
-**Comment 3 (reply to predicted counterargument: "Quitting is just avoiding discomfort"):**
-There's a difference between avoiding discomfort and refusing to erode. Discomfort that ends builds capacity. Discomfort that never ends just breaks you. Quitting a job that's destroying your health isn't weakness — it's strategic preservation of your ability to show up for the things that actually matter.
+**Comment 3 (Reply to predicted counterargument: "Resilience helped me survive real trauma"):**
+You're absolutely right, and I want to be clear: emotional regulation and the ability to survive genuine hardship are essential. This critique is aimed at resilience as a *cultural ideal*—the pressure to "handle it yourself, get back up, don't let it show." The data suggests that the people who grow most from trauma aren't the ones who recover fastest. They're the ones who let the break reorganize them. Both things can be true.
