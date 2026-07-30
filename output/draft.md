@@ -1,51 +1,46 @@
-# Stop Being So Resilient
+# Resilience Is Not a Virtue. It's a Wrench.
 
-> The skill we keep celebrating is the one keeping you trapped in places you should have left years ago.
+> The people who adapt best to life aren't the ones who bounce back fastest. They're the ones who know when staying down is the smarter move.
 
 ## The Problem
 
-I spent a decade mistaking endurance for strength. Every time a job turned toxic, a relationship went cold, or a project became a grind, I did what the culture told me to do: I adapted. I grew. I became *more resilient*.
+For twenty years, resilience has been sold to us like a moral imperative. Get knocked down, get back up. Adapt. Pivot. Stay strong. The language of resilience has colonized everything from corporate wellness programs to parenting advice to trauma recovery. It sounds noble. It feels actionable. And it's half the story.
 
-And it nearly broke me.
+The other half is darker. A 2023 piece in *Harvard Business Review* laid it out plainly: chronic resilience correlates with emotional suppression, reduced help-seeking, and delayed recovery in clinical populations. The people who are "best" at resilience — the ones who keep going, who don't complain, who absorb blow after blow — are often the ones quietly accumulating the most damage. They're not processing. They're storing.
 
-We've built an entire mythology around resilience. It shows up in corporate wellness programs, graduation speeches, self-help books, and the quiet advice we give friends who are struggling: *Stay strong. You'll get through this. What doesn't kill you makes you stronger.* The message is consistent — the ability to absorb hardship and keep going isn't just useful, it's virtuous. A sign of character.
-
-But the data tells a different story. Resilience, when applied indiscriminately, doesn't make you stronger. It makes you a more efficient sufferer. And the people who are best at it often end up in the worst situations the longest.
+I've seen this in medicine. The patient who tells me they're "fine" after a devastating diagnosis, who refuses the referral to therapy, who insists they'll "get through it" — that patient worries me more than the one crying in the exam room. The crier is doing the work. The resilient one is building up debt.
 
 ## What The Data Says
 
-Let's start with the biology. Bruce McEwen and Huda Akil published a comprehensive review in *Neuroscience & Biobehavioral Reviews* in 2022 examining allostatic load — the cumulative wear and tear on your body from chronic stress adaptation. Their finding was stark: people who repeatedly adapt to stress without genuine recovery show measurable cardiovascular and cognitive damage, even when they report feeling "fine" subjectively. The body keeps score, and resilience without exit is just damage deferral.
+The foundational research on resilience trajectories comes from George Bonanno and colleagues, published in *Psychological Science in the Public Interest* in 2011. They tracked how people respond to potentially traumatic events and identified several patterns. The "resilient" group showed minimal disruption to their functioning. They kept working, kept socializing, kept moving. On paper, they looked like the success story.
 
-Then there's the behavioral data. A 2023 Harvard Business Review piece titled "The Dark Side of Resilience" synthesized multiple organizational studies showing that highly resilient employees stay longer in toxic workplaces. They don't fix the culture. They don't rise above it. They simply endure it — and the organization never faces the consequences of its dysfunction because the resilient ones absorb the cost.
+But here's the finding that should make you pause: those resilient individuals also showed *minimal growth*. They returned to baseline so efficiently that they skipped the part where transformation happens. The people who changed the most were the ones who struggled openly — who showed distress, who couldn't function normally for a while, who let the disruption run its course. Discomfort wasn't a bug in their recovery. It was the mechanism.
 
-The most uncomfortable finding comes from relationship research. People who score in the top quartile on resilience scales also report higher rates of staying in abusive or exploitative relationships. The mechanism isn't mysterious: resilience gives you better rationalization tools. *It's not that bad. I can handle this. Things will improve if I just keep showing up.* These aren't statements of strength. They're cognitive distortions dressed in gym clothes.
+Then there's the 2010 study by Seery and colleagues in the *Journal of Personality and Social Psychology*. They looked at lifetime adversity exposure and found a U-shaped curve. High adversity predicts poor outcomes — that's intuitive. But so does *low* adversity. The group with the least exposure to hardship showed the least growth, the lowest resilience, the poorest coping skills. They'd never been forced to develop them. The sweet spot was moderate adversity: enough to build capacity, not enough to break it. Resilience, it turns out, isn't something you're born with or taught in a workshop. It's scar tissue. And scar tissue only forms where there was a wound that didn't heal perfectly.
+
+Bessel van der Kolk's work in *The Body Keeps the Score* closes the loop. Resilience without processing is just somatic storage. The body keeps the ledger. Every unwept grief, every unacknowledged fear, every "I'm fine" when you're not — it all goes somewhere. The nervous system doesn't care about your narrative of strength. It records the physiology of the event and waits for resolution that never comes.
 
 ## The Counterintuitive Part
 
-Here's what nobody tells you: resilience is not a character virtue. It's a context-dependent tool, like a hammer. Useful when you're facing a temporary obstacle on the way to something worthwhile. Catastrophic when you use it to nail yourself to a burning house.
+Here's the argument that most resilience discourse misses: pain is not a malfunction. Pain is a signal. Physical pain tells you to pull your hand off the stove. Emotional pain tells you something is wrong with your environment, your relationships, your boundaries, your values. Resilience that bypasses processing is like silencing a smoke alarm because the noise is annoying.
 
-The resilience discourse has a quiet ideological function. Soraya Chemaly, in her 2025 book *The Resilience Myth*, argues that telling people to "bounce back" from systemic failures — poverty, discrimination, exploitative labor conditions — is a way of individualizing problems that require collective solutions. If you're burned out from working three jobs, the problem isn't your resilience deficit. It's that three jobs shouldn't be necessary to survive. But resilience language makes that structural critique disappear. Now it's a personal growth opportunity.
+The writer Visakan Veerasamy put this in stark terms in a 2022 thread that has stayed with me: "Resilience is just pain tolerance. Pain tolerance without signal processing is just self-harm." He's right. If you tolerate a toxic workplace because you're "resilient," you've confused endurance with wisdom. If you bounce back from a relationship that broke you without asking why you chose it, you've learned nothing. You've just gotten better at absorbing damage.
 
-Visakan Veerasamy, a writer who's been thinking about this longer than most, put it bluntly: "Sometimes the correct response to a bad environment isn't to become anti-fragile. It's to leave." That's not weakness. That's discernment.
-
-The real skill we should be teaching isn't how to endure more. It's how to recognize when endurance has become self-destructive. Call it the exit skill — the ability to distinguish between a challenge that's stretching you and a situation that's slowly dismantling you.
+The fragile resilient person is a recognizable type. They score high on resilience scales but low on emotional granularity — the ability to distinguish between frustration and disappointment, between grief and anger, between exhaustion and sadness. They don't feel less pain than others. They just name it less precisely. And that lack of precision predicts worse long-term outcomes across multiple studies. You can't process what you can't name. You can't heal what you can't feel.
 
 ## So What
 
-This isn't an argument against resilience. It's an argument against resilience as a default. Some things are worth pushing through. The first six months of learning anything hard. The grief of a loss that needs to be felt. The discomfort of honest feedback that will make you better.
+If resilience is a tool rather than a virtue, the question becomes: when do you use it, and when do you put it down?
 
-But if you find yourself repeatedly "growing" from the same painful situation — the same job, the same relationship, the same environment — you're not growing. You're adapting to poison.
+There are moments where resilience is exactly right. Acute crisis. A deadline that can't move. A child who needs you steady. In those situations, the ability to temporarily compartmentalize is adaptive. It buys you time. But the bill comes due. The mistake is treating the deferral as resolution.
 
-Practical questions to ask yourself:
+The alternative isn't fragility. It's what I'd call *deliberate non-resilience* — the practice of staying in discomfort long enough for it to teach you something. This is standard practice in trauma therapy, where the goal isn't to "bounce back" but to integrate. The wound stays open, in a controlled way, until the infection drains. Grief work operates on the same principle. You don't "get over" a loss. You let it reshape you. Creative blocks, too: the answer isn't to push through but to sit in the stuckness and ask what it's protecting you from.
 
-- **Is this situation actually improving, or am I just getting better at tolerating it?** If your answer is the latter, you're not resilient. You're habituated.
-
-- **Would I advise someone I love to stay in this?** We're terrible at self-assessment and remarkably clear-eyed about others. Use that.
-
-- **What would I do if I knew leaving wouldn't make me a "quitter"?** Because it doesn't. Quitting a dead end is intelligence, not failure.
-
-The people who thrive long-term aren't the ones who can absorb infinite punishment. They're the ones who know when to stop absorbing and start walking.
+Practically, this means:
+- When you notice yourself saying "I'm fine," pause. Ask: *What would I say if I weren't trying to be resilient right now?*
+- When something hurts, don't immediately look for the lesson. Let it hurt first. The lesson will still be there in a week.
+- When someone offers help, consider taking it. Chronic self-reliance is not a personality trait. It's often a trauma response dressed up as strength.
 
 ## The Bottom Line
 
-Resilience kept you alive through the hard thing. That's its job. But its job isn't to keep you there forever. The strongest move isn't always to stay and fight — sometimes it's to look at what you've been enduring and finally call it what it is: not a test of character, but a signal to leave.
+Resilience is a wrench. It's useful for tightening things that have come loose. But if you use it on everything — relationships, grief, identity, growth — you'll strip the threads. Sometimes the strongest thing you can do is fall apart, pay full attention to the pieces, and rebuild something that doesn't need to be so goddamn resilient in the first place.
