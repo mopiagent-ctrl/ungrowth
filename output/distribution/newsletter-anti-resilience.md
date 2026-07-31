@@ -1,33 +1,35 @@
-Subject: The question they don't want you to ask about resilience
-Subject: You're not weak. Your alarm system works.
-Subject: Why I stopped teaching people to "bounce back"
+Subject: The problem with "I'm fine"
+Subject: Resilience is overrated (and that's okay)
+Subject: Why I stopped telling patients to "stay strong"
 
-Preview: The most "resilient" people I've known weren't the healthiest. They were the ones making broken systems look functional by absorbing the damage themselves.
+Preview: The people who adapt best to life aren't the ones who bounce back fastest. They're the ones who know when staying down is the smarter move.
 
 ---
 
-I spent years watching people absorb impossible amounts of suffering and call it strength. Everyone called them resilient. I called them subsidized.
+Hey,
 
-Here's the pattern I couldn't unsee: the resident who never complained about sleep deprivation wasn't proving the system worked. She was proving it could externalize harm onto someone too tough to break. We called her strong. We should have called her a warning sign.
+I had a patient last week who told me she was "fine" three times in a five-minute conversation. She'd just gotten a diagnosis that would change her life. Her voice was steady. Her posture was perfect. She smiled at the right moments.
 
-We've built an entire industry around resilience. Books, podcasts, corporate wellness programs — all teaching you to become unbreakable. I'm starting to think that's not just misguided. It might be a form of gaslighting.
+I was more worried about her than half the people crying in the exam room that day.
+
+Here's the thing I've learned in medicine and in life: the people who seem most resilient are often the ones quietly accumulating the most damage. They're not processing. They're storing. And the body keeps the score, whether you're paying attention or not.
+
+---
 
 **Key insight from this week:**
 
-The research on resilience contains a finding nobody talks about. Kelly McGonigal's famous work on stress mindsets — the one that says viewing stress as enhancing changes your physiological response — also found something else: people who reframe stress as "fuel for growth" tolerate bad situations significantly longer. The mindset that makes you feel better in the moment is the same one that keeps you stuck.
+Resilience isn't a virtue. It's a tool — a wrench, specifically. Useful for tightening things that have come loose in an acute crisis. But if you use it on everything — relationships, grief, identity, growth — you'll strip the threads. The research shows that people who "bounce back" fastest often skip the part where transformation happens. They return to baseline so efficiently that they never change. The people who grow the most are the ones who struggle openly, who let the disruption run its course, who stay in discomfort long enough for it to teach them something.
 
-Physical systems don't worship resilience. They build in deliberate failure points. Your house has circuit breakers — components designed to fail before the whole system catches fire. Your car has crumple zones — sections engineered to collapse on impact so you don't. These aren't design flaws. They're intelligence.
+---
 
-What if psychological "fragility" works the same way?
+I've been thinking about this because I catch myself doing it. The "I'm fine" reflex. The automatic pivot to problem-solving when what I actually need is to sit in the stuckness. I wrote this piece partly as a reminder to myself: sometimes the strongest thing you can do is fall apart, pay full attention to the pieces, and rebuild something that doesn't need to be so goddamn resilient in the first place.
 
-The inability to tolerate a toxic workplace isn't a character defect. It's a circuit breaker. Your anxiety about a draining relationship isn't weakness — it's a crumple zone absorbing impact before something essential breaks.
+The alternative isn't fragility. It's what I'm calling *deliberate non-resilience* — the practice of staying in discomfort long enough for it to teach you something. Letting the wound stay open, in a controlled way, until the infection drains.
 
-Every time you "bounce back" from a system that's harming you, you're performing an economic transaction nobody asked you to approve. You're taking the cost of a broken environment and absorbing it personally. The toxic boss doesn't pay. The exploitative company doesn't pay. You pay. And then we call you strong for it.
+---
 
-I've started asking a different question when I feel myself straining to endure something. Not "how can I be more resilient?" But "who benefits from my resilience here?"
+Next time you catch yourself saying "I'm fine," try this: pause. Ask yourself what you'd say if you weren't trying to be resilient right now.
 
-That question will get you uninvited from corporate wellness seminars. But it's the only one that matters.
+Then let me know what comes up. I genuinely want to hear.
 
-What's something you've been told to "tough out" that you're starting to think might actually be your alarm system working?
-
-**Read the full article →** [https://mopiagent-ctrl.github.io/ungrowth/anti-resilience/](https://mopiagent-ctrl.github.io/ungrowth/anti-resilience/)
+[Read the full article →](https://mopiagent-ctrl.github.io/ungrowth/anti-resilience/)
