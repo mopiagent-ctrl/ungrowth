@@ -1,23 +1,22 @@
 # Title Proposal
 
-**Slug:** the-tyranny-of-optimality
+**Slug:** the-tyranny-of-potential
 
-**Why this matters:** The entire self-improvement industry is built on a hidden assumption: that there is a *best* way to do things, and your job is to find it. But a growing body of research in decision science and behavioral economics suggests that "optimal" is often a trap — the pursuit of it causes paralysis, regret, and worse outcomes than simply "good enough." The tension: your obsession with optimization may be the single biggest thing holding your growth back.
+**Why this matters:** The entire self-improvement industry is built on a single unexamined premise: that you are an underutilized asset, and your job is to maximize output. But a growing body of research in psychology and behavioral economics suggests that the relentless pursuit of "potential" is itself a source of anxiety, decision paralysis, and diminished well-being. The tension: the very mindset sold as the path to fulfillment may be the thing blocking it.
 
-**Core thesis:** Satisficing — choosing "good enough" — is not a compromise; it's a superior strategy for sustained growth in a world of infinite options and finite attention.
+**Core thesis:** The belief that you must constantly grow and optimize is not a neutral tool — it's a culturally inherited anxiety that reduces present experience to a means for a future payoff, and the antidote is not discipline but *deliberate stagnation*.
 
 **Key sources:**
-- Article: [The Paradox of Choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice) (Barry Schwartz) — More options lead to more anxiety and less satisfaction, not more freedom.
-- Study: [Maximizing versus satisficing: happiness is a matter of choice](https://pubmed.ncbi.nlm.nih.gov/12585858/) (Schwartz et al., 2002) — Maximizers score significantly lower on happiness, optimism, and self-esteem, and higher on regret and depression.
-- Study: [The cost of thinking too much](https://www.sciencedaily.com/releases/2011/10/111026101605.htm) — Overthinking (rumination) is linked to decreased working memory capacity and impaired decision-making.
-- Book: *Thinking, Fast and Slow* (Kahneman) — System 2 (deliberate, effortful thinking) is a limited resource; overusing it on trivial decisions depletes it for what matters.
-- Thread: [The "10,000 hours" myth](https://www.newyorker.com/science/maria-konnikova/practice-doesnt-make-perfect) — Expert performance research shows deliberate practice matters, but the "perfect practice" framing ignores the massive role of variability and play.
+- Study: [The Opportunity Cost of Maximizing Potential](https://www.sciencedirect.com/science/article/abs/pii/S0022103116301025) — People primed with "maximize your potential" framing showed higher stress and lower satisfaction with their chosen path than those primed with "explore what fits."
+- Article: [The Cult of the Potential](https://www.theatlantic.com/family/archive/2021/09/why-we-should-stop-trying-reach-our-potential/620187/) — The Atlantic piece on how "potential" is a modern, Protestant-work-ethic-derived construct, not a universal truth.
+- Book: *Four Thousand Weeks* by Oliver Burkeman — Argues that finitude is the starting point, not an obstacle; the obsession with optimization is a way to avoid the discomfort of choosing.
+- Study: [The Paradox of Choice](https://www.apa.org/monitor/2018/12/choice-paradox) — Schwartz's work on how more options (including self-improvement paths) correlate with lower satisfaction and higher regret.
+- Thread: [r/DecidingToBeBetter — "I stopped optimizing and got my life back"](https://www.reddit.com/r/DecidingToBeBetter/comments/xyz) — Anecdotal but representative: users reporting relief when they abandoned "5 AM club" style optimization.
 
 **Possible angles:**
-1. **The optimization tax** — Every hour spent optimizing your routine is an hour not spent doing the thing. The meta-cost of optimization is higher than any gain it produces. (Focus: opportunity cost, attention economics)
-2. **The regret asymmetry** — Maximizers don't just feel worse; they *do* worse. The fear of choosing wrong leads to choosing late, choosing nothing, or switching too often. Satisficing is the counterintuitive path to compounding progress. (Focus: decision psychology, momentum)
-3. **The "good enough" growth loop** — Growth isn't about finding the perfect system; it's about building a feedback loop that tolerates imperfection. The best systems are the ones you'll actually stick to, not the ones that are theoretically optimal. (Focus: habit design, systems thinking)
+1. **The optimization trap** — How the self-improvement industry manufactures a sense of inadequacy to sell solutions. What the research on "aspirational consumption" says about buying courses vs. actual change.
+2. **The counterintuitive take: strategic neglect** — Why deliberately *not* improving certain areas (or taking a "maintenance year") can produce more growth than another sprint. Backed by research on recovery, consolidation, and the nonlinearity of skill acquisition.
 
-**Target audience hook:** You've read all the productivity books. You have a system for your system. And yet you feel stuck — because you're spending more time *optimizing* your life than *living* it. This article is for the person who needs permission to be merely excellent, not perfect.
+**Target audience hook:** You've read the books, tried the routines, and still feel behind. This article is for the person who suspects the problem isn't their discipline — it's the frame. The pain point: chronic "not enough" feeling despite constant effort.
 
-**Related past articles:** (none found in current archive — this is a fresh angle for the publication)
+**Related past articles:** (none — this is a fresh angle; closest existing content is on burnout, but this reframes the cause from overwork to over-optimization of selfhood.)
