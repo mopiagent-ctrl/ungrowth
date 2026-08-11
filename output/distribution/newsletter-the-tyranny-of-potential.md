@@ -1,37 +1,39 @@
-Here is the newsletter draft based on the article.
+Subject: The Sunday Scaries Are a Trap (And I Fell For It Too)
+
+Preview: Why "you could be more" is the most dangerous sentence in self-improvement — and what to do instead.
 
 ---
 
-**Subject:**
-1. **The productivity trap you're stuck in (and how to escape)**
-2. **Why I'm declaring a "maintenance year" (and you should too)**
-3. **The data on why "maximizing your potential" is making you miserable**
+I spent most of my twenties convinced I was one optimization away from becoming my "real" self.
 
-**Preview:** The self-improvement industry is selling you an anxiety disorder. Here’s the counterintuitive case for strategic neglect and letting some potentials die.
+One more skill. One more certification. One more early morning. The problem was, every time I leveled up, the finish line moved. I'd finally get the thing I'd been chasing — and immediately find a new gap between who I was and who I "should" be.
 
----
-
-Hey,
-
-I’ve been thinking a lot about the "grind" lately. Not the hustle-culture, rise-and-grind stuff—I mean the quieter, more insidious pressure we all feel to constantly be *becoming* something better.
-
-You know the loop. You finish one book on habits, and a new one drops that you *should* probably read. You hit a goal, and your brain immediately calculates the next rung on the ladder. I literally caught myself yesterday feeling guilty for not meditating long enough. That’s not discipline. That’s a glitch in the operating system.
-
-This week, I wrote about what I’m calling the "Tyranny of Potential." It’s the idea that we’ve been sold a cultural script telling us our lives are assets to be maximized, and any moment not spent optimizing is a moment wasted.
+It took a Sunday evening panic attack — the kind where you're sitting on the couch, not resting, but mentally auditing your own inadequacy — to realize I wasn't ambitious. I was trapped.
 
 **Key insight from this week:**
-The data suggests this entire premise is a trap. A 2016 study found that people primed with a "maximize your potential" mindset didn't achieve more—they just reported higher stress, more decision paralysis, and lower satisfaction. The very mindset sold as the engine of achievement is corroding our ability to enjoy the results. We’re not failing; we’re drowning in possibility.
 
-I’ve been guilty of this for years. As a doctor, I was trained to optimize—patient outcomes, workflows, my own knowledge base. And as a coder, there’s always a better architecture, a cleaner function. But applying that logic to my *life* has been a disaster. It turns the present into a down payment on a future that never arrives.
+The tyranny of potential is the belief that you're an underutilized asset with a moral duty to optimize. It sounds like motivation, but it's actually a cognitive trap. "Could be" is infinite. "Should be" is a demand. And the gap between them is where chronic dissatisfaction lives.
 
-The article gets into the counterintuitive fix: deliberate stagnation. Taking a "maintenance year" in at least one domain. Letting plateaus happen. It feels like giving up, but the research on skill acquisition shows that consolidation phases are where the real growth happens. You can't sprint forever.
+The research backs this up. Barry Schwartz showed that more options — including more possible versions of yourself — produces paralysis, not liberation. And decades of studies on "maximizers" vs. "satisficers" reveal something uncomfortable: people who chase the absolute best in everything report *lower* life satisfaction than people who settle for good enough — even when the maximizers objectively win more.
 
-I decided to test this myself. I’m declaring a maintenance year on my fitness goals. Not quitting—just letting "good enough" be good enough for a while. I’m curious to see what happens to my anxiety levels.
+You can have the better job, the higher income, the longer skill list — and feel worse about it. The pursuit of maximum potential doesn't just fail to deliver happiness. It actively prevents it.
 
-Read the full article for the three practical steps I’m using to fight back against the optimization machine.
+I've been a maximizer my whole life. As a doctor, I was trained to optimize every variable. As a coder, I was taught that there's always a more elegant solution. And as a human, I kept applying that logic to my own existence — with predictable results.
 
-[Read the full article →](https://mopiagent-ctrl.github.io/ungrowth/the-tyranny-of-potential/)
+What's helped me isn't a productivity hack. It's a reframe:
 
-What’s one area of your life where you’re terrified to let yourself plateau? Hit reply and let me know—I read everything.
+1. **Audit your "should" statements.** Every time you think "I should be doing more," ask: says who? Most of those impulses aren't yours. They're borrowed.
 
-— [Your Name]
+2. **Practice satisficing deliberately.** Pick three things that matter and let the rest be genuinely average. The bandwidth you free up is worth more than the marginal gains.
+
+3. **Redefine waste.** An hour doing nothing is not wasted if it restores you. A skill you never monetize is not wasted if it brought you joy. The most meaningful parts of life — relationships, rest, play — are profoundly inefficient. That's the point.
+
+You are not an asset to be maximized. You're a person who gets to decide what "enough" looks like.
+
+That decision — not the endless pursuit of more — is where satisfaction lives.
+
+**Read the full article →** [The Tyranny of Potential](https://mopiagent-ctrl.github.io/ungrowth/the-tyranny-of-potential/)
+
+---
+
+What's one "should" you've been carrying that you suspect isn't actually yours? I'd love to hear it — hit reply and tell me.
