@@ -1,50 +1,38 @@
 # LinkedIn Post
 
-I used to believe the problem was that I wasn't disciplined enough.
+I used to believe that if I could just optimize one more thing, I'd finally feel in control.
 
-I read Atomic Habits. Color-coded my calendar. Woke up at 5:17 AM because someone on a podcast said 5:15 wasn't aggressive enough. My supplements were organized by circadian phase. My workouts were periodized. My deep work blocks were sacrosanct.
+Sleep score: 92. Workout streak: 47 days. Meditation app: top 5% of consistent practitioners.
 
-And yet, two years later, I wasn't qualitatively different. Just busier. More efficient at executing a plan that hadn't changed anything fundamental about who I was.
+And yet, the anxiety never left. It just got better at hiding behind a spreadsheet.
 
-Here's what the research actually says about this.
+Here's what I've come to realize: the more efficiently you optimize yourself, the more you reinforce the belief that you were broken to begin with.
 
-A 2018 review in Current Opinion in Psychology found that inflexible commitment to specific goals reliably reduces psychological flexibility and impairs well-being. The skill that predicts better mental health isn't goal pursuit — it's goal disengagement. Knowing when to quit.
+Barry Schwartz's research on the paradox of choice showed this two decades ago — more options and more optimization correlate with *lower* satisfaction, not higher. Jia Tolentino called it converting existential questions into technical problems. "Am I living a meaningful life?" becomes "Is my sleep score above 85?"
 
-Psychologists call this the Einstellung Effect: when you've mastered solving a problem one way, that expertise blinds you to better solutions. Your brain stops searching. The familiar strategy works, so why explore?
+The first question is uncomfortable, unanswerable, and profoundly human. The second is solvable — which is exactly why it's so seductive.
 
-Optimization is the Einstellung Effect at the scale of your entire life.
+And the 2024 meta-analysis on perfectionism delivers the punchline: perfectionists don't achieve more. They suffer more.
 
-The counterintuitive part? The mechanisms of real growth look exactly like what optimization tries to eliminate. Idle time. Unstructured exploration. Boredom. Contextual interference — the "messy" practice that produces worse short-term performance but better long-term retention.
+The counterintuitive fix isn't more optimization. It's self-compassion. Kristin Neff's research shows that self-acceptance — not self-optimization — is the stronger predictor of sustained behavior change. The people who improve most are the ones who stop treating themselves as a project.
 
-Taleb said it in Antifragile: systems that benefit from volatility outperform those optimized for stability. Optimization makes you fragile because it removes the stressors that drive adaptation.
+So I deleted my morning metrics check. I cook without recipes now. I publish things that aren't perfect.
 
-Your muscles don't grow from comfort. Neither does your identity.
+The trap loosens when you stop measuring.
 
-The shift that changed everything for me: stop asking "how can I optimize this?" and start asking "what am I optimizing for — and is that actually what I want?"
+What's one metric you've been tracking that might be tracking you?
 
-Then build in deliberate inefficiency. Unstructured blocks. Projects with unknown outcomes. Periodically break your own systems to see what happens.
-
-Optimization is a tool for exploitation, not exploration. It helps you get more out of what you already know works. It cannot help you discover what you don't yet know.
-
-You can't engineer your way to a self you haven't met yet.
-
-The person you're optimizing might be the very thing you need to leave behind.
-
-What's your experience with the optimization trap?
-
-#PersonalGrowth #EvidenceBased #Mindset #Antifragile #Psychology
+#PersonalGrowth #EvidenceBased #Mindset #SelfCompassion #Productivity
 
 ---
 
 # Comment Thread
 
 **Comment 1:**
-I dove deeper into the research on this in my latest article — including the data on goal disengagement and the Einstellung Effect. Link in the comments if you want to read the full breakdown.
+I wrote about this in more depth in my latest article — link in the comments. The short version: the optimization treadmill doesn't have an exit because the exit would require accepting that you don't need to be on it.
 
-**Comment 2:**
-(Reply to predicted FAQ — "But doesn't this contradict Atomic Habits / habit research?")
-Great question. The distinction matters: habits are powerful for automating behaviors you've already decided are worth keeping. The problem is when habit-formation becomes the *only* tool in your toolkit. Habits are exploitation — they help you execute. They don't help you explore. You need both, but the personal development industry only sells you one.
+**Comment 2 (reply to anticipated question about "what about people who genuinely benefit from tracking?"):**
+Fair pushback. I'm not saying all tracking is bad — if tracking your workouts helps you show up, keep it. The question is which metrics serve you versus which ones have become a substitute for feeling okay. The sleep score you check before you've even opened your eyes? That one's probably not serving you.
 
-**Comment 3:**
-(Reply to counterargument — "I optimized my way to success, so this doesn't apply to me")
-That's a fair challenge, and I'd push back gently: optimization works incredibly well for domains where the goal is clear and stable — career execution, skill refinement, physical training. The trap isn't optimization itself. It's applying it to the one thing it can't do: helping you discover who you want to become. If you've never asked "is the person I'm optimizing actually who I want to be?" — that's worth sitting with.
+**Comment 3 (reply to anticipated counterargument about "but optimization is how I got where I am"):**
+That's exactly the trap I fell into. Optimization got me to a certain level — and then it became the ceiling. The skills that got you here aren't necessarily the skills that get you through the next phase. Sometimes the next phase requires doing things badly on purpose, just to break the association between imperfection and threat.
