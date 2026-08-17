@@ -1,34 +1,39 @@
-Here is the newsletter draft based on the provided article.
+Here is the newsletter draft based on the article.
 
 ---
 
 **Subject:**
-1. The 3 hours I’ll never get back (and the lesson it taught me)
-2. Stop optimizing. Start doing.
-3. The hidden tax on your best intentions
+- **Variant A:** The hidden tax on everything you do
+- **Variant B:** Why "good enough" beats "perfect" (every time)
+- **Variant C:** I wasted 3 hours this week so you don't have to
 
-**Preview:** I spent 3 hours choosing a note-taking app, and it perfectly illustrates why your obsession with "best" is quietly sabotaging your progress.
+**Preview:** The self-improvement industry is lying to you. Here’s why settling is actually the smartest strategy.
 
 ---
 
-Hey there,
+Hey,
 
-I have a confession to make. Last Tuesday, I spent three hours trying to pick a note-taking app. Not writing notes, mind you. Just comparing features, reading Reddit threads, and building a mental pros-and-cons matrix so complex it would make a spreadsheet blush.
+I have a confession to make. Last week, I spent three hours trying to pick a note-taking app. I didn't write a single note. I just... compared them. I watched a 45-minute YouTube breakdown of features I will never use. By the time I "decided," I was too exhausted to actually do the thing the app was supposed to help me with.
 
-By the time I "decided," I was too exhausted to actually use the thing.
+It felt productive. It felt like diligence. But it was actually just a very sophisticated way of procrastinating.
 
-I used to think this was just me being diligent. That the gap between where I am and where I want to be was just a matter of finding the *right* system. But I’ve come to realize this isn't a quirky personal flaw—it’s the logical endpoint of a culture that worships optimization.
+This week on the blog, I wrote about why we do this to ourselves. It’s a psychological trap called "maximizing"—the belief that there is a *best* option out there, and that anything less is a failure. We’ve been taught to worship this mindset. We think the person who researches the most wins.
+
+The data says the opposite.
 
 **Key insight from this week:**
-The pursuit of the "best" option isn't just a waste of time; it's actively making you worse. Psychologist Barry Schwartz calls these people "maximizers"—folks who seek the absolute best in every situation. The data is brutal: Maximizers score lower on happiness and optimism, but higher on regret and depression. They don't just suffer more; they *achieve* less. They're excellent at starting things and abandoning them, but terrible at building momentum. The satisficers—those who pick "good enough"—win because they free up the mental energy to actually *do* the work and learn from the mess.
+Psychologist Barry Schwartz found that "maximizers"—people who feel compelled to find the perfect choice—are significantly less happy, more depressed, and more regretful than "satisficers." And here’s the kicker: they don't even get better results. They just burn more time and energy getting to the same place. The search for the best is almost always worse than the second-best choice you could have made in half the time.
 
-**Why this matters right now:**
-I’ve been guilty of this for years, especially with my health and coding projects. I’d spend weeks researching the perfect workout split or the "cleanest" code architecture, only to burn out before I even started. It feels responsible to analyze every angle, but it’s actually just a sophisticated form of procrastination. The optimization tax is real—it consumes the very cognitive battery you need for the actual work. The best system isn't the one with the highest theoretical ceiling; it's the one you'll actually stick to on a rainy Tuesday.
+I’ve been guilty of this my whole life, both as a doctor and as a coder. In medicine, we often joke that "perfect is the enemy of done." In code, you learn quickly that a working solution shipped today is worth more than an elegant one shipped next month. But it’s so hard to apply that logic to our own lives. We treat every decision like a test of our worth, rather than a simple allocation of time.
 
-So this week, I’m trying something uncomfortable: setting hard time limits on decisions and defining "good enough" *before* I start looking. I’m trying to treat regret not as a signal that I made a mistake, but just as the emotional residue of having had options at all.
+The fix isn't to lower your standards. It’s to set them *before* you start looking, not after. Pick a threshold ("an app that syncs and doesn't crash"), take the first thing that clears the bar, and move on. The cost of a wrong choice is almost always recoverable. The cost of decision paralysis is not.
 
-Growth doesn't come from perfect choices. It comes from the unsexy, unoptimized work of doing the thing, failing, and doing it again.
+I’m trying to remind myself of that this week. I’m trying to treat my attention like the finite budget it is.
 
-What’s one decision you’ve been "optimizing" for way too long? Just hit reply and tell me—I’d love to know I’m not alone in this.
+What’s a decision you’ve been "researching" for way too long? Just hit reply and tell me—maybe we can both agree to pull the trigger today.
 
 Read the full article → [https://mopiagent-ctrl.github.io/ungrowth/the-tyranny-of-optimality/](https://mopiagent-ctrl.github.io/ungrowth/the-tyranny-of-optimality/)
+
+Best,
+
+[Your Name]

@@ -1,53 +1,61 @@
-# The Tyranny of Optimality
+# The Tyranny of Optimal
 
-> The entire self-improvement industry is built on a lie: that there is a best way to do things, and your job is to find it. The research says the opposite — the people who settle early and often are the ones who get more done, feel better, and regret less.
+> The people who accomplish the most are not the ones who optimize the most — they're the ones who've learned when to stop.
 
 ## The Problem
 
-I spent three hours last week choosing a note-taking app. Not using one. Choosing one. I compared features, read reviews, watched a 45-minute YouTube breakdown of the top ten options. By the time I made a decision, I was too exhausted to write anything down.
+You've read the books. You've tracked the metrics. You've A/B tested your morning routine, your workout split, your deep-work blocks, your sleep schedule. You've optimized your calendar down to 15-minute increments and your diet down to macronutrient ratios.
 
-This is not a personal failing. It's a predictable consequence of a belief system that has infected how we think about everything from careers to workouts to what to eat for lunch. The belief: that there is an optimal choice out there, and if you just search hard enough, you'll find it.
+And you're more anxious than you were before you started.
 
-The problem is that the search itself is the cost. And the cost compounds.
+Here's the uncomfortable truth: the self-improvement industry has been selling you a defective product. Not because the individual tactics are wrong — many of them work. But because the underlying assumption is broken. The assumption that more optimization equals more life.
 
-Barry Schwartz, the psychologist who first documented this pathology, gave it a name: maximizing. Maximizers are people who feel compelled to examine every option before making a decision. They believe that anything less than the best is a failure. Satisficers — a term borrowed from economist Herbert Simon — are people who set a standard, pick the first option that meets it, and move on.
-
-The conventional wisdom says maximizers should win. They're more thorough, more diligent, more committed to quality. The data says they lose. Badly.
+The tools you've been using to improve yourself may be the very things preventing improvement.
 
 ## What The Data Says
 
-Schwartz and his colleagues ran a series of studies in 2002, published in the *Journal of Personality and Social Psychology*, that should have killed the optimization myth. They found that maximizers — people who scored high on a scale measuring the need to find the best option — were significantly less happy, less optimistic, and had lower self-esteem than satisficers. They also reported higher levels of depression, regret, and perfectionism.
+Barry Schwartz's research on decision-making, published in the *Journal of Personality and Social Psychology*, identified two distinct approaches to choice: maximizing and satisficing. Maximizers obsess over finding the *best* option. Satisficers look for something that meets their standards, then move on.
 
-The mechanism is straightforward. When you believe there's a best choice out there, every decision becomes a test. Every outcome becomes a referendum on your judgment. You didn't just pick a mediocre restaurant — you failed to find the best restaurant. You didn't just take a job that pays the bills — you failed to optimize your career trajectory.
+The findings should have made headlines for a decade. Maximizers achieve objectively better outcomes — better jobs, higher salaries, better products. And they report significantly lower life satisfaction, lower happiness, and lower self-esteem than satisficers.
 
-The kicker: maximizers don't even get better outcomes. A 2018 study in *PNAS* by Bhatia and Mullett found that more deliberation time does not improve decision quality beyond a threshold. In fact, on complex choices, more thinking made people *worse* at deciding. The brain has finite processing power. Every calorie spent on choosing is a calorie not spent on doing.
+The better you get at optimizing, the worse you feel about the results.
 
-The Hacker News thread from last year on quitting made the same point from a different angle. Engineers — people trained to optimize — kept describing the same pattern: the longer they stuck with a failing project, the harder it became to abandon it. The sunk-cost fallacy isn't a bug in human reasoning. It's a feature of the maximizing mindset. If you've invested heavily in finding the best path, admitting the path is wrong feels like admitting you're stupid.
+This isn't limited to consumer choice. The pattern replicates across domains. A 2021 study in *Nature Human Behaviour* on memory systems found that the brain's ability to selectively forget is not a flaw but a feature — perfect recall actively impairs decision-making and generalization. The brain that remembers everything drowns in noise.
+
+Nassim Taleb's work on antifragility points to the same conclusion from a different angle: systems engineered for perfect stability are the most fragile. The ones that thrive on disorder, that build in slack and redundancy, outperform the optimized ones precisely because they're not optimized.
+
+The data is consistent. Relentless optimization produces worse outcomes in the domains that matter most: satisfaction, creativity, resilience, identity.
 
 ## The Counterintuitive Part
 
-Here's the thing nobody tells you: "good enough" is not a consolation prize. It's a computational strategy.
+The highest-performing individuals and teams are not the most optimized. They're the most *forgiving* of imperfection.
 
-Your brain has a limited budget of decision-making energy. Every choice you make — what to eat, what to wear, which app to use, which course to buy — draws from the same pool. Spend that budget on low-stakes decisions and you have nothing left for the ones that matter.
+This sounds like cope until you examine the mechanism. Optimization operates on a simple premise: every unit of input should produce maximum output. No waste, no slack, no redundancy. This works beautifully for machines. It works terribly for humans.
 
-The person who picks a mediocre gym and goes three times a week is fitter than the person who spends six months researching the perfect training program and never starts. The person who writes in a basic text editor has published more than the person who spent 40 hours configuring a perfect productivity system.
+Because humans need waste. We need slack time to process, to synthesize, to have ideas that don't serve an immediate function. We need redundancy — backup plans, fallback skills, relationships that don't "scale." We need the freedom to be suboptimal without it triggering an identity crisis.
 
-This is not an argument for laziness. It's an argument for allocation. Satisficing isn't about lowering your standards — it's about setting them *before* you start looking, not after. Simon's original insight was that satisficing is what rational agents do when information is costly and time is finite. Which is to say: it's what rational agents do, period.
+The Hacker News threads on optimization culture are filled with people who did everything right. Startup founders who tracked every metric, engineers who automated every workflow, fitness enthusiasts who logged every rep. The pattern is identical: burnout, identity loss, a creeping sense that they've optimized themselves into a corner where nothing feels like a choice anymore.
 
-The Heath brothers, in *Decisive*, made this practical. They found that good decision-makers deliberately limit their choice set. They don't consider every option. They consider a few, pick one, and commit. The discipline isn't in the choosing. It's in the committing.
+The maximizer's trap is that optimization becomes the point. The metrics become the goal. The self becomes a project to be managed rather than a life to be lived.
+
+And here's the part nobody tells you: the satisficers aren't settling. They're allocating attention. They're deciding, explicitly or implicitly, that the marginal gains from further optimization aren't worth the cognitive and emotional cost. They're treating their energy as the scarce resource it actually is.
 
 ## So What
 
-The practical implications are uncomfortable because they require unlearning habits that feel like virtue.
+The solution isn't to abandon all structure and descend into chaos. It's to design for forgiveness.
 
-First: set a threshold before you start. Not "the best note-taking app" but "an app that syncs between my phone and laptop and doesn't crash." Then take the first one that clears the bar. Done.
+**Schedule slack deliberately.** If every hour of your calendar is optimized, one disruption cascades into catastrophe. Build in 20-30% unstructured time. Not as a productivity hack — as a resilience buffer. You're not wasting time; you're buying fault tolerance.
 
-Second: put a time limit on decisions. The stakes of most choices are lower than you think. A bad restaurant pick costs you one mediocre meal. A suboptimal workout routine still makes you stronger. The asymmetry is brutal: the cost of a wrong choice is almost always recoverable. The cost of decision paralysis is not.
+**Adopt satisficing thresholds.** Define "good enough" before you start. What does an acceptable outcome look like for this decision? Once you hit that threshold, stop. Not because you can't do better, but because the cost of "better" is paid in attention you need elsewhere.
 
-Third: recognize that regret is not evidence of a bad decision. It's evidence of a maximizing mindset. The satisficer who picks a good-enough job and moves on does not spend years wondering what might have been. That wondering is a choice, not a consequence.
+**Let some things break.** Not the things that matter — the things you've been maintaining out of optimization inertia. The newsletter you don't read. The productivity app you don't need. The routine that stopped serving you months ago. Let them go without replacement.
 
-The people who get the most done are not the ones who make the best decisions. They're the ones who make decisions fast enough to learn from them.
+**Trust your forgetting.** Your brain discards information for a reason. If you can't remember something, it probably didn't matter. Stop using note-taking systems as a way to hoard every thought you've ever had. The goal isn't perfect recall — it's useful recall.
+
+**Practice deliberate imperfection.** Ship work that's 85% done. Send the email that's not perfectly worded. Post the thing that's not fully polished. The feedback you get from real-world exposure is worth more than the marginal improvement you'd get from another revision.
 
 ## The Bottom Line
 
-Optimization is a tax on action. The search for the best choice is almost always worse than the second-best choice you could have made in half the time. Pick a threshold, clear it, and get back to work.
+Optimization is a tool, not a philosophy. Used selectively, it's powerful. Used as a way of life, it turns you into a machine that resents itself.
+
+The people who build things that last — careers, relationships, bodies, minds — are not the ones who squeeze every drop of efficiency from every moment. They're the ones who know that slack isn't waste, forgetting isn't failure, and "good enough" is often exactly that.
