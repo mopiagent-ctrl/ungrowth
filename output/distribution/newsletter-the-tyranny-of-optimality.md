@@ -1,39 +1,56 @@
-Here is the newsletter draft based on the article.
+# Newsletter Draft: The Tyranny of Optimality
 
 ---
 
-**Subject:**
-- **Variant A:** The hidden tax on everything you do
-- **Variant B:** Why "good enough" beats "perfect" (every time)
-- **Variant C:** I wasted 3 hours this week so you don't have to
+**Subject Line Options:**
 
-**Preview:** The self-improvement industry is lying to you. Here’s why settling is actually the smartest strategy.
+1. **The self-improvement trap you didn't know you were in** *(Best — curiosity gap, personal)*
+2. Why "optimal" is making you miserable
+3. I stopped optimizing my mornings. Here's what happened.
 
 ---
 
-Hey,
+**Preview:** The research is clear: chasing the "best" version of everything is actively destroying your satisfaction — even when you win.
 
-I have a confession to make. Last week, I spent three hours trying to pick a note-taking app. I didn't write a single note. I just... compared them. I watched a 45-minute YouTube breakdown of features I will never use. By the time I "decided," I was too exhausted to actually do the thing the app was supposed to help me with.
+---
 
-It felt productive. It felt like diligence. But it was actually just a very sophisticated way of procrastinating.
+**Email Body:**
 
-This week on the blog, I wrote about why we do this to ourselves. It’s a psychological trap called "maximizing"—the belief that there is a *best* option out there, and that anything less is a failure. We’ve been taught to worship this mindset. We think the person who researches the most wins.
+I need to confess something.
 
-The data says the opposite.
+For the past year, I've been running what I thought was the perfect morning routine. Cold plunge at 5:45. Sunlight before 8. Gratitude journal. Zone 2 cardio. Protein-forward breakfast logged in three different apps.
+
+And you know what? I was miserable. Not because anything was wrong — by every metric, I was crushing it. But somewhere along the way, I'd turned my life into a dashboard, and I was failing at being human.
+
+This week I wrote about something that's been nagging at me: the tyranny of optimality.
 
 **Key insight from this week:**
-Psychologist Barry Schwartz found that "maximizers"—people who feel compelled to find the perfect choice—are significantly less happy, more depressed, and more regretful than "satisficers." And here’s the kicker: they don't even get better results. They just burn more time and energy getting to the same place. The search for the best is almost always worse than the second-best choice you could have made in half the time.
 
-I’ve been guilty of this my whole life, both as a doctor and as a coder. In medicine, we often joke that "perfect is the enemy of done." In code, you learn quickly that a working solution shipped today is worth more than an elegant one shipped next month. But it’s so hard to apply that logic to our own lives. We treat every decision like a test of our worth, rather than a simple allocation of time.
+The self-improvement industry has spent two decades convincing us that "good enough" is a failure of character. But the research tells a different story. Barry Schwartz's famous 2002 study found that maximizers — people who always seek the best option — score significantly lower on life satisfaction than satisficers. They experience more regret, more depression, more anxiety.
 
-The fix isn't to lower your standards. It’s to set them *before* you start looking, not after. Pick a threshold ("an app that syncs and doesn't crash"), take the first thing that clears the bar, and move on. The cost of a wrong choice is almost always recoverable. The cost of decision paralysis is not.
+And here's the kicker: a 2009 study found that maximizers often make *objectively better* choices. Better jobs. Better outcomes. They just feel worse about all of it.
 
-I’m trying to remind myself of that this week. I’m trying to treat my attention like the finite budget it is.
+You can be winning by every metric that matters and still feel like you're losing.
 
-What’s a decision you’ve been "researching" for way too long? Just hit reply and tell me—maybe we can both agree to pull the trigger today.
+I've been thinking about this as both a doctor and a coder. In medicine, we learn to triage — to know which cases deserve full attention and which just need a quick, good-enough response. In software, we have the concept of "good enough" code that ships versus perfect code that never ships.
 
-Read the full article → [https://mopiagent-ctrl.github.io/ungrowth/the-tyranny-of-optimality/](https://mopiagent-ctrl.github.io/ungrowth/the-tyranny-of-optimality/)
+But somewhere along the way, I forgot to apply that same discrimination to my own life. I was treating every decision like a high-stakes surgery when most of them are just... breakfast.
 
-Best,
+The counterintuitive truth I'm trying to internalize: settling is a form of self-protection. It's a firewall against the escalation of expectations. When you stop trying to optimize everything, you actually free up bandwidth for the things that matter.
 
-[Your Name]
+I'm not arguing for nihilism. I'm arguing for discrimination — knowing when to optimize and when to let go.
+
+So this week, I'm trying something new. I'm setting standards, not targets. Timeboxing small decisions. Auditing my optimization stack. And practicing the skill of being done.
+
+**The question I keep coming back to:** What's one thing you're currently over-optimizing that you could just... let be good enough?
+
+I'd genuinely love to hear your thoughts — hit reply and tell me what you're holding too tightly.
+
+---
+
+**[CTA]**
+Read the full article → [The Tyranny of Optimality](https://mopiagent-ctrl.github.io/ungrowth/the-tyranny-of-optimality/)
+
+---
+
+*P.S. If you found this useful, consider sharing it with someone who's been "optimizing" their life into exhaustion. They might need permission to stop.*
