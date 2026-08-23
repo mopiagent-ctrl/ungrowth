@@ -1,39 +1,43 @@
-Subject: The Sunday Scaries Are a Trap (And I Fell For It Too)
-
-Preview: Why "you could be more" is the most dangerous sentence in self-improvement — and what to do instead.
+Here is a newsletter draft based on the article.
 
 ---
 
-I spent most of my twenties convinced I was one optimization away from becoming my "real" self.
+**Subject:**
+- **Variant A (Curiosity):** The $41B industry that's making you miserable
+- **Variant B (Direct):** Stop trying to reach your potential
+- **Variant C (Provocative):** Your potential is a liability
 
-One more skill. One more certification. One more early morning. The problem was, every time I leveled up, the finish line moved. I'd finally get the thing I'd been chasing — and immediately find a new gap between who I was and who I "should" be.
+---
 
-It took a Sunday evening panic attack — the kind where you're sitting on the couch, not resting, but mentally auditing your own inadequacy — to realize I wasn't ambitious. I was trapped.
+**Preview:** The relentless pursuit of self-improvement might be the very thing keeping you stuck. Here’s the counterintuitive fix.
+
+---
+
+Hey there,
+
+I’ve been thinking a lot about the "gap" lately. You know the one I mean—the distance between who you are and who you think you *should* be.
+
+For years, I treated that gap as a personal challenge. As a doctor, I was trained to optimize. As a coder, I was trained to debug. So I applied that same logic to my own life. I optimized my mornings, my sleep, my deep work blocks. I read the books, I tracked the metrics, I did the work.
+
+And you know what happened? I felt *more* behind than when I started.
+
+If that resonates, I wrote something for you this week. It’s about the tyranny of potential—the idea that the belief in your untapped potential isn't a neutral motivator, but a cognitive load that makes you less satisfied and less effective.
 
 **Key insight from this week:**
 
-The tyranny of potential is the belief that you're an underutilized asset with a moral duty to optimize. It sounds like motivation, but it's actually a cognitive trap. "Could be" is infinite. "Should be" is a demand. And the gap between them is where chronic dissatisfaction lives.
+The self-improvement industry runs on a single unexamined premise: that you are an underutilized asset. But the data tells a different story. Research shows that "what if" thinking—imagining the alternate versions of yourself—significantly increases depressive symptoms and lowers motivation for current tasks. Similarly, Barry Schwartz’s work on "maximizers" (people who seek the best outcome) shows they achieve better results but feel *worse* about their lives than "satisficers" (people who settle for good enough). The pursuit of "best" literally destroys the capacity to enjoy "good."
 
-The research backs this up. Barry Schwartz showed that more options — including more possible versions of yourself — produces paralysis, not liberation. And decades of studies on "maximizers" vs. "satisficers" reveal something uncomfortable: people who chase the absolute best in everything report *lower* life satisfaction than people who settle for good enough — even when the maximizers objectively win more.
+**Why this matters right now:**
 
-You can have the better job, the higher income, the longer skill list — and feel worse about it. The pursuit of maximum potential doesn't just fail to deliver happiness. It actively prevents it.
+I’ve been feeling the pull of the treadmill more than ever lately. It’s so easy to get caught up in the idea that I should be doing more, building more, becoming more. But I’m starting to realize that all those open loops—the potential futures I’m keeping alive—are just overhead. They’re a tax on my attention.
 
-I've been a maximizer my whole life. As a doctor, I was trained to optimize every variable. As a coder, I was taught that there's always a more elegant solution. And as a human, I kept applying that logic to my own existence — with predictable results.
+The fix isn't nihilism. It's resource allocation. It’s about deciding, deliberately, what you’re willing to be mediocre at so you can be exceptional at the one or two things that actually matter. It’s about closing the loops and embracing strategic mediocrity.
 
-What's helped me isn't a productivity hack. It's a reframe:
+I’m trying to pick my "good enough" zones and stop feeling guilty about them. It’s harder than it sounds, but it feels like the most productive thing I’ve done in years.
 
-1. **Audit your "should" statements.** Every time you think "I should be doing more," ask: says who? Most of those impulses aren't yours. They're borrowed.
+What's one area of your life you could deliberately decide to stop optimizing this week? Just hit reply and let me know—I read every response.
 
-2. **Practice satisficing deliberately.** Pick three things that matter and let the rest be genuinely average. The bandwidth you free up is worth more than the marginal gains.
+In the meantime, here’s the full breakdown of the research and the practical steps I’m taking.
 
-3. **Redefine waste.** An hour doing nothing is not wasted if it restores you. A skill you never monetize is not wasted if it brought you joy. The most meaningful parts of life — relationships, rest, play — are profoundly inefficient. That's the point.
-
-You are not an asset to be maximized. You're a person who gets to decide what "enough" looks like.
-
-That decision — not the endless pursuit of more — is where satisfaction lives.
-
-**Read the full article →** [The Tyranny of Potential](https://mopiagent-ctrl.github.io/ungrowth/the-tyranny-of-potential/)
-
----
-
-What's one "should" you've been carrying that you suspect isn't actually yours? I'd love to hear it — hit reply and tell me.
+[CTA]
+Read the full article → https://mopiagent-ctrl.github.io/ungrowth/the-tyranny-of-potential/

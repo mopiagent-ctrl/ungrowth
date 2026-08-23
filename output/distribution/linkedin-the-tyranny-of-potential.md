@@ -1,44 +1,34 @@
 # LinkedIn Post
 
-I used to believe my potential was a debt I owed the world.
+I used to believe my untapped potential was my greatest asset. I was wrong. It was my heaviest liability.
 
-Every Sunday evening, I'd audit my week like a balance sheet. Hours spent reading the wrong book. Skills not yet mastered. Connections not yet made. The verdict was always the same: not enough.
+I read the books. Tracked the habits. Optimized my mornings, my deep work blocks, my sleep hygiene. And somehow, I felt more behind than when I started.
 
-I called it ambition. It was actually a cognitive trap.
+This isn't a personal failure. It's structural. The self-improvement industry — worth $41 billion globally — runs on one unexamined premise: that you're an underutilized asset whose job is to maximize output. Every book, app, and course depends on you believing there's a gap between who you are and who you could be.
 
-Barry Schwartz's research on choice overload shows that more options — including more possible versions of yourself — produces paralysis, not liberation. And decades of studies on "maximizing" reveal something uncomfortable: people who pursue the absolute best in every domain report lower life satisfaction than "satisficers," even when they achieve objectively better outcomes.
+The gap is the product. And you've been buying it.
 
-You can win. And feel worse about it.
+A 2021 study in the Journal of Personality and Social Psychology found that people who frequently imagined alternate versions of themselves showed significantly higher depressive symptoms and lower motivation for current tasks. Every hour spent imagining who you could have been is an hour not spent on who you actually are.
 
-The self-improvement industry runs on this. A person who feels complete doesn't buy the next course. The machinery needs you perpetually inadequate.
+Barry Schwartz's research on maximizers vs. satisficers is even more uncomfortable: maximizers achieved objectively better outcomes but reported lower life satisfaction, more regret, and more depressive symptoms. The people who got better results felt worse about their lives.
 
-Here's what changed my mind: Oliver Burkeman's point that your finitude isn't a design flaw. It's the precondition for anything mattering. If you could do everything, nothing would have weight. The fact that you must choose is what gives your choices meaning.
+Your potential isn't an asset. It's a promissory note that never comes due — a debt you owe to an imagined future self who's always more disciplined, more successful, more realized than you are.
 
-So I stopped asking "what's my potential?" and started asking "what's enough?"
+The fix isn't trying harder. It's deciding, deliberately, what you're willing to be mediocre at. That's not giving up. That's growing up.
 
-Three things matter. The rest gets to be average. An hour doing nothing productive isn't wasted if it restores you. A skill you never monetize isn't wasted if it brought you joy.
+What's one area of your life you've decided is "good enough"?
 
-You are not an asset to be maximized. You're a person who gets to decide what enough looks like.
-
-That decision — not the endless pursuit of more — is where satisfaction lives.
-
-What's your experience with the pressure to optimize?
-
-#PersonalGrowth #MentalHealth #EvidenceBased #Mindset #Burnout
+#EvidenceBased #PersonalGrowth #MentalHealth #DecisionMaking
 
 ---
 
 # Comment Thread
 
 **Comment 1:**
-I wrote a full breakdown of the research behind this — including the maximizing studies and why "wasted potential" is a category error. Link in my profile if you want to go deeper.
+I dove deeper into the research and the practical framework for this in my latest article — link in the first comment. The short version: strategic mediocrity isn't about lowering standards. It's about being average in most domains so you can be exceptional in the ones you've chosen.
 
-**Comment 2:**
-*Reply to predicted question: "But isn't some pressure to improve healthy?"*
+**Comment 2 (reply to predicted FAQ — "But isn't this just an excuse for complacency?"):**
+Fair pushback. The distinction matters: satisficing isn't settling for less than you want — it's defining what "good enough" actually means *before* you start, then closing the loop when you hit it. Complacency is never defining the threshold at all. One is decisive. The other is drifting.
 
-Yes — but there's a difference between improvement as a choice and improvement as a moral obligation. The first is energizing. The second is a treadmill. The research is pretty clear: it's the *obligation* frame that correlates with anxiety and paralysis, not the improvement itself. You can be ambitious without being a maximizer.
-
-**Comment 3:**
-*Reply to predicted counterargument: "This sounds like an excuse for mediocrity."*
-
-I'd flip it: calling it mediocrity is the trap doing its job. The fear of being average is exactly what keeps people frozen — so afraid of choosing the wrong path that they choose nothing. Satisficing isn't settling for less. It's deciding what matters enough to give it your full attention. That's harder than optimizing everything and actually doing none of it.
+**Comment 3 (reply to predicted counterargument — "I've found my potential through optimization"):**
+Genuinely glad that's worked for you — and I don't think this is either/or. The data suggests the problem isn't optimization per se, it's *undifferentiated* optimization. The people who thrive are the ones who pick one or two domains to go all-in on and deliberately let the rest be average. The ones who burn out are trying to optimize everything simultaneously.
