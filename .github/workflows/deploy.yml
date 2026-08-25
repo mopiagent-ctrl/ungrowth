@@ -1,0 +1,28 @@
+name: Deploy blog to GitHub Pages
+
+"on":
+  push:
+    branches: [main]
+    paths: ["blog/**"]
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Deploy blog to gh-pages
+        run: |
+          git config user.name "mopi"
+          git config user.email "mopiagent-ctrl@users.noreply.github.com"
+          git checkout --orphan gh-pages-tmp
+          rm -f .git/index
+          cp -r blog/* .
+          git add -A
+          git commit -m "deploy: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push origin gh-pages-tmp:gh-pages --force
